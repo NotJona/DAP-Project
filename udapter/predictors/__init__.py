@@ -1,0 +1,1 @@
+from udapter.predictors.udify_predictor import UdifyPredictor
