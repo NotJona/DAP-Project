@@ -100,6 +100,8 @@ def get_ud_treebank_files(dataset_dir: str, treebanks: List[str] = None) -> Dict
     datasets = {}
     treebanks = os.listdir(dataset_dir) if not treebanks else treebanks
     for treebank in treebanks:
+        if treebank == '.DS_Store':
+            continue
         treebank_path = os.path.join(dataset_dir, treebank)
         conllu_files = [file for file in sorted(os.listdir(treebank_path)) if file.endswith(".conllu")]
 

@@ -1,3 +1,13 @@
+sv
+zh
+ja
+it
+ko
+eu
 en
-ja 
-vi
+fi
+tr
+hi
+ru
+ar
+he
