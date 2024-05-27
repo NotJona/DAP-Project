@@ -494,3 +494,4 @@ def _load(config: Params,
         model.cpu()
 
     return model
+

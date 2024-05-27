@@ -146,7 +146,7 @@
       "milestones": [0, 1, 15, 20, 30, 40],
       "gamma": 0.5
     },
-    "num_epochs": 50,
+    "num_epochs": 1,
     "patience": 50,
     "validation_metric": "+.run/.sum",
     "should_log_learning_rate": false,
