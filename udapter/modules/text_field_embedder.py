@@ -105,6 +105,7 @@ class UdifyTextFieldEmbedder(TextFieldEmbedder):
                 embedder = TimeDistributed(embedder)
             token_vectors = embedder(*tensors)
 
+            token_vectors = token_vectors.float()
             return token_vectors
 
         embedded_representations = []

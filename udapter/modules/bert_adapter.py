@@ -519,7 +519,6 @@ class BertEmbedder(TokenEmbedder):
         if not lang_ids is None:
             lang_set = set(lang_ids.flatten().tolist())
             assert len(lang_set) == 1, 'not all tokens from same language in a batch'
-            lang_embedding = lang_embedding.double() if lang_embedding is not None else None
             lang_embedding = self.language_embedder(next(iter(lang_ids)))
 
         # input_ids may have extra dimensions, so we reshape down to 2-d
