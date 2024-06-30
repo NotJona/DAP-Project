@@ -25,7 +25,7 @@ parser.add_argument("input_file", type=str, help="The input file to predict")
 parser.add_argument("pred_file", type=str, help="The output prediction file")
 parser.add_argument("--eval_file", default=None, type=str,
                     help="If set, evaluate the prediction and store it in the given file")
-parser.add_argument("--device", default=0, type=int, help="CUDA device number; set to -1 for CPU")
+parser.add_argument("--device", default=-1, type=int, help="CUDA device number; set to -1 for CPU")
 parser.add_argument("--batch_size", default=1, type=int, help="The size of each prediction batch")
 parser.add_argument("--lazy", action="store_true", help="Lazy load dataset")
 
@@ -55,3 +55,4 @@ if not args.eval_file:
 else:
     util.predict_and_evaluate_model_with_archive("udapter_predictor", params, archive_dir, args.input_file,
                                                  args.pred_file, args.eval_file, batch_size=args.batch_size)
+
