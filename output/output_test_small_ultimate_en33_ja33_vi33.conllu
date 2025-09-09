@@ -1,0 +1,5042 @@
+1	This	_	_	_	_	3	det	_	_	en
+2	Fallujah	_	_	_	_	3	compound	_	_	en
+3	operation	_	_	_	_	5	nsubj	_	_	en
+4	my	_	_	_	_	5	nsubj	_	_	en
+5	turn	_	_	_	_	12	cop	_	_	en
+6	out	_	_	_	_	5	compound:prt	_	_	en
+7	to	_	_	_	_	12	mark	_	_	en
+8	be	_	_	_	_	12	cop	_	_	en
+9	the	_	_	_	_	12	det	_	_	en
+10	most	_	_	_	_	11	advmod	_	_	en
+11	important	_	_	_	_	12	amod	_	_	en
+12	operation	_	_	_	_	0	root	_	_	en
+13	done	_	_	_	_	12	acl	_	_	en
+14	by	_	_	_	_	17	case	_	_	en
+15	the	_	_	_	_	17	det	_	_	en
+16	US	_	_	_	_	17	compound	_	_	en
+17	Military	_	_	_	_	13	obl	_	_	en
+18	since	_	_	_	_	20	case	_	_	en
+19	the	_	_	_	_	20	det	_	_	en
+20	end	_	_	_	_	13	obl	_	_	en
+21	of	_	_	_	_	23	case	_	_	en
+22	the	_	_	_	_	23	det	_	_	en
+23	war	_	_	_	_	20	nmod	_	_	en
+24	.	_	_	_	_	5	punct	_	_	en
+
+1	SCALIA	_	_	_	_	2	nsubj	_	_	en
+2	filed	_	_	_	_	0	root	_	_	en
+3	a	_	_	_	_	5	det	_	_	en
+4	dissenting	_	_	_	_	5	amod	_	_	en
+5	opinion	_	_	_	_	2	obj	_	_	en
+6	,	_	_	_	_	2	punct	_	_	en
+7	in	_	_	_	_	8	case	_	_	en
+8	which	_	_	_	_	12	obl	_	_	en
+9	THOMAS	_	_	_	_	12	nsubj	_	_	en
+10	and	_	_	_	_	11	cc	_	_	en
+11	ALITO	_	_	_	_	9	conj	_	_	en
+12	joined	_	_	_	_	2	parataxis	_	_	en
+13	.	_	_	_	_	2	punct	_	_	en
+
+1	It	_	_	_	_	4	nsubj	_	_	en
+2	is	_	_	_	_	4	cop	_	_	en
+3	now	_	_	_	_	4	advmod	_	_	en
+4	threatening	_	_	_	_	0	root	_	_	en
+5	to	_	_	_	_	6	mark	_	_	en
+6	pull	_	_	_	_	4	xcomp	_	_	en
+7	out	_	_	_	_	6	compound:prt	_	_	en
+8	of	_	_	_	_	12	case	_	_	en
+9	the	_	_	_	_	12	det	_	_	en
+10	Allawi	_	_	_	_	12	compound	_	_	en
+11	caretaker	_	_	_	_	12	compound	_	_	en
+12	government	_	_	_	_	6	obl	_	_	en
+13	.	_	_	_	_	4	punct	_	_	en
+
+1	Waheed	_	_	_	_	0	root	_	_	en
+2	Arafat	_	_	_	_	1	flat	_	_	en
+3	Khan	_	_	_	_	1	flat	_	_	en
+4	,	_	_	_	_	1	punct	_	_	en
+5	24	_	_	_	_	1	list	_	_	en
+6	,	_	_	_	_	1	punct	_	_	en
+7	London	_	_	_	_	1	list	_	_	en
+8	E17	_	_	_	_	1	list	_	_	en
+
+1	Asad	_	_	_	_	0	root	_	_	en
+2	Ansari	_	_	_	_	1	flat	_	_	en
+3	,	_	_	_	_	1	punct	_	_	en
+4	21	_	_	_	_	1	list	_	_	en
+5	,	_	_	_	_	1	punct	_	_	en
+6	Mississauga	_	_	_	_	1	list	_	_	en
+7	;	_	_	_	_	1	punct	_	_	en
+
+1	Ahmad	_	_	_	_	0	root	_	_	en
+2	Mustafa	_	_	_	_	1	flat	_	_	en
+3	Ghany	_	_	_	_	1	flat	_	_	en
+4	,	_	_	_	_	1	punct	_	_	en
+5	21	_	_	_	_	1	list	_	_	en
+6	,	_	_	_	_	1	punct	_	_	en
+7	Mississauga	_	_	_	_	1	list	_	_	en
+8	;	_	_	_	_	1	punct	_	_	en
+
+1	i	_	_	_	_	4	nsubj	_	_	en
+2	'm	_	_	_	_	4	cop	_	_	en
+3	the	_	_	_	_	4	det	_	_	en
+4	king	_	_	_	_	0	root	_	_	en
+
+1	i	_	_	_	_	3	nsubj	_	_	en
+2	can	_	_	_	_	3	aux	_	_	en
+3	think	_	_	_	_	0	root	_	_	en
+4	of	_	_	_	_	7	case	_	_	en
+5	a	_	_	_	_	6	det	_	_	en
+6	few	_	_	_	_	7	amod	_	_	en
+7	things	_	_	_	_	3	obl	_	_	en
+
+1	John	_	_	_	_	0	root	_	_	en
+2	,	_	_	_	_	1	punct	_	_	en
+
+1	I	_	_	_	_	3	nsubj	_	_	en
+2	just	_	_	_	_	3	advmod	_	_	en
+3	got	_	_	_	_	0	root	_	_	en
+4	your	_	_	_	_	5	nmod:poss	_	_	en
+5	email	_	_	_	_	3	obj	_	_	en
+6	and	_	_	_	_	9	cc	_	_	en
+7	I	_	_	_	_	9	nsubj	_	_	en
+8	certainly	_	_	_	_	9	advmod	_	_	en
+9	concur	_	_	_	_	3	conj	_	_	en
+10	with	_	_	_	_	11	case	_	_	en
+11	Jeff	_	_	_	_	9	obl	_	_	en
+12	making	_	_	_	_	11	acl	_	_	en
+13	the	_	_	_	_	14	det	_	_	en
+14	call	_	_	_	_	12	obj	_	_	en
+15	.	_	_	_	_	3	punct	_	_	en
+
+1	When	_	_	_	_	3	mark	_	_	en
+2	you	_	_	_	_	3	nsubj	_	_	en
+3	discussed	_	_	_	_	8	advcl	_	_	en
+4	it	_	_	_	_	3	obj	_	_	en
+5	,	_	_	_	_	8	punct	_	_	en
+6	i	_	_	_	_	8	nsubj	_	_	en
+7	was	_	_	_	_	8	aux	_	_	en
+8	trying	_	_	_	_	0	root	_	_	en
+9	to	_	_	_	_	10	mark	_	_	en
+10	think	_	_	_	_	8	xcomp	_	_	en
+11	back	_	_	_	_	10	advmod	_	_	en
+12	to	_	_	_	_	14	case	_	_	en
+13	our	_	_	_	_	14	nmod:poss	_	_	en
+14	remedies	_	_	_	_	10	obl	_	_	en
+15	and	_	_	_	_	16	cc	_	_	en
+16	discussions	_	_	_	_	14	conj	_	_	en
+17	but	_	_	_	_	22	cc	_	_	en
+18	the	_	_	_	_	20	det	_	_	en
+19	3	_	_	_	_	20	nummod	_	_	en
+20	years	_	_	_	_	22	nsubj	_	_	en
+21	have	_	_	_	_	22	aux	_	_	en
+22	made	_	_	_	_	8	conj	_	_	en
+23	it	_	_	_	_	22	obj	_	_	en
+24	difficult	_	_	_	_	22	xcomp	_	_	en
+25	.	_	_	_	_	8	punct	_	_	en
+
+1	I	_	_	_	_	4	nsubj	_	_	en
+2	do	_	_	_	_	4	aux	_	_	en
+3	n't	_	_	_	_	4	advmod	_	_	en
+4	know	_	_	_	_	0	root	_	_	en
+5	if	_	_	_	_	7	mark	_	_	en
+6	there	_	_	_	_	7	expl	_	_	en
+7	is	_	_	_	_	4	advcl	_	_	en
+8	anything	_	_	_	_	7	nsubj	_	_	en
+9	I	_	_	_	_	11	nsubj	_	_	en
+10	can	_	_	_	_	11	aux	_	_	en
+11	do	_	_	_	_	8	acl:relcl	_	_	en
+12	but	_	_	_	_	16	cc	_	_	en
+13	I	_	_	_	_	16	nsubj	_	_	en
+14	'm	_	_	_	_	16	cop	_	_	en
+15	always	_	_	_	_	16	advmod	_	_	en
+16	willing	_	_	_	_	4	conj	_	_	en
+17	to	_	_	_	_	18	mark	_	_	en
+18	help	_	_	_	_	16	xcomp	_	_	en
+19	.	_	_	_	_	4	punct	_	_	en
+
+1	Now	_	_	_	_	4	advmod	_	_	en
+2	they	_	_	_	_	4	nsubj	_	_	en
+3	are	_	_	_	_	4	cop	_	_	en
+4	part	_	_	_	_	0	root	_	_	en
+5	of	_	_	_	_	8	case	_	_	en
+6	your	_	_	_	_	8	nmod:poss	_	_	en
+7	working	_	_	_	_	8	amod	_	_	en
+8	group	_	_	_	_	4	nmod	_	_	en
+9	.	_	_	_	_	4	punct	_	_	en
+
+1	I	_	_	_	_	3	nsubj	_	_	en
+2	'll	_	_	_	_	3	aux	_	_	en
+3	try	_	_	_	_	0	root	_	_	en
+4	to	_	_	_	_	5	mark	_	_	en
+5	get	_	_	_	_	3	xcomp	_	_	en
+6	back	_	_	_	_	5	advmod	_	_	en
+7	to	_	_	_	_	8	case	_	_	en
+8	you	_	_	_	_	5	obl	_	_	en
+9	pronto	_	_	_	_	5	advmod	_	_	en
+10	.	_	_	_	_	3	punct	_	_	en
+
+1	The	_	_	_	_	2	det	_	_	en
+2	goal	_	_	_	_	3	nsubj	_	_	en
+3	is	_	_	_	_	0	root	_	_	en
+4	for	_	_	_	_	5	case	_	_	en
+5	him	_	_	_	_	3	obl	_	_	en
+6	to	_	_	_	_	7	mark	_	_	en
+7	move	_	_	_	_	3	xcomp	_	_	en
+8	on	_	_	_	_	7	compound:prt	_	_	en
+9	with	_	_	_	_	11	case	_	_	en
+10	his	_	_	_	_	11	nmod:poss	_	_	en
+11	life	_	_	_	_	7	obl	_	_	en
+12	and	_	_	_	_	16	cc	_	_	en
+13	for	_	_	_	_	14	case	_	_	en
+14	us	_	_	_	_	7	obl	_	_	en
+15	to	_	_	_	_	16	mark	_	_	en
+16	move	_	_	_	_	7	conj	_	_	en
+17	on	_	_	_	_	16	compound:prt	_	_	en
+18	as	_	_	_	_	16	advmod	_	_	en
+19	well	_	_	_	_	16	advmod	_	_	en
+20	.	_	_	_	_	3	punct	_	_	en
+
+1	Daren	_	_	_	_	0	root	_	_	en
+
+1	?	_	_	_	_	0	root	_	_	en
+
+1	Debra	_	_	_	_	0	root	_	_	en
+2	Perlingiere	_	_	_	_	1	flat	_	_	en
+
+1	Are	_	_	_	_	3	cop	_	_	en
+2	you	_	_	_	_	3	nsubj	_	_	en
+3	free	_	_	_	_	0	root	_	_	en
+4	for	_	_	_	_	5	case	_	_	en
+5	lunch	_	_	_	_	3	obl	_	_	en
+6	today	_	_	_	_	3	advmod	_	_	en
+7	.	_	_	_	_	3	punct	_	_	en
+
+1	Today	_	_	_	_	3	nsubj	_	_	en
+2	is	_	_	_	_	3	cop	_	_	en
+3	good	_	_	_	_	0	root	_	_	en
+4	12:30	_	_	_	_	3	advmod	_	_	en
+5	?	_	_	_	_	3	punct	_	_	en
+
+1	fyi	_	_	_	_	0	root	_	_	en
+
+1	then	_	_	_	_	3	advmod	_	_	en
+2	i	_	_	_	_	3	nsubj	_	_	en
+3	told	_	_	_	_	0	root	_	_	en
+4	her	_	_	_	_	3	obj	_	_	en
+5	i	_	_	_	_	6	nsubj	_	_	en
+6	felt	_	_	_	_	3	ccomp	_	_	en
+7	i	_	_	_	_	10	nsubj	_	_	en
+8	should	_	_	_	_	10	aux	_	_	en
+9	be	_	_	_	_	10	cop	_	_	en
+10	able	_	_	_	_	6	ccomp	_	_	en
+11	to	_	_	_	_	12	mark	_	_	en
+12	screw	_	_	_	_	10	xcomp	_	_	en
+13	missy	_	_	_	_	12	obj	_	_	en
+14	just	_	_	_	_	15	advmod	_	_	en
+15	once	_	_	_	_	12	advmod	_	_	en
+16	.	_	_	_	_	3	punct	_	_	en
+
+1	Description	_	_	_	_	0	root	_	_	en
+2	:	_	_	_	_	1	punct	_	_	en
+
+1	see	_	_	_	_	0	root	_	_	en
+2	you	_	_	_	_	1	obj	_	_	en
+3	there	_	_	_	_	1	advmod	_	_	en
+4	at	_	_	_	_	5	case	_	_	en
+5	4:00	_	_	_	_	1	obl	_	_	en
+6	unless	_	_	_	_	8	mark	_	_	en
+7	I	_	_	_	_	8	nsubj	_	_	en
+8	call	_	_	_	_	1	advcl	_	_	en
+9	you	_	_	_	_	8	obj	_	_	en
+
+1	-	_	_	_	_	4	punct	_	_	en
+2	REDLINE	_	_	_	_	4	compound	_	_	en
+3	GPSA	_	_	_	_	4	compound	_	_	en
+4	Guaranty.doc	_	_	_	_	0	root	_	_	en
+
+1	Mark	_	_	_	_	0	root	_	_	en
+
+1	Sheridan	_	_	_	_	0	root	_	_	en
+
+1	Bryan	_	_	_	_	0	root	_	_	en
+2	,	_	_	_	_	1	punct	_	_	en
+
+1	Please	_	_	_	_	2	discourse	_	_	en
+2	let	_	_	_	_	0	root	_	_	en
+3	us	_	_	_	_	2	obj	_	_	en
+4	know	_	_	_	_	2	xcomp	_	_	en
+5	if	_	_	_	_	7	mark	_	_	en
+6	you	_	_	_	_	7	nsubj	_	_	en
+7	need	_	_	_	_	2	advcl	_	_	en
+8	a	_	_	_	_	9	det	_	_	en
+9	change	_	_	_	_	7	obj	_	_	en
+10	so	_	_	_	_	15	mark	_	_	en
+11	that	_	_	_	_	15	mark	_	_	en
+12	the	_	_	_	_	13	det	_	_	en
+13	deals	_	_	_	_	15	nsubj	_	_	en
+14	will	_	_	_	_	15	aux	_	_	en
+15	bridge	_	_	_	_	4	advcl	_	_	en
+16	with	_	_	_	_	19	case	_	_	en
+17	the	_	_	_	_	19	det	_	_	en
+18	correct	_	_	_	_	19	amod	_	_	en
+19	books	_	_	_	_	15	obl	_	_	en
+20	.	_	_	_	_	2	punct	_	_	en
+
+1	Could	_	_	_	_	3	aux	_	_	en
+2	you	_	_	_	_	3	nsubj	_	_	en
+3	run	_	_	_	_	0	root	_	_	en
+4	those	_	_	_	_	8	det	_	_	en
+5	additional	_	_	_	_	8	amod	_	_	en
+6	post	_	_	_	_	8	compound	_	_	en
+7	-	_	_	_	_	8	punct	_	_	en
+8	id's	_	_	_	_	3	obj	_	_	en
+9	?	_	_	_	_	3	punct	_	_	en
+
+1	EY4108.E	_	_	_	_	0	root	_	_	en
+2	PERFORMANCE	_	_	_	_	1	appos	_	_	en
+3	01-Feb-02	_	_	_	_	2	nummod	_	_	en
+4	P	_	_	_	_	1	list	_	_	en
+5	12,514,373	_	_	_	_	4	nummod	_	_	en
+6	-	_	_	_	_	7	punct	_	_	en
+7	$	_	_	_	_	1	list	_	_	en
+8	265,932	_	_	_	_	7	nummod	_	_	en
+
+1	EY4108.I	_	_	_	_	0	root	_	_	en
+2	PERFORMANCE	_	_	_	_	1	appos	_	_	en
+3	01-Feb-02	_	_	_	_	2	nummod	_	_	en
+4	P	_	_	_	_	1	list	_	_	en
+5	-	_	_	_	_	4	punct	_	_	en
+6	10,274,494	_	_	_	_	4	appos	_	_	en
+7	-	_	_	_	_	8	punct	_	_	en
+8	$	_	_	_	_	4	appos	_	_	en
+9	166,960	_	_	_	_	8	nummod	_	_	en
+
+1	We	_	_	_	_	5	nsubj	_	_	en
+2	will	_	_	_	_	5	aux	_	_	en
+3	still	_	_	_	_	5	advmod	_	_	en
+4	be	_	_	_	_	5	cop	_	_	en
+5	around	_	_	_	_	0	root	_	_	en
+6	to	_	_	_	_	7	mark	_	_	en
+7	assist	_	_	_	_	5	advcl	_	_	en
+8	them	_	_	_	_	7	obj	_	_	en
+9	if	_	_	_	_	10	mark	_	_	en
+10	needed	_	_	_	_	7	advcl	_	_	en
+11	.	_	_	_	_	5	punct	_	_	en
+
+1	I	_	_	_	_	2	nsubj	_	_	en
+2	started	_	_	_	_	0	root	_	_	en
+3	this	_	_	_	_	4	det	_	_	en
+4	page	_	_	_	_	2	obj	_	_	en
+5	to	_	_	_	_	6	mark	_	_	en
+6	help	_	_	_	_	2	advcl	_	_	en
+7	with	_	_	_	_	9	case	_	_	en
+8	my	_	_	_	_	9	nmod:poss	_	_	en
+9	boredom	_	_	_	_	6	obl	_	_	en
+10	.	_	_	_	_	2	punct	_	_	en
+
+1	Along	_	_	_	_	4	case	_	_	en
+2	with	_	_	_	_	4	case	_	_	en
+3	an	_	_	_	_	4	det	_	_	en
+4	area	_	_	_	_	0	root	_	_	en
+5	on	_	_	_	_	7	case	_	_	en
+6	the	_	_	_	_	7	det	_	_	en
+7	page	_	_	_	_	4	nmod	_	_	en
+8	for	_	_	_	_	9	case	_	_	en
+9	those	_	_	_	_	4	nmod	_	_	en
+10	to	_	_	_	_	11	mark	_	_	en
+11	join	_	_	_	_	9	acl	_	_	en
+12	the	_	_	_	_	14	det	_	_	en
+13	mailing	_	_	_	_	14	compound	_	_	en
+14	list	_	_	_	_	11	obj	_	_	en
+15	.	_	_	_	_	4	punct	_	_	en
+
+1	We	_	_	_	_	2	nsubj	_	_	en
+2	have	_	_	_	_	0	root	_	_	en
+3	a	_	_	_	_	6	det	_	_	en
+4	Full	_	_	_	_	5	amod	_	_	en
+5	Color	_	_	_	_	6	compound	_	_	en
+6	Catalog	_	_	_	_	2	obj	_	_	en
+7	and	_	_	_	_	10	cc	_	_	en
+8	Wholesale	_	_	_	_	10	compound	_	_	en
+9	Price	_	_	_	_	10	compound	_	_	en
+10	List	_	_	_	_	6	conj	_	_	en
+11	ready	_	_	_	_	6	acl	_	_	en
+12	to	_	_	_	_	13	mark	_	_	en
+13	mail	_	_	_	_	11	xcomp	_	_	en
+14	to	_	_	_	_	15	case	_	_	en
+15	you	_	_	_	_	13	obl	_	_	en
+16	today	_	_	_	_	13	advmod	_	_	en
+17	!	_	_	_	_	2	punct	_	_	en
+
+1	He	_	_	_	_	3	nsubj:pass	_	_	en
+2	is	_	_	_	_	3	aux:pass	_	_	en
+3	regarded	_	_	_	_	0	root	_	_	en
+4	as	_	_	_	_	5	case	_	_	en
+5	one	_	_	_	_	3	obl	_	_	en
+6	of	_	_	_	_	12	case	_	_	en
+7	the	_	_	_	_	12	det	_	_	en
+8	leading	_	_	_	_	12	amod	_	_	en
+9	Avant	_	_	_	_	11	compound	_	_	en
+10	-	_	_	_	_	11	punct	_	_	en
+11	Garde	_	_	_	_	12	compound	_	_	en
+12	artist	_	_	_	_	5	nmod	_	_	en
+13	of	_	_	_	_	15	case	_	_	en
+14	modern	_	_	_	_	15	amod	_	_	en
+15	calligraphy	_	_	_	_	12	nmod	_	_	en
+16	.	_	_	_	_	3	punct	_	_	en
+
+1	Posted	_	_	_	_	0	root	_	_	en
+2	by	_	_	_	_	4	case	_	_	en
+3	Hidden	_	_	_	_	4	amod	_	_	en
+4	Nook	_	_	_	_	1	obl	_	_	en
+5	to	_	_	_	_	7	case	_	_	en
+6	Hidden	_	_	_	_	7	amod	_	_	en
+7	Nook	_	_	_	_	1	obl	_	_	en
+8	at	_	_	_	_	9	case	_	_	en
+9	2/14/2005	_	_	_	_	1	obl	_	_	en
+10	07:03:00	_	_	_	_	11	nummod	_	_	en
+11	PM	_	_	_	_	1	obl	_	_	en
+
+1	Launching	_	_	_	_	6	csubj	_	_	en
+2	this	_	_	_	_	3	det	_	_	en
+3	way	_	_	_	_	1	obj	_	_	en
+4	will	_	_	_	_	6	aux	_	_	en
+5	hopefully	_	_	_	_	6	advmod	_	_	en
+6	avoid	_	_	_	_	0	root	_	_	en
+7	future	_	_	_	_	8	amod	_	_	en
+8	disasters	_	_	_	_	6	obj	_	_	en
+9	,	_	_	_	_	6	punct	_	_	en
+10	giving	_	_	_	_	6	advcl	_	_	en
+11	more	_	_	_	_	12	amod	_	_	en
+12	support	_	_	_	_	10	obj	_	_	en
+13	towards	_	_	_	_	14	case	_	_	en
+14	NASA	_	_	_	_	10	obl	_	_	en
+15	revisiting	_	_	_	_	14	acl	_	_	en
+16	the	_	_	_	_	17	det	_	_	en
+17	stars	_	_	_	_	15	obj	_	_	en
+18	.	_	_	_	_	6	punct	_	_	en
+
+1	-	_	_	_	_	2	punct	_	_	en
+2	Eleanor	_	_	_	_	0	root	_	_	en
+3	Roosevelt	_	_	_	_	2	flat	_	_	en
+
+1	Visit	_	_	_	_	0	root	_	_	en
+2	people	_	_	_	_	1	obj	_	_	en
+3	only	_	_	_	_	6	advmod	_	_	en
+4	once	_	_	_	_	6	advmod	_	_	en
+5	a	_	_	_	_	6	det	_	_	en
+6	year	_	_	_	_	1	obl:tmod	_	_	en
+7	.	_	_	_	_	1	punct	_	_	en
+
+1	"	_	_	_	_	6	punct	_	_	en
+2	By	_	_	_	_	4	case	_	_	en
+3	all	_	_	_	_	4	det	_	_	en
+4	means	_	_	_	_	6	obl	_	_	en
+5	,	_	_	_	_	6	punct	_	_	en
+6	marry	_	_	_	_	0	root	_	_	en
+7	.	_	_	_	_	6	punct	_	_	en
+
+1	------	_	_	_	_	0	root	_	_	en
+
+1	------	_	_	_	_	0	root	_	_	en
+
+1	__________________________________________________	_	_	_	_	0	root	_	_	en
+
+1	shrimp	_	_	_	_	0	root	_	_	en
+
+1	weather	_	_	_	_	0	root	_	_	en
+2	in	_	_	_	_	3	case	_	_	en
+3	december	_	_	_	_	1	nmod	_	_	en
+4	in	_	_	_	_	5	case	_	_	en
+5	Tremblant	_	_	_	_	1	nmod	_	_	en
+6	?	_	_	_	_	1	punct	_	_	en
+
+1	thick	_	_	_	_	3	amod	_	_	en
+2	cut	_	_	_	_	3	amod	_	_	en
+3	bacon	_	_	_	_	0	root	_	_	en
+4	or	_	_	_	_	7	cc	_	_	en
+5	really	_	_	_	_	6	advmod	_	_	en
+6	good	_	_	_	_	7	amod	_	_	en
+7	sausages	_	_	_	_	3	conj	_	_	en
+
+1	All	_	_	_	_	0	root	_	_	en
+2	of	_	_	_	_	3	case	_	_	en
+3	those	_	_	_	_	1	nmod	_	_	en
+4	;D	_	_	_	_	1	punct	_	_	en
+
+1	I	_	_	_	_	5	nsubj	_	_	en
+2	have	_	_	_	_	5	aux	_	_	en
+3	never	_	_	_	_	5	advmod	_	_	en
+4	been	_	_	_	_	5	cop	_	_	en
+5	there	_	_	_	_	0	root	_	_	en
+6	.	_	_	_	_	5	punct	_	_	en
+
+1	What	_	_	_	_	0	root	_	_	en
+2	's	_	_	_	_	1	cop	_	_	en
+3	the	_	_	_	_	4	det	_	_	en
+4	difference	_	_	_	_	1	nsubj	_	_	en
+5	between	_	_	_	_	9	case	_	_	en
+6	Indian	_	_	_	_	9	amod	_	_	en
+7	and	_	_	_	_	8	cc	_	_	en
+8	African	_	_	_	_	9	conj	_	_	en
+9	ringnecks	_	_	_	_	4	nmod	_	_	en
+10	and	_	_	_	_	12	cc	_	_	en
+11	alexandrine	_	_	_	_	12	amod	_	_	en
+12	parrots	_	_	_	_	9	conj	_	_	en
+13	?	_	_	_	_	1	punct	_	_	en
+14	?	_	_	_	_	1	punct	_	_	en
+
+1	i	_	_	_	_	2	nsubj	_	_	en
+2	put	_	_	_	_	0	root	_	_	en
+3	$	_	_	_	_	2	obj	_	_	en
+4	5	_	_	_	_	3	nummod	_	_	en
+5	bucks	_	_	_	_	2	obj	_	_	en
+6	down	_	_	_	_	2	advmod	_	_	en
+7	for	_	_	_	_	8	case	_	_	en
+8	it	_	_	_	_	2	obl	_	_	en
+9	too	_	_	_	_	2	advmod	_	_	en
+10	.	_	_	_	_	2	punct	_	_	en
+
+1	I	_	_	_	_	3	nsubj	_	_	en
+2	'm	_	_	_	_	3	aux	_	_	en
+3	considering	_	_	_	_	0	root	_	_	en
+4	taking	_	_	_	_	3	xcomp	_	_	en
+5	a	_	_	_	_	6	det	_	_	en
+6	job	_	_	_	_	4	obj	_	_	en
+7	with	_	_	_	_	8	case	_	_	en
+8	Steiner	_	_	_	_	6	nmod	_	_	en
+9	and	_	_	_	_	10	cc	_	_	en
+10	noticed	_	_	_	_	3	conj	_	_	en
+11	I	_	_	_	_	12	nsubj	_	_	en
+12	have	_	_	_	_	10	ccomp	_	_	en
+13	to	_	_	_	_	14	mark	_	_	en
+14	pay	_	_	_	_	12	xcomp	_	_	en
+15	for	_	_	_	_	18	case	_	_	en
+16	all	_	_	_	_	18	det	_	_	en
+17	my	_	_	_	_	18	nmod:poss	_	_	en
+18	travel	_	_	_	_	14	obl	_	_	en
+19	.	_	_	_	_	3	punct	_	_	en
+
+1	Prosperity	_	_	_	_	2	compound	_	_	en
+2	POS	_	_	_	_	3	nsubj	_	_	en
+3	makes	_	_	_	_	0	root	_	_	en
+4	the	_	_	_	_	7	det	_	_	en
+5	best	_	_	_	_	7	amod	_	_	en
+6	pos	_	_	_	_	7	compound	_	_	en
+7	systems	_	_	_	_	3	obj	_	_	en
+8	.	_	_	_	_	3	punct	_	_	en
+
+1	thanks	_	_	_	_	0	root	_	_	en
+
+1	Maybe	_	_	_	_	2	advmod	_	_	en
+2	Labour	_	_	_	_	0	root	_	_	en
+3	.	_	_	_	_	2	punct	_	_	en
+
+1	Yes	_	_	_	_	6	discourse	_	_	en
+2	,	_	_	_	_	6	punct	_	_	en
+3	I	_	_	_	_	6	nsubj	_	_	en
+4	have	_	_	_	_	6	aux	_	_	en
+5	usually	_	_	_	_	6	advmod	_	_	en
+6	voted	_	_	_	_	0	root	_	_	en
+7	National	_	_	_	_	6	xcomp	_	_	en
+8	.	_	_	_	_	6	punct	_	_	en
+
+1	Yes	_	_	_	_	0	root	_	_	en
+2	.	_	_	_	_	1	punct	_	_	en
+
+1	I	_	_	_	_	4	nsubj	_	_	en
+2	do	_	_	_	_	4	aux	_	_	en
+3	n't	_	_	_	_	4	advmod	_	_	en
+4	think	_	_	_	_	0	root	_	_	en
+5	it	_	_	_	_	6	nsubj	_	_	en
+6	matters	_	_	_	_	4	ccomp	_	_	en
+
+1	Any	_	_	_	_	2	det	_	_	en
+2	information	_	_	_	_	4	nsubj	_	_	en
+3	would	_	_	_	_	4	aux	_	_	en
+4	help	_	_	_	_	0	root	_	_	en
+5	.	_	_	_	_	4	punct	_	_	en
+
+1	Of	_	_	_	_	3	case	_	_	en
+2	THESE	_	_	_	_	3	det	_	_	en
+3	three	_	_	_	_	8	nmod	_	_	en
+4	,	_	_	_	_	10	punct	_	_	en
+5	it	_	_	_	_	10	nsubj	_	_	en
+6	's	_	_	_	_	10	cop	_	_	en
+7	a	_	_	_	_	10	det	_	_	en
+8	toss	_	_	_	_	10	compound	_	_	en
+9	-	_	_	_	_	10	punct	_	_	en
+10	up	_	_	_	_	0	root	_	_	en
+11	between	_	_	_	_	12	case	_	_	en
+12	Royal	_	_	_	_	10	nmod	_	_	en
+13	and	_	_	_	_	14	cc	_	_	en
+14	Carnival	_	_	_	_	12	conj	_	_	en
+15	.	_	_	_	_	10	punct	_	_	en
+
+1	Hi	_	_	_	_	5	discourse	_	_	en
+2	,	_	_	_	_	5	punct	_	_	en
+3	i	_	_	_	_	5	nsubj	_	_	en
+4	'm	_	_	_	_	5	aux	_	_	en
+5	looking	_	_	_	_	0	root	_	_	en
+6	to	_	_	_	_	7	mark	_	_	en
+7	take	_	_	_	_	5	xcomp	_	_	en
+8	myself	_	_	_	_	7	obj	_	_	en
+9	and	_	_	_	_	12	cc	_	_	en
+10	my	_	_	_	_	12	nmod:poss	_	_	en
+11	best	_	_	_	_	12	amod	_	_	en
+12	friend	_	_	_	_	7	obj	_	_	en
+13	and	_	_	_	_	16	cc	_	_	en
+14	his	_	_	_	_	16	nmod:poss	_	_	en
+15	girl	_	_	_	_	16	compound	_	_	en
+16	friend	_	_	_	_	8	conj	_	_	en
+17	and	_	_	_	_	19	cc	_	_	en
+18	this	_	_	_	_	19	det	_	_	en
+19	girl	_	_	_	_	22	nsubj	_	_	en
+20	i	_	_	_	_	22	nsubj	_	_	en
+21	really	_	_	_	_	22	advmod	_	_	en
+22	like	_	_	_	_	5	conj	_	_	en
+23	out	_	_	_	_	22	compound:prt	_	_	en
+24	to	_	_	_	_	25	case	_	_	en
+25	dinner	_	_	_	_	22	obl	_	_	en
+26	for	_	_	_	_	28	case	_	_	en
+27	my	_	_	_	_	28	nmod:poss	_	_	en
+28	birthday	_	_	_	_	22	obl	_	_	en
+29	.	_	_	_	_	5	punct	_	_	en
+
+1	Or	_	_	_	_	2	cc	_	_	en
+2	more	_	_	_	_	0	root	_	_	en
+3	if	_	_	_	_	5	mark	_	_	en
+4	you	_	_	_	_	5	nsubj	_	_	en
+5	have	_	_	_	_	2	advcl	_	_	en
+6	drinks	_	_	_	_	5	obj	_	_	en
+7	.	_	_	_	_	2	punct	_	_	en
+
+1	I	_	_	_	_	2	nsubj	_	_	en
+2	have	_	_	_	_	0	root	_	_	en
+3	a	_	_	_	_	5	det	_	_	en
+4	Kodak	_	_	_	_	5	compound	_	_	en
+5	Camera	_	_	_	_	2	obj	_	_	en
+6	(	_	_	_	_	8	punct	_	_	en
+7	10.2	_	_	_	_	8	nummod	_	_	en
+8	Megapixels	_	_	_	_	5	appos	_	_	en
+9	)	_	_	_	_	8	punct	_	_	en
+10	...	_	_	_	_	2	punct	_	_	en
+11	Kodak	_	_	_	_	12	compound	_	_	en
+12	AF	_	_	_	_	15	compound	_	_	en
+13	5x	_	_	_	_	15	nummod	_	_	en
+14	OPTICAL	_	_	_	_	15	compound	_	_	en
+15	LENS	_	_	_	_	2	parataxis	_	_	en
+16	...	_	_	_	_	2	punct	_	_	en
+17	how	_	_	_	_	20	advmod	_	_	en
+18	do	_	_	_	_	20	aux	_	_	en
+19	I	_	_	_	_	20	nsubj	_	_	en
+20	pause	_	_	_	_	2	parataxis	_	_	en
+21	it	_	_	_	_	20	obj	_	_	en
+22	while	_	_	_	_	23	mark	_	_	en
+23	recording	_	_	_	_	20	advcl	_	_	en
+24	?	_	_	_	_	2	punct	_	_	en
+
+1	When	_	_	_	_	3	mark	_	_	en
+2	you	_	_	_	_	3	nsubj	_	_	en
+3	press	_	_	_	_	12	advcl	_	_	en
+4	the	_	_	_	_	5	det	_	_	en
+5	button	_	_	_	_	3	obj	_	_	en
+6	to	_	_	_	_	3	mark	_	_	en
+7	stop	_	_	_	_	3	advcl	_	_	en
+8	recording	_	_	_	_	3	xcomp	_	_	en
+9	the	_	_	_	_	10	det	_	_	en
+10	data	_	_	_	_	12	nsubj:pass	_	_	en
+11	is	_	_	_	_	12	aux:pass	_	_	en
+12	moved	_	_	_	_	0	root	_	_	en
+13	from	_	_	_	_	15	case	_	_	en
+14	the	_	_	_	_	15	det	_	_	en
+15	buffer	_	_	_	_	12	obl	_	_	en
+16	to	_	_	_	_	19	case	_	_	en
+17	the	_	_	_	_	19	det	_	_	en
+18	memory	_	_	_	_	19	compound	_	_	en
+19	card	_	_	_	_	12	obl	_	_	en
+20	-	_	_	_	_	22	punct	_	_	en
+21	no	_	_	_	_	22	det	_	_	en
+22	pause	_	_	_	_	12	conj	_	_	en
+23	.	_	_	_	_	12	punct	_	_	en
+
+1	Nacho	_	_	_	_	4	nsubj	_	_	en
+2	Libre	_	_	_	_	1	flat	_	_	en
+3	is	_	_	_	_	4	cop	_	_	en
+4	suppose	_	_	_	_	0	root	_	_	en
+5	to	_	_	_	_	7	mark	_	_	en
+6	be	_	_	_	_	7	aux:pass	_	_	en
+7	inspired	_	_	_	_	4	xcomp	_	_	en
+8	in	_	_	_	_	9	case	_	_	en
+9	Mexicans	_	_	_	_	7	obl	_	_	en
+10	,	_	_	_	_	13	punct	_	_	en
+11	not	_	_	_	_	13	advmod	_	_	en
+12	in	_	_	_	_	13	case	_	_	en
+13	Argentineans	_	_	_	_	7	obl	_	_	en
+14	.	_	_	_	_	4	punct	_	_	en
+
+1	Call	_	_	_	_	8	csubj	_	_	en
+2	a	_	_	_	_	3	det	_	_	en
+3	vet	_	_	_	_	1	obj	_	_	en
+4	would	_	_	_	_	8	aux	_	_	en
+5	be	_	_	_	_	8	cop	_	_	en
+6	a	_	_	_	_	8	det	_	_	en
+7	good	_	_	_	_	8	amod	_	_	en
+8	idea	_	_	_	_	0	root	_	_	en
+9	with	_	_	_	_	12	case	_	_	en
+10	a	_	_	_	_	12	det	_	_	en
+11	sick	_	_	_	_	12	amod	_	_	en
+12	dog	_	_	_	_	8	nmod	_	_	en
+
+1	or	_	_	_	_	3	cc	_	_	en
+2	has	_	_	_	_	3	aux	_	_	en
+3	acquired	_	_	_	_	0	root	_	_	en
+4	some	_	_	_	_	5	det	_	_	en
+5	type	_	_	_	_	3	obj	_	_	en
+6	of	_	_	_	_	7	case	_	_	en
+7	disease	_	_	_	_	5	nmod	_	_	en
+8	and	_	_	_	_	11	cc	_	_	en
+9	that	_	_	_	_	11	nsubj	_	_	en
+10	too	_	_	_	_	11	advmod	_	_	en
+11	needs	_	_	_	_	3	conj	_	_	en
+12	to	_	_	_	_	14	mark	_	_	en
+13	be	_	_	_	_	14	aux:pass	_	_	en
+14	attended	_	_	_	_	11	xcomp	_	_	en
+15	to	_	_	_	_	14	obl	_	_	en
+16	...	_	_	_	_	3	punct	_	_	en
+
+1	canon	_	_	_	_	3	nsubj	_	_	en
+2	t2i	_	_	_	_	3	nsubj	_	_	en
+3	stops	_	_	_	_	0	root	_	_	en
+4	working	_	_	_	_	3	xcomp	_	_	en
+5	?	_	_	_	_	3	punct	_	_	en
+
+1	Sounds	_	_	_	_	0	root	_	_	en
+2	simple	_	_	_	_	1	xcomp	_	_	en
+3	enough	_	_	_	_	1	xcomp	_	_	en
+4	to	_	_	_	_	5	case	_	_	en
+5	me	_	_	_	_	1	obl	_	_	en
+6	.	_	_	_	_	1	punct	_	_	en
+
+1	You	_	_	_	_	3	nsubj	_	_	en
+2	are	_	_	_	_	3	cop	_	_	en
+3	busy	_	_	_	_	0	root	_	_	en
+4	,	_	_	_	_	3	punct	_	_	en
+5	you	_	_	_	_	8	nsubj	_	_	en
+6	do	_	_	_	_	8	aux	_	_	en
+7	n't	_	_	_	_	8	advmod	_	_	en
+8	have	_	_	_	_	3	conj	_	_	en
+9	to	_	_	_	_	10	mark	_	_	en
+10	sit	_	_	_	_	8	xcomp	_	_	en
+11	face	_	_	_	_	10	advmod	_	_	en
+12	to	_	_	_	_	13	case	_	_	en
+13	face	_	_	_	_	10	obl	_	_	en
+14	to	_	_	_	_	15	mark	_	_	en
+15	try	_	_	_	_	8	advcl	_	_	en
+
+1	got	_	_	_	_	0	root	_	_	en
+2	ta	_	_	_	_	3	mark	_	_	en
+3	go	_	_	_	_	1	xcomp	_	_	en
+4	.	_	_	_	_	1	punct	_	_	en
+
+1	Great	_	_	_	_	2	amod	_	_	en
+2	gym	_	_	_	_	0	root	_	_	en
+3	and	_	_	_	_	5	cc	_	_	en
+4	great	_	_	_	_	5	amod	_	_	en
+5	services	_	_	_	_	2	conj	_	_	en
+6	.	_	_	_	_	2	punct	_	_	en
+
+1	The	_	_	_	_	3	det	_	_	en
+2	best	_	_	_	_	3	amod	_	_	en
+3	pilates	_	_	_	_	0	root	_	_	en
+4	on	_	_	_	_	7	case	_	_	en
+5	the	_	_	_	_	7	det	_	_	en
+6	Gold	_	_	_	_	7	compound	_	_	en
+7	Coast	_	_	_	_	3	nmod	_	_	en
+8	!	_	_	_	_	3	punct	_	_	en
+
+1	Usually	_	_	_	_	3	advmod	_	_	en
+2	very	_	_	_	_	3	advmod	_	_	en
+3	quick	_	_	_	_	0	root	_	_	en
+4	and	_	_	_	_	5	cc	_	_	en
+5	timely	_	_	_	_	3	conj	_	_	en
+6	.	_	_	_	_	3	punct	_	_	en
+
+1	I	_	_	_	_	3	nsubj	_	_	en
+2	just	_	_	_	_	3	advmod	_	_	en
+3	called	_	_	_	_	0	root	_	_	en
+4	this	_	_	_	_	5	det	_	_	en
+5	number	_	_	_	_	3	obj	_	_	en
+6	and	_	_	_	_	12	cc	_	_	en
+7	it	_	_	_	_	12	nsubj	_	_	en
+8	is	_	_	_	_	12	cop	_	_	en
+9	a	_	_	_	_	12	det	_	_	en
+10	Ralph	_	_	_	_	12	nmod:poss	_	_	en
+11	's	_	_	_	_	10	case	_	_	en
+12	Market	_	_	_	_	3	conj	_	_	en
+13	.	_	_	_	_	3	punct	_	_	en
+
+1	Sent	_	_	_	_	0	root	_	_	en
+2	scented	_	_	_	_	3	amod	_	_	en
+3	flowers	_	_	_	_	1	obj	_	_	en
+4	home	_	_	_	_	1	advmod	_	_	en
+5	instead	_	_	_	_	7	case	_	_	en
+6	of	_	_	_	_	7	case	_	_	en
+7	postcards	_	_	_	_	1	obl	_	_	en
+8	.	_	_	_	_	1	punct	_	_	en
+
+1	These	_	_	_	_	2	det	_	_	en
+2	guys	_	_	_	_	3	nsubj	_	_	en
+3	took	_	_	_	_	0	root	_	_	en
+4	Customer	_	_	_	_	5	compound	_	_	en
+5	Service	_	_	_	_	3	obj	_	_	en
+6	101	_	_	_	_	5	nummod	_	_	en
+7	from	_	_	_	_	9	case	_	_	en
+8	a	_	_	_	_	9	det	_	_	en
+9	Neanderthal	_	_	_	_	3	obl	_	_	en
+10	.	_	_	_	_	3	punct	_	_	en
+
+1	Nothing	_	_	_	_	4	advmod	_	_	en
+2	too	_	_	_	_	3	advmod	_	_	en
+3	much	_	_	_	_	4	amod	_	_	en
+4	trouble	_	_	_	_	0	root	_	_	en
+5	for	_	_	_	_	6	case	_	_	en
+6	Ian	_	_	_	_	4	nmod	_	_	en
+7	,	_	_	_	_	4	punct	_	_	en
+8	thanks	_	_	_	_	4	advmod	_	_	en
+9	for	_	_	_	_	12	case	_	_	en
+10	a	_	_	_	_	12	det	_	_	en
+11	great	_	_	_	_	12	amod	_	_	en
+12	stay	_	_	_	_	8	obl	_	_	en
+13	.	_	_	_	_	4	punct	_	_	en
+
+1	The	_	_	_	_	10	det	_	_	en
+2	only	_	_	_	_	6	amod	_	_	en
+3	10.0	_	_	_	_	6	compound	_	_	en
+4	"	_	_	_	_	6	punct	_	_	en
+5	Perfect	_	_	_	_	6	amod	_	_	en
+6	Score	_	_	_	_	10	compound	_	_	en
+7	"	_	_	_	_	6	punct	_	_	en
+8	AVVO	_	_	_	_	10	compound	_	_	en
+9	Rated	_	_	_	_	10	compound	_	_	en
+10	Attorney	_	_	_	_	0	root	_	_	en
+11	I	_	_	_	_	14	nsubj	_	_	en
+12	Have	_	_	_	_	14	aux	_	_	en
+13	Ever	_	_	_	_	14	advmod	_	_	en
+14	Met	_	_	_	_	10	acl:relcl	_	_	en
+15	.	_	_	_	_	10	punct	_	_	en
+
+1	If	_	_	_	_	3	mark	_	_	en
+2	you	_	_	_	_	3	nsubj	_	_	en
+3	want	_	_	_	_	12	advcl	_	_	en
+4	the	_	_	_	_	5	det	_	_	en
+5	best	_	_	_	_	3	obj	_	_	en
+6	for	_	_	_	_	8	case	_	_	en
+7	your	_	_	_	_	8	nmod:poss	_	_	en
+8	child	_	_	_	_	5	nmod	_	_	en
+9	,	_	_	_	_	12	punct	_	_	en
+10	do	_	_	_	_	12	aux	_	_	en
+11	n't	_	_	_	_	12	advmod	_	_	en
+12	hesitate	_	_	_	_	0	root	_	_	en
+13	in	_	_	_	_	14	mark	_	_	en
+14	visiting	_	_	_	_	12	advcl	_	_	en
+15	this	_	_	_	_	17	det	_	_	en
+16	wornderful	_	_	_	_	17	amod	_	_	en
+17	school	_	_	_	_	14	obj	_	_	en
+18	.	_	_	_	_	12	punct	_	_	en
+
+1	Just	_	_	_	_	4	advmod	_	_	en
+2	do	_	_	_	_	4	aux	_	_	en
+3	n't	_	_	_	_	4	advmod	_	_	en
+4	go	_	_	_	_	0	root	_	_	en
+5	there	_	_	_	_	4	advmod	_	_	en
+6	.	_	_	_	_	4	punct	_	_	en
+
+1	Bravo	_	_	_	_	0	root	_	_	en
+2	!	_	_	_	_	1	punct	_	_	en
+
+1	Their	_	_	_	_	2	nmod:poss	_	_	en
+2	Thali	_	_	_	_	5	nsubj:pass	_	_	en
+3	was	_	_	_	_	5	aux:pass	_	_	en
+4	not	_	_	_	_	5	advmod	_	_	en
+5	brought	_	_	_	_	0	root	_	_	en
+6	out	_	_	_	_	5	compound:prt	_	_	en
+7	as	_	_	_	_	8	mark	_	_	en
+8	described	_	_	_	_	5	advcl	_	_	en
+9	(	_	_	_	_	11	punct	_	_	en
+10	no	_	_	_	_	11	det	_	_	en
+11	saag	_	_	_	_	8	conj	_	_	en
+12	)	_	_	_	_	11	punct	_	_	en
+13	.	_	_	_	_	5	punct	_	_	en
+
+1	I	_	_	_	_	4	nsubj	_	_	en
+2	would	_	_	_	_	4	aux	_	_	en
+3	n't	_	_	_	_	4	advmod	_	_	en
+4	want	_	_	_	_	0	root	_	_	en
+5	any	_	_	_	_	7	det	_	_	en
+6	other	_	_	_	_	7	amod	_	_	en
+7	company	_	_	_	_	4	obj	_	_	en
+8	in	_	_	_	_	10	case	_	_	en
+9	my	_	_	_	_	10	nmod:poss	_	_	en
+10	time	_	_	_	_	4	obl	_	_	en
+11	of	_	_	_	_	12	case	_	_	en
+12	need	_	_	_	_	10	nmod	_	_	en
+13	.	_	_	_	_	4	punct	_	_	en
+
+1	Definately	_	_	_	_	5	advmod	_	_	en
+2	wo	_	_	_	_	5	aux	_	_	en
+3	n't	_	_	_	_	5	advmod	_	_	en
+4	be	_	_	_	_	5	aux	_	_	en
+5	returning	_	_	_	_	0	root	_	_	en
+6	.	_	_	_	_	5	punct	_	_	en
+
+1	Not	_	_	_	_	2	advmod	_	_	en
+2	impressed	_	_	_	_	0	root	_	_	en
+3	!!!	_	_	_	_	2	punct	_	_	en
+
+1	MFJ	_	_	_	_	2	compound	_	_	en
+2	Inc	_	_	_	_	3	nsubj	_	_	en
+3	transformed	_	_	_	_	0	root	_	_	en
+4	our	_	_	_	_	5	nmod:poss	_	_	en
+5	run	_	_	_	_	3	obj	_	_	en
+6	down	_	_	_	_	8	case	_	_	en
+7	back	_	_	_	_	8	compound	_	_	en
+8	yard	_	_	_	_	5	nmod	_	_	en
+9	into	_	_	_	_	11	case	_	_	en
+10	a	_	_	_	_	11	det	_	_	en
+11	place	_	_	_	_	3	obl	_	_	en
+12	of	_	_	_	_	13	case	_	_	en
+13	beauty	_	_	_	_	11	nmod	_	_	en
+14	.	_	_	_	_	3	punct	_	_	en
+
+1	Do	_	_	_	_	3	aux	_	_	en
+2	n't	_	_	_	_	3	advmod	_	_	en
+3	waste	_	_	_	_	0	root	_	_	en
+4	your	_	_	_	_	5	nmod:poss	_	_	en
+5	money	_	_	_	_	3	obj	_	_	en
+6	on	_	_	_	_	8	case	_	_	en
+7	the	_	_	_	_	8	det	_	_	en
+8	jukebox	_	_	_	_	3	obl	_	_	en
+
+1	Edit	_	_	_	_	6	nsubj	_	_	en
+2	was	_	_	_	_	6	cop	_	_	en
+3	the	_	_	_	_	6	det	_	_	en
+4	best	_	_	_	_	6	amod	_	_	en
+5	massage	_	_	_	_	6	compound	_	_	en
+6	therapist	_	_	_	_	0	root	_	_	en
+7	I	_	_	_	_	10	nsubj	_	_	en
+8	've	_	_	_	_	10	aux	_	_	en
+9	ever	_	_	_	_	10	advmod	_	_	en
+10	had	_	_	_	_	6	acl:relcl	_	_	en
+11	and	_	_	_	_	15	cc	_	_	en
+12	I	_	_	_	_	15	nsubj	_	_	en
+13	would	_	_	_	_	15	aux	_	_	en
+14	HIGHLY	_	_	_	_	15	advmod	_	_	en
+15	recommend	_	_	_	_	6	conj	_	_	en
+16	her	_	_	_	_	15	obj	_	_	en
+17	!	_	_	_	_	6	punct	_	_	en
+
+1	I	_	_	_	_	2	nsubj	_	_	en
+2	love	_	_	_	_	0	root	_	_	en
+3	them	_	_	_	_	2	obj	_	_	en
+4	!!!	_	_	_	_	2	punct	_	_	en
+
+1	I	_	_	_	_	6	nsubj	_	_	en
+2	've	_	_	_	_	6	aux	_	_	en
+3	been	_	_	_	_	6	cop	_	_	en
+4	a	_	_	_	_	6	det	_	_	en
+5	regular	_	_	_	_	6	amod	_	_	en
+6	customer	_	_	_	_	0	root	_	_	en
+7	at	_	_	_	_	9	case	_	_	en
+8	this	_	_	_	_	9	det	_	_	en
+9	store	_	_	_	_	6	nmod	_	_	en
+10	since	_	_	_	_	12	mark	_	_	en
+11	it	_	_	_	_	12	nsubj	_	_	en
+12	opened	_	_	_	_	6	advcl	_	_	en
+13	,	_	_	_	_	15	punct	_	_	en
+14	and	_	_	_	_	15	cc	_	_	en
+15	love	_	_	_	_	6	conj	_	_	en
+16	the	_	_	_	_	17	det	_	_	en
+17	fact	_	_	_	_	15	obj	_	_	en
+18	that	_	_	_	_	25	mark	_	_	en
+19	all	_	_	_	_	25	nsubj	_	_	en
+20	of	_	_	_	_	22	case	_	_	en
+21	the	_	_	_	_	22	det	_	_	en
+22	employees	_	_	_	_	19	nmod	_	_	en
+23	are	_	_	_	_	25	cop	_	_	en
+24	friendly	_	_	_	_	25	amod	_	_	en
+25	locals	_	_	_	_	15	ccomp	_	_	en
+26	.	_	_	_	_	6	punct	_	_	en
+
+1	The	_	_	_	_	2	det	_	_	en
+2	food	_	_	_	_	5	nsubj	_	_	en
+3	is	_	_	_	_	5	cop	_	_	en
+4	always	_	_	_	_	5	advmod	_	_	en
+5	fresh	_	_	_	_	0	root	_	_	en
+6	and	_	_	_	_	7	cc	_	_	en
+7	delicious	_	_	_	_	5	conj	_	_	en
+8	.	_	_	_	_	5	punct	_	_	en
+
+1	They	_	_	_	_	2	nsubj	_	_	en
+2	walked	_	_	_	_	0	root	_	_	en
+3	me	_	_	_	_	2	obj	_	_	en
+4	through	_	_	_	_	7	case	_	_	en
+5	all	_	_	_	_	7	det:predet	_	_	en
+6	the	_	_	_	_	7	det	_	_	en
+7	steps	_	_	_	_	2	obl	_	_	en
+8	involved	_	_	_	_	7	acl	_	_	en
+9	in	_	_	_	_	13	case	_	_	en
+10	the	_	_	_	_	13	det	_	_	en
+11	the	_	_	_	_	13	det	_	_	en
+12	installation	_	_	_	_	13	compound	_	_	en
+13	project	_	_	_	_	7	nmod	_	_	en
+14	so	_	_	_	_	17	mark	_	_	en
+15	that	_	_	_	_	17	mark	_	_	en
+16	there	_	_	_	_	17	expl	_	_	en
+17	were	_	_	_	_	2	advcl	_	_	en
+18	no	_	_	_	_	19	det	_	_	en
+19	surprises	_	_	_	_	17	nsubj	_	_	en
+20	.	_	_	_	_	2	punct	_	_	en
+
+1	It	_	_	_	_	4	nsubj:pass	_	_	en
+2	was	_	_	_	_	4	aux:pass	_	_	en
+3	all	_	_	_	_	4	advmod	_	_	en
+4	sorted	_	_	_	_	0	root	_	_	en
+5	with	_	_	_	_	7	case	_	_	en
+6	no	_	_	_	_	7	det	_	_	en
+7	hassle	_	_	_	_	4	obl	_	_	en
+8	at	_	_	_	_	9	case	_	_	en
+9	all	_	_	_	_	7	nmod	_	_	en
+10	and	_	_	_	_	14	cc	_	_	en
+11	I	_	_	_	_	14	nsubj	_	_	en
+12	'm	_	_	_	_	14	cop	_	_	en
+13	really	_	_	_	_	14	advmod	_	_	en
+14	grateful	_	_	_	_	4	conj	_	_	en
+15	-	_	_	_	_	14	punct	_	_	en
+16	they	_	_	_	_	18	nsubj	_	_	en
+17	were	_	_	_	_	18	cop	_	_	en
+18	fab	_	_	_	_	4	conj	_	_	en
+19	.	_	_	_	_	4	punct	_	_	en
+
+1	I	_	_	_	_	2	nsubj	_	_	en
+2	remain	_	_	_	_	0	root	_	_	en
+3	unhappy	_	_	_	_	2	xcomp	_	_	en
+4	.	_	_	_	_	2	punct	_	_	en
+
+1	Highly	_	_	_	_	2	advmod	_	_	en
+2	recommend	_	_	_	_	0	root	_	_	en
+
+1	I	_	_	_	_	2	nsubj	_	_	en
+2	went	_	_	_	_	0	root	_	_	en
+3	to	_	_	_	_	7	case	_	_	en
+4	this	_	_	_	_	7	det	_	_	en
+5	urgent	_	_	_	_	7	amod	_	_	en
+6	care	_	_	_	_	7	compound	_	_	en
+7	center	_	_	_	_	2	obl	_	_	en
+8	and	_	_	_	_	10	cc	_	_	en
+9	was	_	_	_	_	10	aux:pass	_	_	en
+10	blown	_	_	_	_	2	conj	_	_	en
+11	away	_	_	_	_	10	advmod	_	_	en
+12	with	_	_	_	_	14	case	_	_	en
+13	their	_	_	_	_	14	nmod:poss	_	_	en
+14	service	_	_	_	_	10	obl	_	_	en
+15	.	_	_	_	_	2	punct	_	_	en
+
+1	I	_	_	_	_	4	nsubj	_	_	en
+2	v	_	_	_	_	4	aux	_	_	en
+3	just	_	_	_	_	4	advmod	_	_	en
+4	had	_	_	_	_	0	root	_	_	en
+5	my	_	_	_	_	9	nmod:poss	_	_	en
+6	bmw	_	_	_	_	9	compound	_	_	en
+7	z3	_	_	_	_	9	compound	_	_	en
+8	rear	_	_	_	_	9	compound	_	_	en
+9	window	_	_	_	_	4	obj	_	_	en
+10	replaced	_	_	_	_	9	acl	_	_	en
+11	by	_	_	_	_	13	case	_	_	en
+12	the	_	_	_	_	13	det	_	_	en
+13	guys	_	_	_	_	10	obl	_	_	en
+14	at	_	_	_	_	16	case	_	_	en
+15	kelvin	_	_	_	_	16	compound	_	_	en
+16	trimmers	_	_	_	_	13	nmod	_	_	en
+17	.	_	_	_	_	4	punct	_	_	en
+
+1	Seth	_	_	_	_	0	root	_	_	en
+2	K	_	_	_	_	1	flat	_	_	en
+3	.	_	_	_	_	1	punct	_	_	en
+
+1	しかし	_	_	_	_	9	advmod	_	_	ja
+2	強制	_	_	_	_	9	advcl	_	_	ja
+3	し	_	_	_	_	2	aux	_	_	ja
+4	て	_	_	_	_	2	mark	_	_	ja
+5	い	_	_	_	_	2	aux	_	_	ja
+6	なく	_	_	_	_	2	aux	_	_	ja
+7	て	_	_	_	_	2	mark	_	_	ja
+8	も	_	_	_	_	2	case	_	_	ja
+9	問題	_	_	_	_	0	root	_	_	ja
+10	です	_	_	_	_	9	cop	_	_	ja
+
+1	どの	_	_	_	_	2	amod	_	_	ja
+2	本	_	_	_	_	8	obl	_	_	ja
+3	も	_	_	_	_	2	case	_	_	ja
+4	ツッコミどころ	_	_	_	_	8	nsubj	_	_	ja
+5	が	_	_	_	_	4	case	_	_	ja
+6	山	_	_	_	_	8	obl	_	_	ja
+7	ほど	_	_	_	_	6	case	_	_	ja
+8	あり	_	_	_	_	15	advcl	_	_	ja
+9	,	_	_	_	_	8	punct	_	_	ja
+10	会場	_	_	_	_	11	compound	_	_	ja
+11	内	_	_	_	_	15	nsubj	_	_	ja
+12	が	_	_	_	_	11	case	_	_	ja
+13	爆笑	_	_	_	_	15	nmod	_	_	ja
+14	の	_	_	_	_	13	case	_	_	ja
+15	連続	_	_	_	_	0	root	_	_	ja
+16	でし	_	_	_	_	15	cop	_	_	ja
+17	た	_	_	_	_	15	aux	_	_	ja
+18	。	_	_	_	_	15	punct	_	_	ja
+
+1	抗議	_	_	_	_	2	compound	_	_	ja
+2	デモ	_	_	_	_	4	nmod	_	_	ja
+3	の	_	_	_	_	2	case	_	_	ja
+4	継続	_	_	_	_	6	obj	_	_	ja
+5	を	_	_	_	_	4	case	_	_	ja
+6	宣言	_	_	_	_	10	acl	_	_	ja
+7	し	_	_	_	_	6	aux	_	_	ja
+8	た	_	_	_	_	6	aux	_	_	ja
+9	統一	_	_	_	_	10	compound	_	_	ja
+10	協会	_	_	_	_	25	obl	_	_	ja
+11	,	_	_	_	_	10	punct	_	_	ja
+12	日本	_	_	_	_	25	obl	_	_	ja
+13	で	_	_	_	_	12	case	_	_	ja
+14	も	_	_	_	_	12	case	_	_	ja
+15	韓国	_	_	_	_	16	compound	_	_	ja
+16	東亜日報	_	_	_	_	20	nmod	_	_	ja
+17	の	_	_	_	_	16	case	_	_	ja
+18	様に	_	_	_	_	22	advmod	_	_	ja
+19	襲撃	_	_	_	_	20	compound	_	_	ja
+20	事件	_	_	_	_	22	nsubj	_	_	ja
+21	が	_	_	_	_	20	case	_	_	ja
+22	起こる	_	_	_	_	23	acl	_	_	ja
+23	惧れ	_	_	_	_	25	nsubj	_	_	ja
+24	は	_	_	_	_	23	case	_	_	ja
+25	ない	_	_	_	_	0	root	_	_	ja
+26	の	_	_	_	_	25	mark	_	_	ja
+27	か	_	_	_	_	25	mark	_	_	ja
+28	?	_	_	_	_	25	punct	_	_	ja
+
+1	つい	_	_	_	_	2	advmod	_	_	ja
+2	つい	_	_	_	_	3	acl	_	_	ja
+3	言葉	_	_	_	_	16	obl	_	_	ja
+4	だけ	_	_	_	_	3	case	_	_	ja
+5	で	_	_	_	_	3	case	_	_	ja
+6	机上の空論	_	_	_	_	9	obj	_	_	ja
+7	を	_	_	_	_	6	case	_	_	ja
+8	こね	_	_	_	_	9	advmod	_	_	ja
+9	がちな	_	_	_	_	10	acl	_	_	ja
+10	自分	_	_	_	_	16	nsubj	_	_	ja
+11	は	_	_	_	_	10	case	_	_	ja
+12	,	_	_	_	_	10	punct	_	_	ja
+13	ここ	_	_	_	_	16	nsubj	_	_	ja
+14	は	_	_	_	_	13	case	_	_	ja
+15	激しく	_	_	_	_	16	advmod	_	_	ja
+16	自戒	_	_	_	_	0	root	_	_	ja
+17	です	_	_	_	_	16	cop	_	_	ja
+18	ね	_	_	_	_	16	mark	_	_	ja
+19	...	_	_	_	_	16	punct	_	_	ja
+
+1	当選	_	_	_	_	6	advcl	_	_	ja
+2	し	_	_	_	_	1	aux	_	_	ja
+3	て	_	_	_	_	1	mark	_	_	ja
+4	市長	_	_	_	_	6	iobj	_	_	ja
+5	に	_	_	_	_	4	case	_	_	ja
+6	なっ	_	_	_	_	27	advcl	_	_	ja
+7	て	_	_	_	_	6	mark	_	_	ja
+8	も	_	_	_	_	6	case	_	_	ja
+9	なお	_	_	_	_	27	advmod	_	_	ja
+10	,	_	_	_	_	6	punct	_	_	ja
+11	摂理	_	_	_	_	14	nmod	_	_	ja
+12	と	_	_	_	_	11	case	_	_	ja
+13	の	_	_	_	_	11	case	_	_	ja
+14	関係	_	_	_	_	16	obj	_	_	ja
+15	を	_	_	_	_	14	case	_	_	ja
+16	明らか	_	_	_	_	21	advcl	_	_	ja
+17	に	_	_	_	_	16	aux	_	_	ja
+18	し	_	_	_	_	16	aux	_	_	ja
+19	よう	_	_	_	_	16	aux	_	_	ja
+20	と	_	_	_	_	16	mark	_	_	ja
+21	し	_	_	_	_	27	csubj	_	_	ja
+22	ない	_	_	_	_	21	aux	_	_	ja
+23	の	_	_	_	_	21	mark	_	_	ja
+24	は	_	_	_	_	21	case	_	_	ja
+25	,	_	_	_	_	21	punct	_	_	ja
+26	とても	_	_	_	_	27	advmod	_	_	ja
+27	残念	_	_	_	_	0	root	_	_	ja
+28	。	_	_	_	_	27	punct	_	_	ja
+
+1	身勝手	_	_	_	_	0	root	_	_	ja
+2	すぎる	_	_	_	_	1	aux	_	_	ja
+3	。	_	_	_	_	1	punct	_	_	ja
+
+1	愛人	_	_	_	_	3	nsubj	_	_	ja
+2	が	_	_	_	_	1	case	_	_	ja
+3	い	_	_	_	_	5	advcl	_	_	ja
+4	たら	_	_	_	_	3	aux	_	_	ja
+5	怒る	_	_	_	_	0	root	_	_	ja
+6	でしょ	_	_	_	_	5	cop	_	_	ja
+7	。	_	_	_	_	5	punct	_	_	ja
+
+1	キリスト教	_	_	_	_	2	compound	_	_	ja
+2	世界	_	_	_	_	31	obl	_	_	ja
+3	で	_	_	_	_	2	case	_	_	ja
+4	も	_	_	_	_	2	case	_	_	ja
+5	,	_	_	_	_	2	punct	_	_	ja
+6	たとえば	_	_	_	_	31	advmod	_	_	ja
+7	アメリカ	_	_	_	_	19	obl	_	_	ja
+8	で	_	_	_	_	7	case	_	_	ja
+9	は	_	_	_	_	7	case	_	_	ja
+10	大統領	_	_	_	_	19	nsubj	_	_	ja
+11	は	_	_	_	_	10	case	_	_	ja
+12	宣誓	_	_	_	_	13	compound	_	_	ja
+13	式	_	_	_	_	19	obl	_	_	ja
+14	で	_	_	_	_	13	case	_	_	ja
+15	聖書	_	_	_	_	19	iobj	_	_	ja
+16	に	_	_	_	_	15	case	_	_	ja
+17	手	_	_	_	_	19	obj	_	_	ja
+18	を	_	_	_	_	17	case	_	_	ja
+19	置く	_	_	_	_	31	advcl	_	_	ja
+20	し	_	_	_	_	19	aux	_	_	ja
+21	,	_	_	_	_	19	punct	_	_	ja
+22	共和党	_	_	_	_	24	nmod	_	_	ja
+23	の	_	_	_	_	22	case	_	_	ja
+24	選挙運動	_	_	_	_	31	obl	_	_	ja
+25	で	_	_	_	_	24	case	_	_	ja
+26	は	_	_	_	_	24	case	_	_	ja
+27	キリスト教会	_	_	_	_	31	nsubj	_	_	ja
+28	が	_	_	_	_	27	case	_	_	ja
+29	力	_	_	_	_	31	obj	_	_	ja
+30	を	_	_	_	_	29	case	_	_	ja
+31	持っ	_	_	_	_	0	root	_	_	ja
+32	て	_	_	_	_	31	mark	_	_	ja
+33	いる	_	_	_	_	31	aux	_	_	ja
+34	。	_	_	_	_	31	punct	_	_	ja
+
+1	奇しくも	_	_	_	_	7	advmod	_	_	ja
+2	,	_	_	_	_	1	punct	_	_	ja
+3	今年	_	_	_	_	5	compound	_	_	ja
+4	1月	_	_	_	_	5	nummod	_	_	ja
+5	付け	_	_	_	_	7	nmod	_	_	ja
+6	の	_	_	_	_	5	case	_	_	ja
+7	最新号	_	_	_	_	0	root	_	_	ja
+8	です	_	_	_	_	7	cop	_	_	ja
+9	。	_	_	_	_	7	punct	_	_	ja
+
+1	一番	_	_	_	_	3	nmod	_	_	ja
+2	の	_	_	_	_	1	case	_	_	ja
+3	方法	_	_	_	_	5	nsubj	_	_	ja
+4	は	_	_	_	_	3	case	_	_	ja
+5	煎じる	_	_	_	_	0	root	_	_	ja
+6	こと	_	_	_	_	5	aux	_	_	ja
+7	です	_	_	_	_	5	cop	_	_	ja
+8	。	_	_	_	_	5	punct	_	_	ja
+
+1	事前	_	_	_	_	24	iobj	_	_	ja
+2	に	_	_	_	_	1	case	_	_	ja
+3	海老澤	_	_	_	_	4	compound	_	_	ja
+4	代表	_	_	_	_	24	obl	_	_	ja
+5	から	_	_	_	_	4	case	_	_	ja
+6	は	_	_	_	_	4	case	_	_	ja
+7	“	_	_	_	_	9	punct	_	_	ja
+8	40	_	_	_	_	9	nummod	_	_	ja
+9	歳	_	_	_	_	12	obl	_	_	ja
+10	くらい	_	_	_	_	9	case	_	_	ja
+11	と	_	_	_	_	9	case	_	_	ja
+12	お若い	_	_	_	_	24	advcl	_	_	ja
+13	けれど	_	_	_	_	12	aux	_	_	ja
+14	,	_	_	_	_	12	punct	_	_	ja
+15	とても	_	_	_	_	20	advmod	_	_	ja
+16	家系	_	_	_	_	18	nmod	_	_	ja
+17	の	_	_	_	_	16	case	_	_	ja
+18	こと	_	_	_	_	20	iobj	_	_	ja
+19	に	_	_	_	_	18	case	_	_	ja
+20	詳しい	_	_	_	_	21	acl	_	_	ja
+21	先生	_	_	_	_	24	obl	_	_	ja
+22	”	_	_	_	_	21	punct	_	_	ja
+23	と	_	_	_	_	21	case	_	_	ja
+24	聞かさ	_	_	_	_	0	root	_	_	ja
+25	れ	_	_	_	_	24	aux	_	_	ja
+26	て	_	_	_	_	24	mark	_	_	ja
+27	い	_	_	_	_	24	aux	_	_	ja
+28	た	_	_	_	_	24	aux	_	_	ja
+29	。	_	_	_	_	24	punct	_	_	ja
+
+1	“	_	_	_	_	2	punct	_	_	ja
+2	心筋梗塞	_	_	_	_	4	advcl	_	_	ja
+3	に	_	_	_	_	2	case	_	_	ja
+4	なっ	_	_	_	_	11	advcl	_	_	ja
+5	た	_	_	_	_	4	aux	_	_	ja
+6	が	_	_	_	_	4	mark	_	_	ja
+7	神様	_	_	_	_	11	iobj	_	_	ja
+8	に	_	_	_	_	7	aux	_	_	ja
+9	命	_	_	_	_	11	obj	_	_	ja
+10	を	_	_	_	_	9	case	_	_	ja
+11	救っ	_	_	_	_	0	root	_	_	ja
+12	て	_	_	_	_	11	mark	_	_	ja
+13	いただい	_	_	_	_	11	aux	_	_	ja
+14	た	_	_	_	_	11	aux	_	_	ja
+15	”	_	_	_	_	11	punct	_	_	ja
+
+1	広告	_	_	_	_	2	compound	_	_	ja
+2	審査部	_	_	_	_	5	nmod	_	_	ja
+3	へ	_	_	_	_	2	case	_	_	ja
+4	の	_	_	_	_	2	case	_	_	ja
+5	取り次ぎ	_	_	_	_	15	nsubj	_	_	ja
+6	は	_	_	_	_	5	case	_	_	ja
+7	読者	_	_	_	_	8	compound	_	_	ja
+8	センター	_	_	_	_	10	nmod	_	_	ja
+9	の	_	_	_	_	8	case	_	_	ja
+10	判断	_	_	_	_	12	iobj	_	_	ja
+11	に	_	_	_	_	10	case	_	_	ja
+12	委ねる	_	_	_	_	15	acl	_	_	ja
+13	と	_	_	_	_	12	case	_	_	ja
+14	の	_	_	_	_	12	case	_	_	ja
+15	こと	_	_	_	_	0	root	_	_	ja
+16	。	_	_	_	_	15	punct	_	_	ja
+
+1	どうぞ	_	_	_	_	4	advmod	_	_	ja
+2	取材	_	_	_	_	4	iobj	_	_	ja
+3	に	_	_	_	_	2	case	_	_	ja
+4	来	_	_	_	_	0	root	_	_	ja
+5	て	_	_	_	_	4	mark	_	_	ja
+6	ください	_	_	_	_	4	aux	_	_	ja
+7	。	_	_	_	_	4	punct	_	_	ja
+
+1	ファン	_	_	_	_	3	nmod	_	_	ja
+2	の	_	_	_	_	1	case	_	_	ja
+3	皆様	_	_	_	_	8	iobj	_	_	ja
+4	に	_	_	_	_	3	case	_	_	ja
+5	は	_	_	_	_	3	case	_	_	ja
+6	混乱	_	_	_	_	8	obj	_	_	ja
+7	を	_	_	_	_	6	case	_	_	ja
+8	招い	_	_	_	_	13	advcl	_	_	ja
+9	て	_	_	_	_	8	mark	_	_	ja
+10	しまい	_	_	_	_	8	aux	_	_	ja
+11	,	_	_	_	_	8	punct	_	_	ja
+12	誠に	_	_	_	_	13	advmod	_	_	ja
+13	申し訳	_	_	_	_	0	root	_	_	ja
+14	ござい	_	_	_	_	13	aux	_	_	ja
+15	ませ	_	_	_	_	13	aux	_	_	ja
+16	ん	_	_	_	_	13	aux	_	_	ja
+17	。	_	_	_	_	13	punct	_	_	ja
+
+1	過去	_	_	_	_	17	iobj	_	_	ja
+2	に	_	_	_	_	1	aux	_	_	ja
+3	自ら	_	_	_	_	5	nsubj	_	_	ja
+4	が	_	_	_	_	3	case	_	_	ja
+5	主催	_	_	_	_	11	acl	_	_	ja
+6	し	_	_	_	_	5	aux	_	_	ja
+7	た	_	_	_	_	5	aux	_	_	ja
+8	飯田	_	_	_	_	9	compound	_	_	ja
+9	氏	_	_	_	_	11	nmod	_	_	ja
+10	の	_	_	_	_	9	case	_	_	ja
+11	講演	_	_	_	_	13	nmod	_	_	ja
+12	の	_	_	_	_	11	case	_	_	ja
+13	映像	_	_	_	_	17	obl	_	_	ja
+14	も	_	_	_	_	13	case	_	_	ja
+15	YouTube	_	_	_	_	17	obl	_	_	ja
+16	から	_	_	_	_	15	case	_	_	ja
+17	削除	_	_	_	_	0	root	_	_	ja
+18	し	_	_	_	_	17	aux	_	_	ja
+19	まし	_	_	_	_	17	aux	_	_	ja
+20	た	_	_	_	_	17	aux	_	_	ja
+21	。	_	_	_	_	17	punct	_	_	ja
+
+1	もう	_	_	_	_	3	det	_	_	ja
+2	一	_	_	_	_	3	nummod	_	_	ja
+3	つ	_	_	_	_	5	obl	_	_	ja
+4	びっくり	_	_	_	_	5	advcl	_	_	ja
+5	し	_	_	_	_	9	ccomp	_	_	ja
+6	た	_	_	_	_	5	aux	_	_	ja
+7	こと	_	_	_	_	5	aux	_	_	ja
+8	と	_	_	_	_	5	case	_	_	ja
+9	言え	_	_	_	_	26	advcl	_	_	ja
+10	ば	_	_	_	_	9	mark	_	_	ja
+11	,	_	_	_	_	9	punct	_	_	ja
+12	公立学校	_	_	_	_	14	nmod	_	_	ja
+13	の	_	_	_	_	12	case	_	_	ja
+14	中	_	_	_	_	26	iobj	_	_	ja
+15	に	_	_	_	_	14	case	_	_	ja
+16	は	_	_	_	_	14	case	_	_	ja
+17	保育所	_	_	_	_	19	nsubj	_	_	ja
+18	が	_	_	_	_	17	case	_	_	ja
+19	併設	_	_	_	_	24	acl	_	_	ja
+20	さ	_	_	_	_	19	aux	_	_	ja
+21	れ	_	_	_	_	19	aux	_	_	ja
+22	て	_	_	_	_	19	mark	_	_	ja
+23	いる	_	_	_	_	19	aux	_	_	ja
+24	ところ	_	_	_	_	26	nsubj	_	_	ja
+25	が	_	_	_	_	24	case	_	_	ja
+26	ある	_	_	_	_	0	root	_	_	ja
+27	という	_	_	_	_	26	case	_	_	ja
+28	こと	_	_	_	_	26	aux	_	_	ja
+29	です	_	_	_	_	26	cop	_	_	ja
+30	。	_	_	_	_	26	punct	_	_	ja
+
+1	だから	_	_	_	_	13	advmod	_	_	ja
+2	まあ	_	_	_	_	13	advmod	_	_	ja
+3	,	_	_	_	_	2	punct	_	_	ja
+4	もう	_	_	_	_	13	advmod	_	_	ja
+5	,	_	_	_	_	4	punct	_	_	ja
+6	“	_	_	_	_	7	punct	_	_	ja
+7	殺っ	_	_	_	_	13	advcl	_	_	ja
+8	て	_	_	_	_	7	mark	_	_	ja
+9	くれ	_	_	_	_	7	aux	_	_	ja
+10	”	_	_	_	_	7	punct	_	_	ja
+11	と	_	_	_	_	7	case	_	_	ja
+12	は	_	_	_	_	7	case	_	_	ja
+13	言っ	_	_	_	_	0	root	_	_	ja
+14	て	_	_	_	_	13	mark	_	_	ja
+15	おい	_	_	_	_	13	aux	_	_	ja
+16	た	_	_	_	_	13	aux	_	_	ja
+17	から	_	_	_	_	13	mark	_	_	ja
+18	。	_	_	_	_	13	punct	_	_	ja
+
+1	どう	_	_	_	_	2	advmod	_	_	ja
+2	見	_	_	_	_	10	advcl	_	_	ja
+3	て	_	_	_	_	2	mark	_	_	ja
+4	も	_	_	_	_	2	case	_	_	ja
+5	幸福	_	_	_	_	8	nmod	_	_	ja
+6	の	_	_	_	_	5	case	_	_	ja
+7	科学	_	_	_	_	8	compound	_	_	ja
+8	出版	_	_	_	_	10	nmod	_	_	ja
+9	の	_	_	_	_	8	case	_	_	ja
+10	広告	_	_	_	_	0	root	_	_	ja
+11	です	_	_	_	_	10	cop	_	_	ja
+12	。	_	_	_	_	10	punct	_	_	ja
+
+1	当初	_	_	_	_	36	nsubj	_	_	ja
+2	、	_	_	_	_	1	punct	_	_	ja
+3	アメリカ映画	_	_	_	_	5	obl	_	_	ja
+4	と	_	_	_	_	3	case	_	_	ja
+5	し	_	_	_	_	8	acl	_	_	ja
+6	て	_	_	_	_	5	mark	_	_	ja
+7	作る	_	_	_	_	8	acl	_	_	ja
+8	発想	_	_	_	_	10	obl	_	_	ja
+9	から	_	_	_	_	8	case	_	_	ja
+10	始まっ	_	_	_	_	16	advcl	_	_	ja
+11	た	_	_	_	_	10	aux	_	_	ja
+12	ので	_	_	_	_	10	mark	_	_	ja
+13	英語	_	_	_	_	14	compound	_	_	ja
+14	映画	_	_	_	_	16	iobj	_	_	ja
+15	に	_	_	_	_	14	case	_	_	ja
+16	し	_	_	_	_	36	advcl	_	_	ja
+17	た	_	_	_	_	16	aux	_	_	ja
+18	が	_	_	_	_	16	mark	_	_	ja
+19	、	_	_	_	_	16	punct	_	_	ja
+20	舞台	_	_	_	_	24	iobj	_	_	ja
+21	に	_	_	_	_	20	case	_	_	ja
+22	ニューヨーク	_	_	_	_	24	obj	_	_	ja
+23	を	_	_	_	_	22	case	_	_	ja
+24	選ば	_	_	_	_	32	csubj	_	_	ja
+25	なかっ	_	_	_	_	24	aux	_	_	ja
+26	た	_	_	_	_	24	aux	_	_	ja
+27	の	_	_	_	_	24	mark	_	_	ja
+28	は	_	_	_	_	24	case	_	_	ja
+29	、	_	_	_	_	24	punct	_	_	ja
+30	東京	_	_	_	_	32	obj	_	_	ja
+31	を	_	_	_	_	30	case	_	_	ja
+32	壊す	_	_	_	_	36	ccomp	_	_	ja
+33	べき	_	_	_	_	32	aux	_	_	ja
+34	だ	_	_	_	_	32	cop	_	_	ja
+35	と	_	_	_	_	32	case	_	_	ja
+36	思っ	_	_	_	_	0	root	_	_	ja
+37	た	_	_	_	_	36	aux	_	_	ja
+38	から	_	_	_	_	36	mark	_	_	ja
+39	。	_	_	_	_	36	punct	_	_	ja
+
+1	記者	_	_	_	_	5	nsubj	_	_	ja
+2	が	_	_	_	_	1	case	_	_	ja
+3	アジア	_	_	_	_	5	obj	_	_	ja
+4	を	_	_	_	_	3	case	_	_	ja
+5	飛び回っ	_	_	_	_	16	advcl	_	_	ja
+6	て	_	_	_	_	5	mark	_	_	ja
+7	いる	_	_	_	_	5	aux	_	_	ja
+8	せい	_	_	_	_	5	aux	_	_	ja
+9	か	_	_	_	_	5	mark	_	_	ja
+10	、	_	_	_	_	5	punct	_	_	ja
+11	やはり	_	_	_	_	16	advmod	_	_	ja
+12	アジア	_	_	_	_	14	nmod	_	_	ja
+13	の	_	_	_	_	12	case	_	_	ja
+14	方	_	_	_	_	16	nsubj	_	_	ja
+15	が	_	_	_	_	14	case	_	_	ja
+16	多いです	_	_	_	_	0	root	_	_	ja
+17	。	_	_	_	_	16	punct	_	_	ja
+
+1	パク	_	_	_	_	4	nmod	_	_	ja
+2	・	_	_	_	_	1	compound	_	_	ja
+3	チウォン	_	_	_	_	4	compound	_	_	ja
+4	代表	_	_	_	_	16	nsubj	_	_	ja
+5	は	_	_	_	_	4	case	_	_	ja
+6	「	_	_	_	_	8	punct	_	_	ja
+7	25	_	_	_	_	8	nummod	_	_	ja
+8	人	_	_	_	_	11	nmod	_	_	ja
+9	の	_	_	_	_	8	case	_	_	ja
+10	将軍	_	_	_	_	11	compound	_	_	ja
+11	級	_	_	_	_	13	obj	_	_	ja
+12	を	_	_	_	_	11	case	_	_	ja
+13	懲戒	_	_	_	_	16	advcl	_	_	ja
+14	する	_	_	_	_	13	aux	_	_	ja
+15	と	_	_	_	_	13	case	_	_	ja
+16	いう	_	_	_	_	62	advcl	_	_	ja
+17	が	_	_	_	_	16	mark	_	_	ja
+18	、	_	_	_	_	16	punct	_	_	ja
+19	こうした	_	_	_	_	25	det	_	_	ja
+20	重大	_	_	_	_	22	acl	_	_	ja
+21	な	_	_	_	_	20	aux	_	_	ja
+22	問題	_	_	_	_	32	obj	_	_	ja
+23	を	_	_	_	_	22	case	_	_	ja
+24	監査	_	_	_	_	25	compound	_	_	ja
+25	院	_	_	_	_	27	nmod	_	_	ja
+26	の	_	_	_	_	25	case	_	_	ja
+27	監査	_	_	_	_	32	obl	_	_	ja
+28	で	_	_	_	_	27	case	_	_	ja
+29	懲戒	_	_	_	_	30	compound	_	_	ja
+30	程度	_	_	_	_	32	obl	_	_	ja
+31	で	_	_	_	_	30	case	_	_	ja
+32	終わら	_	_	_	_	36	csubj	_	_	ja
+33	せる	_	_	_	_	32	aux	_	_	ja
+34	こと	_	_	_	_	32	aux	_	_	ja
+35	は	_	_	_	_	32	case	_	_	ja
+36	あり	_	_	_	_	62	advcl	_	_	ja
+37	え	_	_	_	_	36	mark	_	_	ja
+38	ない	_	_	_	_	36	aux	_	_	ja
+39	」	_	_	_	_	36	punct	_	_	ja
+40	、	_	_	_	_	36	punct	_	_	ja
+41	「	_	_	_	_	42	punct	_	_	ja
+42	軍法会議	_	_	_	_	44	iobj	_	_	ja
+43	に	_	_	_	_	42	case	_	_	ja
+44	回付	_	_	_	_	58	advcl	_	_	ja
+45	し	_	_	_	_	44	aux	_	_	ja
+46	て	_	_	_	_	44	mark	_	_	ja
+47	、	_	_	_	_	44	punct	_	_	ja
+48	軍	_	_	_	_	49	compound	_	_	ja
+49	検察	_	_	_	_	51	nsubj	_	_	ja
+50	が	_	_	_	_	49	case	_	_	ja
+51	徹底	_	_	_	_	54	acl	_	_	ja
+52	し	_	_	_	_	51	aux	_	_	ja
+53	た	_	_	_	_	51	aux	_	_	ja
+54	調査	_	_	_	_	56	obj	_	_	ja
+55	を	_	_	_	_	54	case	_	_	ja
+56	する	_	_	_	_	58	advcl	_	_	ja
+57	ように	_	_	_	_	51	aux	_	_	ja
+58	要求	_	_	_	_	62	advcl	_	_	ja
+59	する	_	_	_	_	58	aux	_	_	ja
+60	」	_	_	_	_	58	punct	_	_	ja
+61	と	_	_	_	_	58	case	_	_	ja
+62	述べ	_	_	_	_	0	root	_	_	ja
+63	た	_	_	_	_	62	aux	_	_	ja
+64	。	_	_	_	_	62	punct	_	_	ja
+
+1	ビーチ	_	_	_	_	3	nmod	_	_	ja
+2	や	_	_	_	_	1	cc	_	_	ja
+3	公園	_	_	_	_	7	nmod	_	_	ja
+4	、	_	_	_	_	3	punct	_	_	ja
+5	家	_	_	_	_	7	nmod	_	_	ja
+6	や	_	_	_	_	5	cc	_	_	ja
+7	オフィス	_	_	_	_	11	nmod	_	_	ja
+8	など	_	_	_	_	7	case	_	_	ja
+9	様々	_	_	_	_	11	acl	_	_	ja
+10	な	_	_	_	_	9	aux	_	_	ja
+11	場所	_	_	_	_	15	iobj	_	_	ja
+12	に	_	_	_	_	11	case	_	_	ja
+13	持ち運ん	_	_	_	_	15	advcl	_	_	ja
+14	で	_	_	_	_	13	aux	_	_	ja
+15	楽しむ	_	_	_	_	18	csubj	_	_	ja
+16	こと	_	_	_	_	15	aux	_	_	ja
+17	が	_	_	_	_	15	case	_	_	ja
+18	でき	_	_	_	_	0	root	_	_	ja
+19	ます	_	_	_	_	18	aux	_	_	ja
+20	。	_	_	_	_	18	punct	_	_	ja
+
+1	深刻	_	_	_	_	2	compound	_	_	ja
+2	度	_	_	_	_	5	nsubj	_	_	ja
+3	が	_	_	_	_	2	case	_	_	ja
+4	もっとも	_	_	_	_	5	advmod	_	_	ja
+5	高い	_	_	_	_	7	acl	_	_	ja
+6	「	_	_	_	_	7	punct	_	_	ja
+7	緊急	_	_	_	_	10	obl	_	_	ja
+8	」	_	_	_	_	7	punct	_	_	ja
+9	と	_	_	_	_	7	case	_	_	ja
+10	さ	_	_	_	_	21	csubj	_	_	ja
+11	れる	_	_	_	_	10	aux	_	_	ja
+12	の	_	_	_	_	10	mark	_	_	ja
+13	は	_	_	_	_	10	case	_	_	ja
+14	、	_	_	_	_	10	punct	_	_	ja
+15	「	_	_	_	_	16	punct	_	_	ja
+16	Windows	_	_	_	_	10	obl	_	_	ja
+17	」	_	_	_	_	16	punct	_	_	ja
+18	に関する	_	_	_	_	16	case	_	_	ja
+19	プログラム	_	_	_	_	21	compound	_	_	ja
+20	4	_	_	_	_	21	nummod	_	_	ja
+21	件	_	_	_	_	0	root	_	_	ja
+22	。	_	_	_	_	21	punct	_	_	ja
+
+1	早けれ	_	_	_	_	9	advmod	_	_	ja
+2	ば	_	_	_	_	1	mark	_	_	ja
+3	2010	_	_	_	_	4	nummod	_	_	ja
+4	年度	_	_	_	_	6	obl	_	_	ja
+5	から	_	_	_	_	4	case	_	_	ja
+6	行う	_	_	_	_	7	acl	_	_	ja
+7	方向	_	_	_	_	9	obl	_	_	ja
+8	と	_	_	_	_	7	case	_	_	ja
+9	なっ	_	_	_	_	0	root	_	_	ja
+10	た	_	_	_	_	9	aux	_	_	ja
+11	。	_	_	_	_	9	punct	_	_	ja
+
+1	教室	_	_	_	_	5	iobj	_	_	ja
+2	に	_	_	_	_	1	case	_	_	ja
+3	火の気	_	_	_	_	5	nsubj	_	_	ja
+4	は	_	_	_	_	3	case	_	_	ja
+5	なく	_	_	_	_	22	advcl	_	_	ja
+6	、	_	_	_	_	5	punct	_	_	ja
+7	白河	_	_	_	_	8	compound	_	_	ja
+8	署	_	_	_	_	11	nmod	_	_	ja
+9	と	_	_	_	_	8	case	_	_	ja
+10	矢吹	_	_	_	_	11	compound	_	_	ja
+11	消防署	_	_	_	_	22	nsubj	_	_	ja
+12	は	_	_	_	_	11	case	_	_	ja
+13	30	_	_	_	_	14	nummod	_	_	ja
+14	日	_	_	_	_	22	obl	_	_	ja
+15	、	_	_	_	_	14	punct	_	_	ja
+16	実況	_	_	_	_	18	compound	_	_	ja
+17	見	_	_	_	_	18	compound	_	_	ja
+18	分	_	_	_	_	22	obl	_	_	ja
+19	し	_	_	_	_	18	aux	_	_	ja
+20	原因	_	_	_	_	22	obj	_	_	ja
+21	を	_	_	_	_	20	case	_	_	ja
+22	調べる	_	_	_	_	0	root	_	_	ja
+23	。	_	_	_	_	22	punct	_	_	ja
+
+1	午後	_	_	_	_	3	iobj	_	_	ja
+2	に	_	_	_	_	1	case	_	_	ja
+3	入る	_	_	_	_	14	advcl	_	_	ja
+4	と	_	_	_	_	3	mark	_	_	ja
+5	139	_	_	_	_	9	nummod	_	_	ja
+6	円	_	_	_	_	9	compound	_	_	ja
+7	80	_	_	_	_	9	nummod	_	_	ja
+8	銭	_	_	_	_	9	compound	_	_	ja
+9	付近	_	_	_	_	12	nmod	_	_	ja
+10	で	_	_	_	_	9	case	_	_	ja
+11	の	_	_	_	_	9	case	_	_	ja
+12	推移	_	_	_	_	14	obl	_	_	ja
+13	と	_	_	_	_	12	case	_	_	ja
+14	なり	_	_	_	_	27	advcl	_	_	ja
+15	、	_	_	_	_	14	punct	_	_	ja
+16	結局	_	_	_	_	27	nsubj	_	_	ja
+17	は	_	_	_	_	16	case	_	_	ja
+18	14	_	_	_	_	20	nummod	_	_	ja
+19	銭	_	_	_	_	20	compound	_	_	ja
+20	高	_	_	_	_	25	nmod	_	_	ja
+21	の	_	_	_	_	20	case	_	_	ja
+22	139	_	_	_	_	25	nummod	_	_	ja
+23	円	_	_	_	_	25	nmod	_	_	ja
+24	78	_	_	_	_	25	nummod	_	_	ja
+25	銭	_	_	_	_	27	obl	_	_	ja
+26	で	_	_	_	_	25	case	_	_	ja
+27	引け	_	_	_	_	0	root	_	_	ja
+28	た	_	_	_	_	27	aux	_	_	ja
+29	。	_	_	_	_	27	punct	_	_	ja
+
+1	先	_	_	_	_	5	nsubj	_	_	ja
+2	が	_	_	_	_	1	case	_	_	ja
+3	気	_	_	_	_	5	iobj	_	_	ja
+4	に	_	_	_	_	3	case	_	_	ja
+5	なる	_	_	_	_	7	acl	_	_	ja
+6	ストーリー	_	_	_	_	7	compound	_	_	ja
+7	展開	_	_	_	_	21	nmod	_	_	ja
+8	や	_	_	_	_	7	cc	_	_	ja
+9	、	_	_	_	_	7	punct	_	_	ja
+10	3	_	_	_	_	11	nummod	_	_	ja
+11	人	_	_	_	_	13	nmod	_	_	ja
+12	の	_	_	_	_	11	case	_	_	ja
+13	演技	_	_	_	_	15	iobj	_	_	ja
+14	に	_	_	_	_	13	case	_	_	ja
+15	引き込ま	_	_	_	_	21	acl	_	_	ja
+16	れ	_	_	_	_	15	aux	_	_	ja
+17	て	_	_	_	_	15	mark	_	_	ja
+18	しまう	_	_	_	_	15	aux	_	_	ja
+19	こと	_	_	_	_	15	aux	_	_	ja
+20	間違い	_	_	_	_	21	acl	_	_	ja
+21	ナシ	_	_	_	_	0	root	_	_	ja
+22	だ	_	_	_	_	21	cop	_	_	ja
+23	!	_	_	_	_	21	punct	_	_	ja
+
+1	法案	_	_	_	_	5	nsubj	_	_	ja
+2	が	_	_	_	_	1	case	_	_	ja
+3	上院	_	_	_	_	5	obj	_	_	ja
+4	を	_	_	_	_	3	case	_	_	ja
+5	通過	_	_	_	_	38	advcl	_	_	ja
+6	すれ	_	_	_	_	5	aux	_	_	ja
+7	ば	_	_	_	_	5	mark	_	_	ja
+8	、	_	_	_	_	5	punct	_	_	ja
+9	昨年	_	_	_	_	10	nmod	_	_	ja
+10	12月	_	_	_	_	5	iobj	_	_	ja
+11	に	_	_	_	_	10	case	_	_	ja
+12	下院	_	_	_	_	14	obj	_	_	ja
+13	を	_	_	_	_	12	case	_	_	ja
+14	通過	_	_	_	_	17	acl	_	_	ja
+15	し	_	_	_	_	14	aux	_	_	ja
+16	た	_	_	_	_	14	aux	_	_	ja
+17	法案	_	_	_	_	19	obl	_	_	ja
+18	と	_	_	_	_	17	case	_	_	ja
+19	統合	_	_	_	_	21	acl	_	_	ja
+20	する	_	_	_	_	19	aux	_	_	ja
+21	必要	_	_	_	_	23	nsubj	_	_	ja
+22	が	_	_	_	_	21	case	_	_	ja
+23	あり	_	_	_	_	38	advcl	_	_	ja
+24	、	_	_	_	_	23	punct	_	_	ja
+25	アナリスト	_	_	_	_	27	iobj	_	_	ja
+26	に	_	_	_	_	25	case	_	_	ja
+27	よる	_	_	_	_	38	advcl	_	_	ja
+28	と	_	_	_	_	27	mark	_	_	ja
+29	、	_	_	_	_	27	punct	_	_	ja
+30	その	_	_	_	_	31	det	_	_	ja
+31	時期	_	_	_	_	36	nsubj	_	_	ja
+32	は	_	_	_	_	31	case	_	_	ja
+33	5月	_	_	_	_	34	compound	_	_	ja
+34	下旬	_	_	_	_	36	iobj	_	_	ja
+35	に	_	_	_	_	34	case	_	_	ja
+36	なる	_	_	_	_	38	ccomp	_	_	ja
+37	と	_	_	_	_	36	case	_	_	ja
+38	見込ま	_	_	_	_	0	root	_	_	ja
+39	れ	_	_	_	_	38	aux	_	_	ja
+40	て	_	_	_	_	38	mark	_	_	ja
+41	いる	_	_	_	_	38	aux	_	_	ja
+42	。	_	_	_	_	38	punct	_	_	ja
+
+1	当面	_	_	_	_	8	nsubj	_	_	ja
+2	は	_	_	_	_	1	case	_	_	ja
+3	同省	_	_	_	_	6	compound	_	_	ja
+4	職員	_	_	_	_	6	compound	_	_	ja
+5	2	_	_	_	_	6	nummod	_	_	ja
+6	人	_	_	_	_	8	obj	_	_	ja
+7	を	_	_	_	_	6	case	_	_	ja
+8	派遣	_	_	_	_	0	root	_	_	ja
+9	。	_	_	_	_	8	punct	_	_	ja
+
+1	簡単	_	_	_	_	3	advcl	_	_	ja
+2	で	_	_	_	_	1	aux	_	_	ja
+3	おいしい	_	_	_	_	4	acl	_	_	ja
+4	上	_	_	_	_	17	iobj	_	_	ja
+5	に	_	_	_	_	4	case	_	_	ja
+6	、	_	_	_	_	4	punct	_	_	ja
+7	栄養	_	_	_	_	9	nmod	_	_	ja
+8	の	_	_	_	_	7	case	_	_	ja
+9	バランス	_	_	_	_	11	nsubj	_	_	ja
+10	が	_	_	_	_	9	case	_	_	ja
+11	いい	_	_	_	_	15	advcl	_	_	ja
+12	と	_	_	_	_	11	case	_	_	ja
+13	なれ	_	_	_	_	15	advcl	_	_	ja
+14	ば	_	_	_	_	11	mark	_	_	ja
+15	言う	_	_	_	_	17	advcl	_	_	ja
+16	こと	_	_	_	_	15	aux	_	_	ja
+17	なし	_	_	_	_	0	root	_	_	ja
+18	です	_	_	_	_	17	cop	_	_	ja
+19	。	_	_	_	_	17	punct	_	_	ja
+
+1	また	_	_	_	_	8	advmod	_	_	ja
+2	、	_	_	_	_	1	punct	_	_	ja
+3	レート	_	_	_	_	8	obl	_	_	ja
+4	により	_	_	_	_	3	case	_	_	ja
+5	金額	_	_	_	_	8	nsubj	_	_	ja
+6	が	_	_	_	_	5	case	_	_	ja
+7	多少	_	_	_	_	8	advmod	_	_	ja
+8	左右	_	_	_	_	0	root	_	_	ja
+9	さ	_	_	_	_	8	aux	_	_	ja
+10	れ	_	_	_	_	8	aux	_	_	ja
+11	ます	_	_	_	_	8	aux	_	_	ja
+12	。	_	_	_	_	8	punct	_	_	ja
+
+1	橋下	_	_	_	_	2	compound	_	_	ja
+2	知事	_	_	_	_	8	nsubj	_	_	ja
+3	は	_	_	_	_	2	case	_	_	ja
+4	立候補	_	_	_	_	8	obj	_	_	ja
+5	を	_	_	_	_	4	case	_	_	ja
+6	明言	_	_	_	_	8	advcl	_	_	ja
+7	こそ	_	_	_	_	8	advmod	_	_	ja
+8	し	_	_	_	_	23	advcl	_	_	ja
+9	なかっ	_	_	_	_	8	aux	_	_	ja
+10	た	_	_	_	_	8	aux	_	_	ja
+11	が	_	_	_	_	8	mark	_	_	ja
+12	、	_	_	_	_	8	punct	_	_	ja
+13	「	_	_	_	_	14	punct	_	_	ja
+14	大都市	_	_	_	_	16	nmod	_	_	ja
+15	、	_	_	_	_	14	punct	_	_	ja
+16	大阪	_	_	_	_	18	nmod	_	_	ja
+17	の	_	_	_	_	16	case	_	_	ja
+18	市長	_	_	_	_	23	iobj	_	_	ja
+19	に	_	_	_	_	18	case	_	_	ja
+20	平松	_	_	_	_	21	compound	_	_	ja
+21	市長	_	_	_	_	23	nsubj	_	_	ja
+22	は	_	_	_	_	21	case	_	_	ja
+23	ふさわしく	_	_	_	_	0	root	_	_	ja
+24	ない	_	_	_	_	23	aux	_	_	ja
+25	。	_	_	_	_	23	punct	_	_	ja
+
+1	ジャカルタ	_	_	_	_	4	nmod	_	_	ja
+2	の	_	_	_	_	1	case	_	_	ja
+3	街	_	_	_	_	4	compound	_	_	ja
+4	中	_	_	_	_	12	obl	_	_	ja
+5	で	_	_	_	_	4	case	_	_	ja
+6	自転車	_	_	_	_	8	obj	_	_	ja
+7	を	_	_	_	_	6	case	_	_	ja
+8	利用	_	_	_	_	10	acl	_	_	ja
+9	する	_	_	_	_	8	aux	_	_	ja
+10	人	_	_	_	_	12	nsubj	_	_	ja
+11	が	_	_	_	_	10	case	_	_	ja
+12	増え	_	_	_	_	15	advcl	_	_	ja
+13	た	_	_	_	_	12	aux	_	_	ja
+14	ように	_	_	_	_	12	aux	_	_	ja
+15	思う	_	_	_	_	0	root	_	_	ja
+16	。	_	_	_	_	15	punct	_	_	ja
+
+1	高校	_	_	_	_	2	compound	_	_	ja
+2	時代	_	_	_	_	4	nmod	_	_	ja
+3	の	_	_	_	_	2	case	_	_	ja
+4	同級生	_	_	_	_	6	obl	_	_	ja
+5	と	_	_	_	_	4	case	_	_	ja
+6	あっ	_	_	_	_	19	advcl	_	_	ja
+7	て	_	_	_	_	6	mark	_	_	ja
+8	合宿	_	_	_	_	9	compound	_	_	ja
+9	中	_	_	_	_	14	obl	_	_	ja
+10	も	_	_	_	_	9	case	_	_	ja
+11	、	_	_	_	_	9	punct	_	_	ja
+12	不安	_	_	_	_	14	obj	_	_	ja
+13	を	_	_	_	_	12	case	_	_	ja
+14	打ち明け	_	_	_	_	19	ccomp	_	_	ja
+15	合っ	_	_	_	_	14	aux	_	_	ja
+16	て	_	_	_	_	14	mark	_	_	ja
+17	いる	_	_	_	_	14	aux	_	_	ja
+18	と	_	_	_	_	14	case	_	_	ja
+19	いう	_	_	_	_	0	root	_	_	ja
+20	。	_	_	_	_	19	punct	_	_	ja
+
+1	信号	_	_	_	_	3	compound	_	_	ja
+2	変換	_	_	_	_	3	compound	_	_	ja
+3	効率	_	_	_	_	5	obj	_	_	ja
+4	を	_	_	_	_	3	case	_	_	ja
+5	向上	_	_	_	_	27	advcl	_	_	ja
+6	する	_	_	_	_	5	aux	_	_	ja
+7	とともに	_	_	_	_	5	mark	_	_	ja
+8	、	_	_	_	_	5	punct	_	_	ja
+9	超	_	_	_	_	10	compound	_	_	ja
+10	低域	_	_	_	_	12	nmod	_	_	ja
+11	の	_	_	_	_	10	case	_	_	ja
+12	歪み	_	_	_	_	14	obj	_	_	ja
+13	を	_	_	_	_	12	case	_	_	ja
+14	改善	_	_	_	_	27	advcl	_	_	ja
+15	し	_	_	_	_	14	aux	_	_	ja
+16	、	_	_	_	_	14	punct	_	_	ja
+17	低域	_	_	_	_	19	nmod	_	_	ja
+18	から	_	_	_	_	17	case	_	_	ja
+19	高域	_	_	_	_	27	obl	_	_	ja
+20	まで	_	_	_	_	19	case	_	_	ja
+21	、	_	_	_	_	19	punct	_	_	ja
+22	すぐれ	_	_	_	_	25	acl	_	_	ja
+23	た	_	_	_	_	22	aux	_	_	ja
+24	周波数	_	_	_	_	25	compound	_	_	ja
+25	特性	_	_	_	_	27	obj	_	_	ja
+26	を	_	_	_	_	25	case	_	_	ja
+27	実現	_	_	_	_	0	root	_	_	ja
+28	し	_	_	_	_	27	aux	_	_	ja
+29	て	_	_	_	_	27	mark	_	_	ja
+30	いる	_	_	_	_	27	aux	_	_	ja
+31	。	_	_	_	_	27	punct	_	_	ja
+
+1	最初	_	_	_	_	3	nmod	_	_	ja
+2	の	_	_	_	_	1	case	_	_	ja
+3	仕切り	_	_	_	_	11	obl	_	_	ja
+4	で	_	_	_	_	3	case	_	_	ja
+5	芳	_	_	_	_	6	compound	_	_	ja
+6	東	_	_	_	_	8	iobj	_	_	ja
+7	に	_	_	_	_	6	case	_	_	ja
+8	待っ	_	_	_	_	11	advcl	_	_	ja
+9	た	_	_	_	_	8	aux	_	_	ja
+10	を	_	_	_	_	8	case	_	_	ja
+11	かけ	_	_	_	_	14	acl	_	_	ja
+12	られ	_	_	_	_	11	aux	_	_	ja
+13	た	_	_	_	_	11	aux	_	_	ja
+14	宝智山	_	_	_	_	43	nsubj	_	_	ja
+15	は	_	_	_	_	14	case	_	_	ja
+16	、	_	_	_	_	14	punct	_	_	ja
+17	仕切り直し	_	_	_	_	19	nmod	_	_	ja
+18	の	_	_	_	_	17	case	_	_	ja
+19	立ち合い	_	_	_	_	25	obl	_	_	ja
+20	で	_	_	_	_	19	case	_	_	ja
+21	得意	_	_	_	_	23	nmod	_	_	ja
+22	の	_	_	_	_	21	case	_	_	ja
+23	右四つ	_	_	_	_	25	obl	_	_	ja
+24	と	_	_	_	_	23	case	_	_	ja
+25	なり	_	_	_	_	29	advcl	_	_	ja
+26	左上	_	_	_	_	27	compound	_	_	ja
+27	手	_	_	_	_	29	obj	_	_	ja
+28	を	_	_	_	_	27	case	_	_	ja
+29	取る	_	_	_	_	43	advcl	_	_	ja
+30	と	_	_	_	_	29	mark	_	_	ja
+31	、	_	_	_	_	29	punct	_	_	ja
+32	相手	_	_	_	_	34	iobj	_	_	ja
+33	に	_	_	_	_	32	aux	_	_	ja
+34	構う	_	_	_	_	43	advcl	_	_	ja
+35	こと	_	_	_	_	34	aux	_	_	ja
+36	なく	_	_	_	_	39	advcl	_	_	ja
+37	前	_	_	_	_	39	iobj	_	_	ja
+38	に	_	_	_	_	37	case	_	_	ja
+39	出	_	_	_	_	43	advcl	_	_	ja
+40	て	_	_	_	_	39	mark	_	_	ja
+41	その	_	_	_	_	42	det	_	_	ja
+42	まま	_	_	_	_	43	nsubj	_	_	ja
+43	寄り倒し	_	_	_	_	0	root	_	_	ja
+44	た	_	_	_	_	43	aux	_	_	ja
+45	。	_	_	_	_	43	punct	_	_	ja
+
+1	西宮市	_	_	_	_	7	nsubj	_	_	ja
+2	は	_	_	_	_	1	case	_	_	ja
+3	活動	_	_	_	_	7	obj	_	_	ja
+4	を	_	_	_	_	3	case	_	_	ja
+5	大規模災害	_	_	_	_	7	iobj	_	_	ja
+6	に	_	_	_	_	5	case	_	_	ja
+7	限っ	_	_	_	_	21	advcl	_	_	ja
+8	て	_	_	_	_	7	mark	_	_	ja
+9	いる	_	_	_	_	7	aux	_	_	ja
+10	ため	_	_	_	_	7	mark	_	_	ja
+11	、	_	_	_	_	7	punct	_	_	ja
+12	日常的	_	_	_	_	14	iobj	_	_	ja
+13	に	_	_	_	_	12	aux	_	_	ja
+14	活動	_	_	_	_	18	acl	_	_	ja
+15	する	_	_	_	_	14	aux	_	_	ja
+16	機能	_	_	_	_	18	compound	_	_	ja
+17	別	_	_	_	_	18	compound	_	_	ja
+18	消防団員	_	_	_	_	21	nsubj	_	_	ja
+19	は	_	_	_	_	18	case	_	_	ja
+20	県内	_	_	_	_	21	compound	_	_	ja
+21	初	_	_	_	_	0	root	_	_	ja
+22	。	_	_	_	_	21	punct	_	_	ja
+
+1	って	_	_	_	_	5	advmod	_	_	ja
+2	言っ	_	_	_	_	5	acl	_	_	ja
+3	て	_	_	_	_	2	mark	_	_	ja
+4	る	_	_	_	_	2	aux	_	_	ja
+5	年齢不詳	_	_	_	_	0	root	_	_	ja
+6	?	_	_	_	_	5	punct	_	_	ja
+
+1	自分	_	_	_	_	10	nsubj	_	_	ja
+2	は	_	_	_	_	1	case	_	_	ja
+3	希望	_	_	_	_	4	amod	_	_	ja
+4	スタイル	_	_	_	_	8	obj	_	_	ja
+5	を	_	_	_	_	4	case	_	_	ja
+6	いつも	_	_	_	_	8	advmod	_	_	ja
+7	複数	_	_	_	_	8	advmod	_	_	ja
+8	抱え	_	_	_	_	10	advcl	_	_	ja
+9	て	_	_	_	_	8	mark	_	_	ja
+10	来店	_	_	_	_	30	advcl	_	_	ja
+11	し	_	_	_	_	10	aux	_	_	ja
+12	ます	_	_	_	_	10	aux	_	_	ja
+13	が	_	_	_	_	10	mark	_	_	ja
+14	、	_	_	_	_	10	punct	_	_	ja
+15	センス	_	_	_	_	18	nmod	_	_	ja
+16	の	_	_	_	_	15	case	_	_	ja
+17	良い	_	_	_	_	18	acl	_	_	ja
+18	スタッフ	_	_	_	_	20	nmod	_	_	ja
+19	の	_	_	_	_	18	case	_	_	ja
+20	意見	_	_	_	_	22	nsubj	_	_	ja
+21	が	_	_	_	_	20	case	_	_	ja
+22	役に立っ	_	_	_	_	30	advcl	_	_	ja
+23	て	_	_	_	_	22	mark	_	_	ja
+24	いつも	_	_	_	_	27	advmod	_	_	ja
+25	満足	_	_	_	_	28	nmod	_	_	ja
+26	の	_	_	_	_	25	case	_	_	ja
+27	いく	_	_	_	_	30	advcl	_	_	ja
+28	仕上がり	_	_	_	_	30	obj	_	_	ja
+29	を	_	_	_	_	28	case	_	_	ja
+30	施し	_	_	_	_	0	root	_	_	ja
+31	て	_	_	_	_	30	mark	_	_	ja
+32	ください	_	_	_	_	30	aux	_	_	ja
+33	ます	_	_	_	_	30	aux	_	_	ja
+34	。	_	_	_	_	30	punct	_	_	ja
+
+1	あれ	_	_	_	_	5	obl	_	_	ja
+2	じゃ	_	_	_	_	1	case	_	_	ja
+3	客	_	_	_	_	5	nsubj	_	_	ja
+4	は	_	_	_	_	3	case	_	_	ja
+5	来	_	_	_	_	0	root	_	_	ja
+6	ない	_	_	_	_	5	aux	_	_	ja
+7	ね	_	_	_	_	5	mark	_	_	ja
+8	、	_	_	_	_	5	punct	_	_	ja
+
+1	お	_	_	_	_	2	compound	_	_	ja
+2	皿	_	_	_	_	5	nsubj	_	_	ja
+3	は	_	_	_	_	2	case	_	_	ja
+4	全て	_	_	_	_	5	advmod	_	_	ja
+5	重ね	_	_	_	_	33	advcl	_	_	ja
+6	て	_	_	_	_	5	mark	_	_	ja
+7	た	_	_	_	_	5	aux	_	_	ja
+8	の	_	_	_	_	5	mark	_	_	ja
+9	です	_	_	_	_	5	cop	_	_	ja
+10	が	_	_	_	_	5	mark	_	_	ja
+11	、	_	_	_	_	5	punct	_	_	ja
+12	しばらく	_	_	_	_	13	advmod	_	_	ja
+13	する	_	_	_	_	19	advcl	_	_	ja
+14	と	_	_	_	_	13	mark	_	_	ja
+15	女性	_	_	_	_	17	nmod	_	_	ja
+16	の	_	_	_	_	15	case	_	_	ja
+17	従業員	_	_	_	_	19	nsubj	_	_	ja
+18	が	_	_	_	_	17	case	_	_	ja
+19	来	_	_	_	_	33	advcl	_	_	ja
+20	て	_	_	_	_	19	mark	_	_	ja
+21	、	_	_	_	_	19	punct	_	_	ja
+22	こちら	_	_	_	_	25	nmod	_	_	ja
+23	の	_	_	_	_	22	case	_	_	ja
+24	トロ	_	_	_	_	25	compound	_	_	ja
+25	刺身	_	_	_	_	28	nmod	_	_	ja
+26	の	_	_	_	_	25	case	_	_	ja
+27	お	_	_	_	_	28	compound	_	_	ja
+28	皿	_	_	_	_	33	nsubj	_	_	ja
+29	は	_	_	_	_	28	case	_	_	ja
+30	お	_	_	_	_	31	compound	_	_	ja
+31	取り	_	_	_	_	33	iobj	_	_	ja
+32	に	_	_	_	_	31	case	_	_	ja
+33	なら	_	_	_	_	0	root	_	_	ja
+34	れ	_	_	_	_	33	aux	_	_	ja
+35	まし	_	_	_	_	33	aux	_	_	ja
+36	た	_	_	_	_	33	aux	_	_	ja
+37	か	_	_	_	_	33	mark	_	_	ja
+38	?	_	_	_	_	33	punct	_	_	ja
+
+1	テレビ	_	_	_	_	8	obl	_	_	ja
+2	にて	_	_	_	_	1	case	_	_	ja
+3	、	_	_	_	_	1	punct	_	_	ja
+4	こちら	_	_	_	_	6	nmod	_	_	ja
+5	の	_	_	_	_	4	case	_	_	ja
+6	店	_	_	_	_	8	obj	_	_	ja
+7	を	_	_	_	_	6	case	_	_	ja
+8	知り	_	_	_	_	24	advcl	_	_	ja
+9	まし	_	_	_	_	8	aux	_	_	ja
+10	た	_	_	_	_	8	aux	_	_	ja
+11	が	_	_	_	_	8	mark	_	_	ja
+12	、	_	_	_	_	8	punct	_	_	ja
+13	こだわり	_	_	_	_	15	nmod	_	_	ja
+14	の	_	_	_	_	13	case	_	_	ja
+15	店	_	_	_	_	17	obl	_	_	ja
+16	と	_	_	_	_	15	case	_	_	ja
+17	認識	_	_	_	_	24	advcl	_	_	ja
+18	し	_	_	_	_	17	aux	_	_	ja
+19	て	_	_	_	_	17	mark	_	_	ja
+20	い	_	_	_	_	17	aux	_	_	ja
+21	た	_	_	_	_	17	aux	_	_	ja
+22	ので	_	_	_	_	17	mark	_	_	ja
+23	正直	_	_	_	_	24	advmod	_	_	ja
+24	がっかりさ	_	_	_	_	0	root	_	_	ja
+25	せ	_	_	_	_	24	aux	_	_	ja
+26	られ	_	_	_	_	24	aux	_	_	ja
+27	まし	_	_	_	_	24	aux	_	_	ja
+28	た	_	_	_	_	24	aux	_	_	ja
+29	。	_	_	_	_	24	punct	_	_	ja
+
+1	アアルト	_	_	_	_	2	compound	_	_	ja
+2	さん	_	_	_	_	4	nmod	_	_	ja
+3	の	_	_	_	_	2	case	_	_	ja
+4	コーヒー豆	_	_	_	_	6	obj	_	_	ja
+5	を	_	_	_	_	4	case	_	_	ja
+6	使っ	_	_	_	_	8	acl	_	_	ja
+7	た	_	_	_	_	6	aux	_	_	ja
+8	コーヒー	_	_	_	_	15	nsubj	_	_	ja
+9	は	_	_	_	_	8	case	_	_	ja
+10	文句	_	_	_	_	12	nmod	_	_	ja
+11	の	_	_	_	_	10	case	_	_	ja
+12	つ	_	_	_	_	15	advcl	_	_	ja
+13	け	_	_	_	_	12	mark	_	_	ja
+14	よう	_	_	_	_	12	aux	_	_	ja
+15	なし	_	_	_	_	0	root	_	_	ja
+16	!	_	_	_	_	15	punct	_	_	ja
+
+1	料理	_	_	_	_	3	obl	_	_	ja
+2	も	_	_	_	_	1	case	_	_	ja
+3	美味しい	_	_	_	_	13	advcl	_	_	ja
+4	し	_	_	_	_	3	aux	_	_	ja
+5	、	_	_	_	_	3	punct	_	_	ja
+6	女将	_	_	_	_	8	nmod	_	_	ja
+7	・	_	_	_	_	6	compound	_	_	ja
+8	スタッフ	_	_	_	_	11	nmod	_	_	ja
+9	の	_	_	_	_	8	case	_	_	ja
+10	皆	_	_	_	_	11	compound	_	_	ja
+11	さん	_	_	_	_	13	nmod	_	_	ja
+12	よい	_	_	_	_	13	acl	_	_	ja
+13	感じ	_	_	_	_	0	root	_	_	ja
+14	でし	_	_	_	_	13	cop	_	_	ja
+15	た	_	_	_	_	13	aux	_	_	ja
+16	よ	_	_	_	_	13	mark	_	_	ja
+17	!	_	_	_	_	13	punct	_	_	ja
+
+1	参っ	_	_	_	_	32	acl	_	_	ja
+2	た	_	_	_	_	1	aux	_	_	ja
+3	なぁ	_	_	_	_	1	advmod	_	_	ja
+4	、と	_	_	_	_	1	punct	_	_	ja
+5	途方	_	_	_	_	7	iobj	_	_	ja
+6	に	_	_	_	_	5	case	_	_	ja
+7	くれ	_	_	_	_	9	acl	_	_	ja
+8	た	_	_	_	_	7	aux	_	_	ja
+9	時	_	_	_	_	30	obl	_	_	ja
+10	ふと	_	_	_	_	14	advmod	_	_	ja
+11	最初	_	_	_	_	14	iobj	_	_	ja
+12	に	_	_	_	_	11	case	_	_	ja
+13	「	_	_	_	_	14	punct	_	_	ja
+14	あれ	_	_	_	_	32	acl	_	_	ja
+15	で	_	_	_	_	14	cop	_	_	ja
+16	は	_	_	_	_	14	case	_	_	ja
+17	ない	_	_	_	_	14	aux	_	_	ja
+18	よ	_	_	_	_	14	mark	_	_	ja
+19	な	_	_	_	_	14	mark	_	_	ja
+20	」	_	_	_	_	14	punct	_	_	ja
+21	と	_	_	_	_	14	case	_	_	ja
+22	思っ	_	_	_	_	28	acl	_	_	ja
+23	て	_	_	_	_	22	mark	_	_	ja
+24	い	_	_	_	_	22	aux	_	_	ja
+25	た	_	_	_	_	22	aux	_	_	ja
+26	不動明王	_	_	_	_	28	nmod	_	_	ja
+27	の	_	_	_	_	26	case	_	_	ja
+28	像	_	_	_	_	30	nsubj	_	_	ja
+29	が	_	_	_	_	28	case	_	_	ja
+30	ある	_	_	_	_	32	acl	_	_	ja
+31	お	_	_	_	_	32	compound	_	_	ja
+32	墓	_	_	_	_	0	root	_	_	ja
+33	。	_	_	_	_	32	punct	_	_	ja
+
+1	ずっと	_	_	_	_	2	advmod	_	_	ja
+2	コンプレックス	_	_	_	_	15	advcl	_	_	ja
+3	だっ	_	_	_	_	2	cop	_	_	ja
+4	た	_	_	_	_	2	aux	_	_	ja
+5	ので	_	_	_	_	2	mark	_	_	ja
+6	、	_	_	_	_	2	punct	_	_	ja
+7	キレイ	_	_	_	_	9	iobj	_	_	ja
+8	に	_	_	_	_	7	case	_	_	ja
+9	し	_	_	_	_	15	advcl	_	_	ja
+10	て	_	_	_	_	9	mark	_	_	ja
+11	いただ	_	_	_	_	9	aux	_	_	ja
+12	け	_	_	_	_	9	aux	_	_	ja
+13	て	_	_	_	_	9	mark	_	_	ja
+14	本当に	_	_	_	_	15	advmod	_	_	ja
+15	良かっ	_	_	_	_	0	root	_	_	ja
+16	た	_	_	_	_	15	aux	_	_	ja
+17	です	_	_	_	_	15	cop	_	_	ja
+18	。	_	_	_	_	15	punct	_	_	ja
+
+1	声	_	_	_	_	5	obl	_	_	ja
+2	も	_	_	_	_	1	case	_	_	ja
+3	ほとんど	_	_	_	_	5	advmod	_	_	ja
+4	筒抜け	_	_	_	_	5	compound	_	_	ja
+5	状態	_	_	_	_	0	root	_	_	ja
+6	であっ	_	_	_	_	5	cop	_	_	ja
+7	た	_	_	_	_	5	aux	_	_	ja
+8	。	_	_	_	_	5	punct	_	_	ja
+
+1	リーズナブル	_	_	_	_	3	acl	_	_	ja
+2	な	_	_	_	_	1	aux	_	_	ja
+3	価格	_	_	_	_	9	nmod	_	_	ja
+4	、	_	_	_	_	3	punct	_	_	ja
+5	味	_	_	_	_	9	nsubj	_	_	ja
+6	は	_	_	_	_	5	case	_	_	ja
+7	勿論	_	_	_	_	9	acl	_	_	ja
+8	の	_	_	_	_	7	case	_	_	ja
+9	こと	_	_	_	_	20	obl	_	_	ja
+10	、	_	_	_	_	9	punct	_	_	ja
+11	若い	_	_	_	_	13	acl	_	_	ja
+12	マスター	_	_	_	_	13	compound	_	_	ja
+13	夫婦	_	_	_	_	16	nmod	_	_	ja
+14	の	_	_	_	_	13	case	_	_	ja
+15	温かい	_	_	_	_	16	acl	_	_	ja
+16	雰囲気	_	_	_	_	18	iobj	_	_	ja
+17	に	_	_	_	_	16	case	_	_	ja
+18	つい	_	_	_	_	20	advcl	_	_	ja
+19	つい	_	_	_	_	20	advcl	_	_	ja
+20	長居	_	_	_	_	0	root	_	_	ja
+21	し	_	_	_	_	20	aux	_	_	ja
+22	て	_	_	_	_	20	mark	_	_	ja
+23	しまい	_	_	_	_	20	aux	_	_	ja
+24	ます	_	_	_	_	20	aux	_	_	ja
+25	。	_	_	_	_	20	punct	_	_	ja
+
+1	感じ	_	_	_	_	3	obl	_	_	ja
+2	の	_	_	_	_	1	case	_	_	ja
+3	いい	_	_	_	_	5	acl	_	_	ja
+4	スタッフ	_	_	_	_	5	compound	_	_	ja
+5	さん	_	_	_	_	11	advcl	_	_	ja
+6	な	_	_	_	_	5	cop	_	_	ja
+7	ので	_	_	_	_	5	mark	_	_	ja
+8	安心	_	_	_	_	11	advcl	_	_	ja
+9	し	_	_	_	_	8	aux	_	_	ja
+10	て	_	_	_	_	8	mark	_	_	ja
+11	通	_	_	_	_	0	root	_	_	ja
+12	え	_	_	_	_	11	aux	_	_	ja
+13	ます	_	_	_	_	11	aux	_	_	ja
+14	。	_	_	_	_	11	punct	_	_	ja
+
+1	駐車場	_	_	_	_	11	nsubj	_	_	ja
+2	は	_	_	_	_	1	case	_	_	ja
+3	ある	_	_	_	_	5	acl	_	_	ja
+4	ものの	_	_	_	_	11	obl	_	_	ja
+5	立体駐車場	_	_	_	_	11	obl	_	_	ja
+6	で	_	_	_	_	5	case	_	_	ja
+7	出入り	_	_	_	_	11	advcl	_	_	ja
+8	に	_	_	_	_	7	case	_	_	ja
+9	時間	_	_	_	_	11	nsubj	_	_	ja
+10	が	_	_	_	_	9	case	_	_	ja
+11	かかり	_	_	_	_	43	advcl	_	_	ja
+12	、	_	_	_	_	11	punct	_	_	ja
+13	6	_	_	_	_	14	nummod	_	_	ja
+14	号	_	_	_	_	17	nmod	_	_	ja
+15	と	_	_	_	_	14	case	_	_	ja
+16	14	_	_	_	_	17	nummod	_	_	ja
+17	号	_	_	_	_	20	nmod	_	_	ja
+18	の	_	_	_	_	17	case	_	_	ja
+19	交差	_	_	_	_	20	compound	_	_	ja
+20	点前	_	_	_	_	30	obl	_	_	ja
+21	で	_	_	_	_	20	case	_	_	ja
+22	交通量	_	_	_	_	26	nsubj	_	_	ja
+23	が	_	_	_	_	22	case	_	_	ja
+24	かつ	_	_	_	_	30	advcl	_	_	ja
+25	駅前	_	_	_	_	26	compound	_	_	ja
+26	直結	_	_	_	_	30	advcl	_	_	ja
+27	な	_	_	_	_	26	cop	_	_	ja
+28	ため	_	_	_	_	26	mark	_	_	ja
+29	常に	_	_	_	_	30	advmod	_	_	ja
+30	混雑	_	_	_	_	43	advcl	_	_	ja
+31	し	_	_	_	_	30	aux	_	_	ja
+32	て	_	_	_	_	30	mark	_	_	ja
+33	おり	_	_	_	_	30	aux	_	_	ja
+34	、	_	_	_	_	30	punct	_	_	ja
+35	事実上	_	_	_	_	36	compound	_	_	ja
+36	地元	_	_	_	_	39	nmod	_	_	ja
+37	の	_	_	_	_	36	case	_	_	ja
+38	人	_	_	_	_	39	compound	_	_	ja
+39	以外	_	_	_	_	41	nmod	_	_	ja
+40	の	_	_	_	_	39	case	_	_	ja
+41	アクセス	_	_	_	_	43	nsubj	_	_	ja
+42	は	_	_	_	_	41	case	_	_	ja
+43	辛いです	_	_	_	_	0	root	_	_	ja
+44	。	_	_	_	_	43	punct	_	_	ja
+
+1	小さい	_	_	_	_	3	acl	_	_	ja
+2	お	_	_	_	_	3	compound	_	_	ja
+3	店	_	_	_	_	12	advcl	_	_	ja
+4	な	_	_	_	_	3	cop	_	_	ja
+5	ので	_	_	_	_	3	mark	_	_	ja
+6	常連	_	_	_	_	7	compound	_	_	ja
+7	さん	_	_	_	_	8	nsubj	_	_	ja
+8	優先	_	_	_	_	12	csubj	_	_	ja
+9	な	_	_	_	_	8	aux	_	_	ja
+10	の	_	_	_	_	8	mark	_	_	ja
+11	は	_	_	_	_	8	case	_	_	ja
+12	仕方がないです	_	_	_	_	0	root	_	_	ja
+13	ね	_	_	_	_	12	mark	_	_	ja
+14	。	_	_	_	_	12	punct	_	_	ja
+
+1	つけ麺	_	_	_	_	3	nmod	_	_	ja
+2	の	_	_	_	_	1	case	_	_	ja
+3	王様	_	_	_	_	6	nsubj	_	_	ja
+4	は	_	_	_	_	3	case	_	_	ja
+5	間違いなく	_	_	_	_	6	advmod	_	_	ja
+6	ここ	_	_	_	_	0	root	_	_	ja
+7	。	_	_	_	_	6	punct	_	_	ja
+
+1	高い	_	_	_	_	2	acl	_	_	ja
+2	教養	_	_	_	_	8	obj	_	_	ja
+3	を	_	_	_	_	2	case	_	_	ja
+4	身	_	_	_	_	8	iobj	_	_	ja
+5	に	_	_	_	_	4	case	_	_	ja
+6	それ	_	_	_	_	8	obl	_	_	ja
+7	で	_	_	_	_	4	case	_	_	ja
+8	い	_	_	_	_	28	advcl	_	_	ja
+9	て	_	_	_	_	8	mark	_	_	ja
+10	誠実	_	_	_	_	12	advcl	_	_	ja
+11	で	_	_	_	_	10	aux	_	_	ja
+12	繊細	_	_	_	_	17	advcl	_	_	ja
+13	で	_	_	_	_	12	aux	_	_	ja
+14	誰	_	_	_	_	17	obl	_	_	ja
+15	から	_	_	_	_	14	case	_	_	ja
+16	も	_	_	_	_	14	case	_	_	ja
+17	好か	_	_	_	_	21	acl	_	_	ja
+18	れる	_	_	_	_	17	aux	_	_	ja
+19	性格	_	_	_	_	21	nmod	_	_	ja
+20	の	_	_	_	_	19	case	_	_	ja
+21	人物	_	_	_	_	23	obl	_	_	ja
+22	と	_	_	_	_	21	case	_	_	ja
+23	し	_	_	_	_	28	advcl	_	_	ja
+24	て	_	_	_	_	23	mark	_	_	ja
+25	ゲーテ	_	_	_	_	28	iobj	_	_	ja
+26	に	_	_	_	_	25	case	_	_	ja
+27	は	_	_	_	_	25	case	_	_	ja
+28	映っ	_	_	_	_	0	root	_	_	ja
+29	て	_	_	_	_	28	mark	_	_	ja
+30	い	_	_	_	_	28	aux	_	_	ja
+31	た	_	_	_	_	28	aux	_	_	ja
+32	。	_	_	_	_	28	punct	_	_	ja
+
+1	また	_	_	_	_	54	advmod	_	_	ja
+2	、	_	_	_	_	1	punct	_	_	ja
+3	奴隷	_	_	_	_	4	compound	_	_	ja
+4	貿易	_	_	_	_	6	nmod	_	_	ja
+5	の	_	_	_	_	4	case	_	_	ja
+6	対象	_	_	_	_	54	advcl	_	_	ja
+7	で	_	_	_	_	6	cop	_	_	ja
+8	は	_	_	_	_	6	case	_	_	ja
+9	なく	_	_	_	_	6	aux	_	_	ja
+10	宗教	_	_	_	_	11	compound	_	_	ja
+11	上	_	_	_	_	6	nmod	_	_	ja
+12	の	_	_	_	_	11	case	_	_	ja
+13	ライバル	_	_	_	_	19	acl	_	_	ja
+14	であっ	_	_	_	_	13	cop	_	_	ja
+15	た	_	_	_	_	13	aux	_	_	ja
+16	北アフリカ	_	_	_	_	19	nmod	_	_	ja
+17	の	_	_	_	_	16	case	_	_	ja
+18	イスラム	_	_	_	_	19	compound	_	_	ja
+19	諸国	_	_	_	_	31	nsubj	_	_	ja
+20	は	_	_	_	_	19	case	_	_	ja
+21	、	_	_	_	_	19	punct	_	_	ja
+22	19	_	_	_	_	23	nummod	_	_	ja
+23	世紀	_	_	_	_	31	iobj	_	_	ja
+24	に	_	_	_	_	23	case	_	_	ja
+25	は	_	_	_	_	23	case	_	_	ja
+26	宗主国	_	_	_	_	27	compound	_	_	ja
+27	オスマン帝国	_	_	_	_	29	nmod	_	_	ja
+28	の	_	_	_	_	27	case	_	_	ja
+29	影響力	_	_	_	_	31	nsubj	_	_	ja
+30	が	_	_	_	_	29	case	_	_	ja
+31	衰え	_	_	_	_	54	advcl	_	_	ja
+32	、	_	_	_	_	31	punct	_	_	ja
+33	自立	_	_	_	_	37	acl	_	_	ja
+34	し	_	_	_	_	33	aux	_	_	ja
+35	た	_	_	_	_	33	aux	_	_	ja
+36	群小	_	_	_	_	37	compound	_	_	ja
+37	政権	_	_	_	_	46	nmod	_	_	ja
+38	も	_	_	_	_	37	case	_	_	ja
+39	ヨーロッパ	_	_	_	_	40	compound	_	_	ja
+40	勢力	_	_	_	_	46	nmod	_	_	ja
+41	の	_	_	_	_	40	case	_	_	ja
+42	経済的	_	_	_	_	46	acl	_	_	ja
+43	・	_	_	_	_	40	compound	_	_	ja
+44	軍事的	_	_	_	_	46	acl	_	_	ja
+45	な	_	_	_	_	44	aux	_	_	ja
+46	発展	_	_	_	_	52	obl	_	_	ja
+47	に対して	_	_	_	_	46	case	_	_	ja
+48	ほとんど	_	_	_	_	49	advmod	_	_	ja
+49	為す	_	_	_	_	50	acl	_	_	ja
+50	術	_	_	_	_	52	nsubj	_	_	ja
+51	が	_	_	_	_	50	case	_	_	ja
+52	ない	_	_	_	_	54	advcl	_	_	ja
+53	ほど	_	_	_	_	52	case	_	_	ja
+54	弱体化	_	_	_	_	0	root	_	_	ja
+55	し	_	_	_	_	54	aux	_	_	ja
+56	て	_	_	_	_	54	mark	_	_	ja
+57	い	_	_	_	_	54	aux	_	_	ja
+58	た	_	_	_	_	54	aux	_	_	ja
+59	。	_	_	_	_	54	punct	_	_	ja
+
+1	管轄	_	_	_	_	3	acl	_	_	ja
+2	する	_	_	_	_	1	aux	_	_	ja
+3	修道院	_	_	_	_	8	nsubj	_	_	ja
+4	が	_	_	_	_	3	case	_	_	ja
+5	そもそも	_	_	_	_	8	advmod	_	_	ja
+6	日本	_	_	_	_	8	iobj	_	_	ja
+7	に	_	_	_	_	6	case	_	_	ja
+8	存在	_	_	_	_	39	advcl	_	_	ja
+9	し	_	_	_	_	8	aux	_	_	ja
+10	なかっ	_	_	_	_	8	aux	_	_	ja
+11	た	_	_	_	_	8	aux	_	_	ja
+12	の	_	_	_	_	8	mark	_	_	ja
+13	に	_	_	_	_	8	case	_	_	ja
+14	、	_	_	_	_	8	punct	_	_	ja
+15	日本	_	_	_	_	19	iobj	_	_	ja
+16	に	_	_	_	_	15	case	_	_	ja
+17	正教会	_	_	_	_	19	obj	_	_	ja
+18	を	_	_	_	_	17	case	_	_	ja
+19	伝え	_	_	_	_	24	acl	_	_	ja
+20	た	_	_	_	_	19	aux	_	_	ja
+21	亜	_	_	_	_	24	compound	_	_	ja
+22	使徒	_	_	_	_	24	compound	_	_	ja
+23	聖	_	_	_	_	24	compound	_	_	ja
+24	ニコライ	_	_	_	_	32	nsubj	_	_	ja
+25	が	_	_	_	_	24	case	_	_	ja
+26	日本	_	_	_	_	28	compound	_	_	ja
+27	伝道	_	_	_	_	28	compound	_	_	ja
+28	初期	_	_	_	_	32	iobj	_	_	ja
+29	に	_	_	_	_	28	case	_	_	ja
+30	掌院	_	_	_	_	33	iobj	_	_	ja
+31	に	_	_	_	_	30	case	_	_	ja
+32	昇	_	_	_	_	39	acl	_	_	ja
+33	叙さ	_	_	_	_	39	acl	_	_	ja
+34	れ	_	_	_	_	32	aux	_	_	ja
+35	た	_	_	_	_	32	aux	_	_	ja
+36	こと	_	_	_	_	32	aux	_	_	ja
+37	は	_	_	_	_	32	case	_	_	ja
+38	その	_	_	_	_	39	det	_	_	ja
+39	好例	_	_	_	_	0	root	_	_	ja
+40	である	_	_	_	_	39	cop	_	_	ja
+41	。	_	_	_	_	39	punct	_	_	ja
+
+1	すごろく	_	_	_	_	5	obj	_	_	ja
+2	を	_	_	_	_	1	case	_	_	ja
+3	基本	_	_	_	_	5	advcl	_	_	ja
+4	に	_	_	_	_	3	aux	_	_	ja
+5	し	_	_	_	_	7	acl	_	_	ja
+6	た	_	_	_	_	5	aux	_	_	ja
+7	ゲーム	_	_	_	_	22	obl	_	_	ja
+8	で	_	_	_	_	7	case	_	_	ja
+9	、	_	_	_	_	7	punct	_	_	ja
+10	ドックロン	_	_	_	_	12	nsubj	_	_	ja
+11	が	_	_	_	_	10	case	_	_	ja
+12	揺らす	_	_	_	_	13	acl	_	_	ja
+13	邪魔	_	_	_	_	15	obl	_	_	ja
+14	で	_	_	_	_	13	case	_	_	ja
+15	落ち	_	_	_	_	22	advcl	_	_	ja
+16	ない	_	_	_	_	15	aux	_	_	ja
+17	ように	_	_	_	_	15	aux	_	_	ja
+18	し	_	_	_	_	15	aux	_	_	ja
+19	ながら	_	_	_	_	15	mark	_	_	ja
+20	ゴール	_	_	_	_	22	obl	_	_	ja
+21	まで	_	_	_	_	20	case	_	_	ja
+22	進ん	_	_	_	_	0	root	_	_	ja
+23	で	_	_	_	_	22	mark	_	_	ja
+24	いく	_	_	_	_	22	aux	_	_	ja
+25	。	_	_	_	_	22	punct	_	_	ja
+
+1	一方	_	_	_	_	27	advmod	_	_	ja
+2	NASA	_	_	_	_	6	nmod	_	_	ja
+3	の	_	_	_	_	2	case	_	_	ja
+4	エイムズ	_	_	_	_	6	compound	_	_	ja
+5	研究	_	_	_	_	6	compound	_	_	ja
+6	センター	_	_	_	_	8	nsubj	_	_	ja
+7	が	_	_	_	_	6	case	_	_	ja
+8	開発	_	_	_	_	12	acl	_	_	ja
+9	し	_	_	_	_	8	aux	_	_	ja
+10	た	_	_	_	_	8	aux	_	_	ja
+11	ナノセイル	_	_	_	_	12	compound	_	_	ja
+12	D	_	_	_	_	27	nsubj	_	_	ja
+13	は	_	_	_	_	12	case	_	_	ja
+14	2008	_	_	_	_	15	nummod	_	_	ja
+15	年	_	_	_	_	16	nmod	_	_	ja
+16	8月	_	_	_	_	22	iobj	_	_	ja
+17	に	_	_	_	_	16	case	_	_	ja
+18	ファルコン	_	_	_	_	20	compound	_	_	ja
+19	1	_	_	_	_	20	nummod	_	_	ja
+20	ロケット	_	_	_	_	22	obl	_	_	ja
+21	によって	_	_	_	_	20	case	_	_	ja
+22	打ち上げ	_	_	_	_	27	advcl	_	_	ja
+23	られる	_	_	_	_	22	aux	_	_	ja
+24	も	_	_	_	_	22	mark	_	_	ja
+25	打上げ	_	_	_	_	27	advcl	_	_	ja
+26	に	_	_	_	_	25	aux	_	_	ja
+27	失敗	_	_	_	_	0	root	_	_	ja
+28	。	_	_	_	_	27	punct	_	_	ja
+
+1	新	_	_	_	_	2	compound	_	_	ja
+2	ルール	_	_	_	_	4	obj	_	_	ja
+3	を	_	_	_	_	2	case	_	_	ja
+4	聞い	_	_	_	_	11	advcl	_	_	ja
+5	て	_	_	_	_	4	mark	_	_	ja
+6	、	_	_	_	_	4	punct	_	_	ja
+7	各々	_	_	_	_	11	iobj	_	_	ja
+8	に	_	_	_	_	7	aux	_	_	ja
+9	想い	_	_	_	_	11	obj	_	_	ja
+10	を	_	_	_	_	9	case	_	_	ja
+11	語っ	_	_	_	_	0	root	_	_	ja
+12	た	_	_	_	_	11	aux	_	_	ja
+13	。	_	_	_	_	11	punct	_	_	ja
+
+1	私	_	_	_	_	7	nsubj	_	_	ja
+2	は	_	_	_	_	1	case	_	_	ja
+3	ここ	_	_	_	_	5	nmod	_	_	ja
+4	の	_	_	_	_	3	case	_	_	ja
+5	病院	_	_	_	_	7	iobj	_	_	ja
+6	に	_	_	_	_	5	case	_	_	ja
+7	行き	_	_	_	_	14	advcl	_	_	ja
+8	、	_	_	_	_	7	punct	_	_	ja
+9	人	_	_	_	_	11	nsubj	_	_	ja
+10	が	_	_	_	_	9	case	_	_	ja
+11	怖く	_	_	_	_	14	advcl	_	_	ja
+12	なり	_	_	_	_	11	aux	_	_	ja
+13	、	_	_	_	_	11	punct	_	_	ja
+14	外	_	_	_	_	0	root	_	_	ja
+15	に	_	_	_	_	14	case	_	_	ja
+16	で	_	_	_	_	14	cop	_	_	ja
+17	れ	_	_	_	_	14	aux	_	_	ja
+18	なく	_	_	_	_	14	aux	_	_	ja
+19	なり	_	_	_	_	14	aux	_	_	ja
+20	まし	_	_	_	_	14	aux	_	_	ja
+21	た	_	_	_	_	14	aux	_	_	ja
+22	。	_	_	_	_	14	punct	_	_	ja
+
+1	趣味	_	_	_	_	7	nsubj	_	_	ja
+2	は	_	_	_	_	1	case	_	_	ja
+3	ソフトボール	_	_	_	_	5	nmod	_	_	ja
+4	・	_	_	_	_	3	compound	_	_	ja
+5	マラソン	_	_	_	_	7	nmod	_	_	ja
+6	・	_	_	_	_	5	compound	_	_	ja
+7	飲酒	_	_	_	_	0	root	_	_	ja
+8	。	_	_	_	_	7	punct	_	_	ja
+
+1	チチュウカイリクガメ	_	_	_	_	2	compound	_	_	ja
+2	属	_	_	_	_	4	nmod	_	_	ja
+3	の	_	_	_	_	2	case	_	_	ja
+4	模式種	_	_	_	_	0	root	_	_	ja
+5	。	_	_	_	_	4	punct	_	_	ja
+
+1	収録	_	_	_	_	2	compound	_	_	ja
+2	曲	_	_	_	_	4	nmod	_	_	ja
+3	など	_	_	_	_	2	case	_	_	ja
+4	詳細	_	_	_	_	8	nsubj	_	_	ja
+5	は	_	_	_	_	4	case	_	_	ja
+6	後日	_	_	_	_	8	compound	_	_	ja
+7	発表	_	_	_	_	8	compound	_	_	ja
+8	予定	_	_	_	_	0	root	_	_	ja
+9	。	_	_	_	_	8	punct	_	_	ja
+
+1	見積もり	_	_	_	_	5	nsubj	_	_	ja
+2	は	_	_	_	_	1	case	_	_	ja
+3	出張	_	_	_	_	5	nmod	_	_	ja
+4	や	_	_	_	_	3	cc	_	_	ja
+5	電話	_	_	_	_	25	advcl	_	_	ja
+6	で	_	_	_	_	5	cop	_	_	ja
+7	し	_	_	_	_	25	advcl	_	_	ja
+8	ます	_	_	_	_	5	aux	_	_	ja
+9	が	_	_	_	_	5	mark	_	_	ja
+10	、	_	_	_	_	5	punct	_	_	ja
+11	家具	_	_	_	_	13	nmod	_	_	ja
+12	の	_	_	_	_	11	case	_	_	ja
+13	種類	_	_	_	_	16	nmod	_	_	ja
+14	と	_	_	_	_	13	case	_	_	ja
+15	修理	_	_	_	_	16	compound	_	_	ja
+16	項目別	_	_	_	_	22	iobj	_	_	ja
+17	に	_	_	_	_	16	case	_	_	ja
+18	およそ	_	_	_	_	20	nmod	_	_	ja
+19	の	_	_	_	_	18	case	_	_	ja
+20	見積もり	_	_	_	_	22	obj	_	_	ja
+21	を	_	_	_	_	20	case	_	_	ja
+22	する	_	_	_	_	23	acl	_	_	ja
+23	フォーム	_	_	_	_	25	nsubj	_	_	ja
+24	が	_	_	_	_	23	case	_	_	ja
+25	あり	_	_	_	_	0	root	_	_	ja
+26	ます	_	_	_	_	25	aux	_	_	ja
+27	。	_	_	_	_	25	punct	_	_	ja
+
+1	戦後	_	_	_	_	11	nsubj	_	_	ja
+2	は	_	_	_	_	1	case	_	_	ja
+3	1906	_	_	_	_	4	nummod	_	_	ja
+4	年	_	_	_	_	11	iobj	_	_	ja
+5	に	_	_	_	_	4	case	_	_	ja
+6	装甲	_	_	_	_	9	compound	_	_	ja
+7	巡洋艦	_	_	_	_	9	compound	_	_	ja
+8	リューリク	_	_	_	_	9	compound	_	_	ja
+9	艦長	_	_	_	_	11	iobj	_	_	ja
+10	に	_	_	_	_	9	case	_	_	ja
+11	着任	_	_	_	_	0	root	_	_	ja
+12	。	_	_	_	_	11	punct	_	_	ja
+
+1	この	_	_	_	_	2	det	_	_	ja
+2	山寺	_	_	_	_	4	nmod	_	_	ja
+3	の	_	_	_	_	2	case	_	_	ja
+4	アイディア	_	_	_	_	19	nsubj	_	_	ja
+5	は	_	_	_	_	4	case	_	_	ja
+6	、	_	_	_	_	4	punct	_	_	ja
+7	後	_	_	_	_	19	iobj	_	_	ja
+8	に	_	_	_	_	7	case	_	_	ja
+9	『	_	_	_	_	14	punct	_	_	ja
+10	ルパン	_	_	_	_	14	compound	_	_	ja
+11	三世	_	_	_	_	14	compound	_	_	ja
+12	風	_	_	_	_	14	compound	_	_	ja
+13	魔	_	_	_	_	14	compound	_	_	ja
+14	一族	_	_	_	_	16	nmod	_	_	ja
+15	の	_	_	_	_	14	case	_	_	ja
+16	陰謀	_	_	_	_	19	obl	_	_	ja
+17	』	_	_	_	_	16	compound	_	_	ja
+18	にて	_	_	_	_	16	case	_	_	ja
+19	流用	_	_	_	_	0	root	_	_	ja
+20	さ	_	_	_	_	19	aux	_	_	ja
+21	れる	_	_	_	_	19	aux	_	_	ja
+22	。	_	_	_	_	19	punct	_	_	ja
+
+1	同署	_	_	_	_	3	iobj	_	_	ja
+2	に	_	_	_	_	1	case	_	_	ja
+3	よる	_	_	_	_	28	advcl	_	_	ja
+4	と	_	_	_	_	3	mark	_	_	ja
+5	、	_	_	_	_	3	punct	_	_	ja
+6	ドラマ	_	_	_	_	8	nmod	_	_	ja
+7	の	_	_	_	_	6	case	_	_	ja
+8	撮影	_	_	_	_	10	nsubj	_	_	ja
+9	は	_	_	_	_	8	case	_	_	ja
+10	行わ	_	_	_	_	28	advcl	_	_	ja
+11	れ	_	_	_	_	10	aux	_	_	ja
+12	ず	_	_	_	_	10	aux	_	_	ja
+13	、	_	_	_	_	10	punct	_	_	ja
+14	違約金	_	_	_	_	16	obl	_	_	ja
+15	も	_	_	_	_	14	case	_	_	ja
+16	返却	_	_	_	_	28	advcl	_	_	ja
+17	さ	_	_	_	_	16	aux	_	_	ja
+18	れ	_	_	_	_	16	aux	_	_	ja
+19	ない	_	_	_	_	16	aux	_	_	ja
+20	ため	_	_	_	_	16	mark	_	_	ja
+21	、	_	_	_	_	16	punct	_	_	ja
+22	女性	_	_	_	_	28	nsubj	_	_	ja
+23	が	_	_	_	_	22	case	_	_	ja
+24	2月	_	_	_	_	28	iobj	_	_	ja
+25	に	_	_	_	_	24	case	_	_	ja
+26	被害	_	_	_	_	28	obj	_	_	ja
+27	を	_	_	_	_	26	case	_	_	ja
+28	届け出	_	_	_	_	0	root	_	_	ja
+29	た	_	_	_	_	28	aux	_	_	ja
+30	。	_	_	_	_	28	punct	_	_	ja
+
+1	翌	_	_	_	_	3	compound	_	_	ja
+2	12	_	_	_	_	3	nummod	_	_	ja
+3	日	_	_	_	_	14	obl	_	_	ja
+4	より	_	_	_	_	3	case	_	_	ja
+5	五島	_	_	_	_	7	compound	_	_	ja
+6	産業	_	_	_	_	7	compound	_	_	ja
+7	汽船	_	_	_	_	14	nsubj	_	_	ja
+8	が	_	_	_	_	7	case	_	_	ja
+9	同	_	_	_	_	10	amod	_	_	ja
+10	航路	_	_	_	_	12	nmod	_	_	ja
+11	の	_	_	_	_	10	case	_	_	ja
+12	運航	_	_	_	_	14	obj	_	_	ja
+13	を	_	_	_	_	12	case	_	_	ja
+14	開始	_	_	_	_	25	advcl	_	_	ja
+15	し	_	_	_	_	14	aux	_	_	ja
+16	た	_	_	_	_	14	aux	_	_	ja
+17	が	_	_	_	_	14	mark	_	_	ja
+18	、	_	_	_	_	14	punct	_	_	ja
+19	2006	_	_	_	_	20	nummod	_	_	ja
+20	年	_	_	_	_	21	nmod	_	_	ja
+21	4月	_	_	_	_	23	obj	_	_	ja
+22	を	_	_	_	_	21	case	_	_	ja
+23	もっ	_	_	_	_	25	advcl	_	_	ja
+24	て	_	_	_	_	23	mark	_	_	ja
+25	廃止	_	_	_	_	0	root	_	_	ja
+26	。	_	_	_	_	25	punct	_	_	ja
+
+1	「	_	_	_	_	3	punct	_	_	ja
+2	MAX	_	_	_	_	3	compound	_	_	ja
+3	11836	_	_	_	_	36	nsubj	_	_	ja
+4	」	_	_	_	_	3	punct	_	_	ja
+5	は	_	_	_	_	3	case	_	_	ja
+6	ユーザー	_	_	_	_	7	compound	_	_	ja
+7	定義	_	_	_	_	9	nmod	_	_	ja
+8	の	_	_	_	_	7	case	_	_	ja
+9	ハプティックパターン	_	_	_	_	12	nmod	_	_	ja
+10	の	_	_	_	_	9	case	_	_	ja
+11	オンチップ	_	_	_	_	12	compound	_	_	ja
+12	保存	_	_	_	_	15	nmod	_	_	ja
+13	,	_	_	_	_	12	punct	_	_	ja
+14	再生	_	_	_	_	15	compound	_	_	ja
+15	ロジック	_	_	_	_	24	nmod	_	_	ja
+16	,	_	_	_	_	15	punct	_	_	ja
+17	出力	_	_	_	_	19	compound	_	_	ja
+18	設定	_	_	_	_	19	compound	_	_	ja
+19	可能	_	_	_	_	24	acl	_	_	ja
+20	な	_	_	_	_	19	aux	_	_	ja
+21	DC	_	_	_	_	24	compound	_	_	ja
+22	-	_	_	_	_	24	compound	_	_	ja
+23	DC	_	_	_	_	24	compound	_	_	ja
+24	変換	_	_	_	_	34	nmod	_	_	ja
+25	,	_	_	_	_	24	punct	_	_	ja
+26	および	_	_	_	_	24	advmod	_	_	ja
+27	高い	_	_	_	_	31	acl	_	_	ja
+28	容量	_	_	_	_	31	compound	_	_	ja
+29	性	_	_	_	_	31	compound	_	_	ja
+30	負荷	_	_	_	_	31	compound	_	_	ja
+31	用	_	_	_	_	34	nmod	_	_	ja
+32	の	_	_	_	_	31	case	_	_	ja
+33	出力	_	_	_	_	34	compound	_	_	ja
+34	ドライバ	_	_	_	_	36	obj	_	_	ja
+35	を	_	_	_	_	34	case	_	_	ja
+36	備え	_	_	_	_	0	root	_	_	ja
+37	て	_	_	_	_	36	mark	_	_	ja
+38	いる	_	_	_	_	36	aux	_	_	ja
+39	。	_	_	_	_	36	punct	_	_	ja
+
+1	現在	_	_	_	_	8	obl	_	_	ja
+2	で	_	_	_	_	1	case	_	_	ja
+3	は	_	_	_	_	1	case	_	_	ja
+4	、	_	_	_	_	1	punct	_	_	ja
+5	観光客	_	_	_	_	8	obl	_	_	ja
+6	も	_	_	_	_	5	case	_	_	ja
+7	多く	_	_	_	_	8	advcl	_	_	ja
+8	訪れる	_	_	_	_	0	root	_	_	ja
+9	ように	_	_	_	_	8	aux	_	_	ja
+10	なっ	_	_	_	_	8	aux	_	_	ja
+11	て	_	_	_	_	8	mark	_	_	ja
+12	いる	_	_	_	_	8	aux	_	_	ja
+13	。	_	_	_	_	8	punct	_	_	ja
+
+1	無邪気	_	_	_	_	3	advcl	_	_	ja
+2	で	_	_	_	_	1	aux	_	_	ja
+3	素直	_	_	_	_	5	acl	_	_	ja
+4	な	_	_	_	_	3	aux	_	_	ja
+5	性格	_	_	_	_	10	advcl	_	_	ja
+6	である	_	_	_	_	5	cop	_	_	ja
+7	が	_	_	_	_	5	mark	_	_	ja
+8	、	_	_	_	_	5	punct	_	_	ja
+9	少し	_	_	_	_	10	advmod	_	_	ja
+10	弱虫	_	_	_	_	0	root	_	_	ja
+11	。	_	_	_	_	10	punct	_	_	ja
+
+1	気軽	_	_	_	_	3	iobj	_	_	ja
+2	に	_	_	_	_	1	aux	_	_	ja
+3	立ち寄	_	_	_	_	5	acl	_	_	ja
+4	れる	_	_	_	_	3	aux	_	_	ja
+5	ネイルサロン	_	_	_	_	15	advcl	_	_	ja
+6	な	_	_	_	_	5	cop	_	_	ja
+7	ので	_	_	_	_	5	mark	_	_	ja
+8	、	_	_	_	_	5	punct	_	_	ja
+9	初めて	_	_	_	_	11	nmod	_	_	ja
+10	の	_	_	_	_	9	case	_	_	ja
+11	人	_	_	_	_	15	obl	_	_	ja
+12	で	_	_	_	_	11	case	_	_	ja
+13	も	_	_	_	_	11	case	_	_	ja
+14	是非	_	_	_	_	15	advmod	_	_	ja
+15	通っ	_	_	_	_	0	root	_	_	ja
+16	て	_	_	_	_	15	mark	_	_	ja
+17	み	_	_	_	_	15	aux	_	_	ja
+18	て	_	_	_	_	15	mark	_	_	ja
+19	ください	_	_	_	_	15	aux	_	_	ja
+20	。	_	_	_	_	15	punct	_	_	ja
+
+1	お	_	_	_	_	2	compound	_	_	ja
+2	料理	_	_	_	_	8	nsubj	_	_	ja
+3	が	_	_	_	_	2	case	_	_	ja
+4	気	_	_	_	_	8	iobj	_	_	ja
+5	に	_	_	_	_	4	case	_	_	ja
+6	ここ	_	_	_	_	8	iobj	_	_	ja
+7	に	_	_	_	_	6	case	_	_	ja
+8	し	_	_	_	_	0	root	_	_	ja
+9	た	_	_	_	_	8	aux	_	_	ja
+10	の	_	_	_	_	8	mark	_	_	ja
+11	です	_	_	_	_	8	cop	_	_	ja
+12	。	_	_	_	_	8	punct	_	_	ja
+
+1	ヒットメーカー	_	_	_	_	5	iobj	_	_	ja
+2	に	_	_	_	_	1	case	_	_	ja
+3	当たり	_	_	_	_	5	nsubj	_	_	ja
+4	が	_	_	_	_	3	case	_	_	ja
+5	出	_	_	_	_	0	root	_	_	ja
+6	ない	_	_	_	_	5	aux	_	_	ja
+7	。	_	_	_	_	5	punct	_	_	ja
+
+1	日置	_	_	_	_	3	compound	_	_	ja
+2	藩	_	_	_	_	3	compound	_	_	ja
+3	領主	_	_	_	_	0	root	_	_	ja
+4	。	_	_	_	_	3	punct	_	_	ja
+
+1	一旦	_	_	_	_	6	nsubj	_	_	ja
+2	は	_	_	_	_	1	case	_	_	ja
+3	その	_	_	_	_	4	det	_	_	ja
+4	考え	_	_	_	_	6	obj	_	_	ja
+5	を	_	_	_	_	4	case	_	_	ja
+6	受け入れ	_	_	_	_	29	advcl	_	_	ja
+7	た	_	_	_	_	6	aux	_	_	ja
+8	が	_	_	_	_	6	mark	_	_	ja
+9	、	_	_	_	_	6	punct	_	_	ja
+10	CNRT	_	_	_	_	11	obl	_	_	ja
+11	率いる	_	_	_	_	13	acl	_	_	ja
+12	野党	_	_	_	_	13	compound	_	_	ja
+13	連合	_	_	_	_	15	nmod	_	_	ja
+14	と	_	_	_	_	13	case	_	_	ja
+15	フレティリン	_	_	_	_	23	nsubj	_	_	ja
+16	は	_	_	_	_	15	case	_	_	ja
+17	、	_	_	_	_	15	punct	_	_	ja
+18	何	_	_	_	_	19	nummod	_	_	ja
+19	週間	_	_	_	_	23	obl	_	_	ja
+20	も	_	_	_	_	19	case	_	_	ja
+21	論争	_	_	_	_	23	obj	_	_	ja
+22	を	_	_	_	_	21	case	_	_	ja
+23	繰り返し	_	_	_	_	29	advcl	_	_	ja
+24	た	_	_	_	_	23	aux	_	_	ja
+25	が	_	_	_	_	23	mark	_	_	ja
+26	合意	_	_	_	_	29	iobj	_	_	ja
+27	に	_	_	_	_	26	case	_	_	ja
+28	は	_	_	_	_	26	case	_	_	ja
+29	至ら	_	_	_	_	0	root	_	_	ja
+30	なかっ	_	_	_	_	29	aux	_	_	ja
+31	た	_	_	_	_	29	aux	_	_	ja
+32	。	_	_	_	_	29	punct	_	_	ja
+
+1	そこ	_	_	_	_	14	obl	_	_	ja
+2	で	_	_	_	_	1	case	_	_	ja
+3	、	_	_	_	_	1	punct	_	_	ja
+4	うなぎ	_	_	_	_	5	compound	_	_	ja
+5	屋	_	_	_	_	9	nsubj	_	_	ja
+6	が	_	_	_	_	5	case	_	_	ja
+7	山伏	_	_	_	_	9	obj	_	_	ja
+8	を	_	_	_	_	7	case	_	_	ja
+9	追っかけ	_	_	_	_	14	advcl	_	_	ja
+10	て	_	_	_	_	9	mark	_	_	ja
+11	その	_	_	_	_	12	det	_	_	ja
+12	通り	_	_	_	_	14	iobj	_	_	ja
+13	に	_	_	_	_	12	case	_	_	ja
+14	言う	_	_	_	_	17	acl	_	_	ja
+15	と	_	_	_	_	14	mark	_	_	ja
+16	「	_	_	_	_	17	punct	_	_	ja
+17	わしゃ	_	_	_	_	0	root	_	_	ja
+18	。	_	_	_	_	17	punct	_	_	ja
+
+1	正午	_	_	_	_	4	nmod	_	_	ja
+2	から	_	_	_	_	1	case	_	_	ja
+3	の	_	_	_	_	1	case	_	_	ja
+4	デモ	_	_	_	_	41	obl	_	_	ja
+5	で	_	_	_	_	4	case	_	_	ja
+6	は	_	_	_	_	4	case	_	_	ja
+7	,	_	_	_	_	4	punct	_	_	ja
+8	紀尾井町	_	_	_	_	13	nmod	_	_	ja
+9	の	_	_	_	_	8	case	_	_	ja
+10	文芸春秋	_	_	_	_	13	compound	_	_	ja
+11	本社	_	_	_	_	13	compound	_	_	ja
+12	通用	_	_	_	_	13	compound	_	_	ja
+13	門前	_	_	_	_	21	iobj	_	_	ja
+14	に	_	_	_	_	13	case	_	_	ja
+15	30	_	_	_	_	16	nummod	_	_	ja
+16	名	_	_	_	_	19	nmod	_	_	ja
+17	程	_	_	_	_	16	case	_	_	ja
+18	の	_	_	_	_	16	case	_	_	ja
+19	信者	_	_	_	_	21	nsubj	_	_	ja
+20	が	_	_	_	_	19	case	_	_	ja
+21	並び	_	_	_	_	41	advcl	_	_	ja
+22	,	_	_	_	_	21	punct	_	_	ja
+23	初日	_	_	_	_	27	obl	_	_	ja
+24	から	_	_	_	_	23	case	_	_	ja
+25	リーダー	_	_	_	_	27	obj	_	_	ja
+26	を	_	_	_	_	25	case	_	_	ja
+27	務める	_	_	_	_	31	acl	_	_	ja
+28	井口	_	_	_	_	29	compound	_	_	ja
+29	氏	_	_	_	_	31	nmod	_	_	ja
+30	の	_	_	_	_	29	case	_	_	ja
+31	号令	_	_	_	_	41	obl	_	_	ja
+32	で	_	_	_	_	31	case	_	_	ja
+33	一	_	_	_	_	34	nummod	_	_	ja
+34	人	_	_	_	_	38	obl	_	_	ja
+35	ずつ	_	_	_	_	34	case	_	_	ja
+36	ビル	_	_	_	_	38	iobj	_	_	ja
+37	に	_	_	_	_	36	case	_	_	ja
+38	向かい	_	_	_	_	39	acl	_	_	ja
+39	抗議	_	_	_	_	41	nmod	_	_	ja
+40	の	_	_	_	_	39	case	_	_	ja
+41	演説	_	_	_	_	0	root	_	_	ja
+42	。	_	_	_	_	41	punct	_	_	ja
+
+1	したがって	_	_	_	_	25	advmod	_	_	ja
+2	、	_	_	_	_	1	punct	_	_	ja
+3	横滑り	_	_	_	_	4	compound	_	_	ja
+4	側	_	_	_	_	7	nmod	_	_	ja
+5	の	_	_	_	_	4	case	_	_	ja
+6	片	_	_	_	_	7	compound	_	_	ja
+7	翼	_	_	_	_	9	nmod	_	_	ja
+8	の	_	_	_	_	7	case	_	_	ja
+9	揚力	_	_	_	_	14	nsubj	_	_	ja
+10	が	_	_	_	_	9	case	_	_	ja
+11	反対側	_	_	_	_	14	obl	_	_	ja
+12	より	_	_	_	_	11	case	_	_	ja
+13	も	_	_	_	_	11	case	_	_	ja
+14	大きく	_	_	_	_	25	advcl	_	_	ja
+15	なり	_	_	_	_	14	aux	_	_	ja
+16	、	_	_	_	_	14	punct	_	_	ja
+17	エルロン	_	_	_	_	18	compound	_	_	ja
+18	操作	_	_	_	_	20	obj	_	_	ja
+19	を	_	_	_	_	18	case	_	_	ja
+20	行なわ	_	_	_	_	25	advcl	_	_	ja
+21	なく	_	_	_	_	20	aux	_	_	ja
+22	とも	_	_	_	_	20	mark	_	_	ja
+23	傾き	_	_	_	_	25	nsubj	_	_	ja
+24	は	_	_	_	_	23	case	_	_	ja
+25	回復	_	_	_	_	0	root	_	_	ja
+26	する	_	_	_	_	25	aux	_	_	ja
+27	。	_	_	_	_	25	punct	_	_	ja
+
+1	安徽省	_	_	_	_	3	compound	_	_	ja
+2	安慶	_	_	_	_	3	compound	_	_	ja
+3	出身	_	_	_	_	0	root	_	_	ja
+4	。	_	_	_	_	3	punct	_	_	ja
+
+1	唯一	_	_	_	_	9	advmod	_	_	ja
+2	、	_	_	_	_	1	punct	_	_	ja
+3	最初	_	_	_	_	7	obl	_	_	ja
+4	から	_	_	_	_	3	case	_	_	ja
+5	冥術	_	_	_	_	7	obj	_	_	ja
+6	を	_	_	_	_	5	case	_	_	ja
+7	使用	_	_	_	_	9	acl	_	_	ja
+8	できる	_	_	_	_	7	aux	_	_	ja
+9	クラス	_	_	_	_	0	root	_	_	ja
+10	。	_	_	_	_	9	punct	_	_	ja
+
+1	非常	_	_	_	_	3	advmod	_	_	ja
+2	に	_	_	_	_	1	aux	_	_	ja
+3	楽しみ	_	_	_	_	0	root	_	_	ja
+4	です	_	_	_	_	3	cop	_	_	ja
+5	。	_	_	_	_	3	punct	_	_	ja
+
+1	一部	_	_	_	_	32	obl	_	_	ja
+2	で	_	_	_	_	1	case	_	_	ja
+3	9月	_	_	_	_	4	nummod	_	_	ja
+4	中間期	_	_	_	_	7	nmod	_	_	ja
+5	の	_	_	_	_	4	case	_	_	ja
+6	連結	_	_	_	_	7	compound	_	_	ja
+7	営業利益	_	_	_	_	20	nsubj	_	_	ja
+8	が	_	_	_	_	7	case	_	_	ja
+9	36	_	_	_	_	12	nummod	_	_	ja
+10	億	_	_	_	_	12	nummod	_	_	ja
+11	円	_	_	_	_	12	compound	_	_	ja
+12	前後	_	_	_	_	20	obl	_	_	ja
+13	と	_	_	_	_	12	case	_	_	ja
+14	前年	_	_	_	_	16	compound	_	_	ja
+15	同期	_	_	_	_	16	compound	_	_	ja
+16	比	_	_	_	_	19	compound	_	_	ja
+17	35	_	_	_	_	19	nummod	_	_	ja
+18	%	_	_	_	_	19	compound	_	_	ja
+19	程度	_	_	_	_	20	obl	_	_	ja
+20	増え	_	_	_	_	24	advcl	_	_	ja
+21	た	_	_	_	_	20	aux	_	_	ja
+22	ようだ	_	_	_	_	20	aux	_	_	ja
+23	と	_	_	_	_	20	case	_	_	ja
+24	伝え	_	_	_	_	30	acl	_	_	ja
+25	られ	_	_	_	_	24	aux	_	_	ja
+26	た	_	_	_	_	24	aux	_	_	ja
+27	こと	_	_	_	_	24	aux	_	_	ja
+28	が	_	_	_	_	24	case	_	_	ja
+29	買い	_	_	_	_	30	acl	_	_	ja
+30	材料	_	_	_	_	32	obl	_	_	ja
+31	と	_	_	_	_	30	case	_	_	ja
+32	なっ	_	_	_	_	0	root	_	_	ja
+33	た	_	_	_	_	32	aux	_	_	ja
+34	。	_	_	_	_	32	punct	_	_	ja
+
+1	12月	_	_	_	_	3	nmod	_	_	ja
+2	2	_	_	_	_	3	nummod	_	_	ja
+3	日	_	_	_	_	5	nmod	_	_	ja
+4	の	_	_	_	_	3	case	_	_	ja
+5	午後	_	_	_	_	22	obl	_	_	ja
+6	、	_	_	_	_	5	punct	_	_	ja
+7	ドイツ	_	_	_	_	9	compound	_	_	ja
+8	空軍	_	_	_	_	9	compound	_	_	ja
+9	パイロット	_	_	_	_	13	nmod	_	_	ja
+10	、	_	_	_	_	9	punct	_	_	ja
+11	ヴェルナー	_	_	_	_	13	nmod	_	_	ja
+12	・	_	_	_	_	11	compound	_	_	ja
+13	ハーン	_	_	_	_	22	nsubj	_	_	ja
+14	は	_	_	_	_	13	case	_	_	ja
+15	Me	_	_	_	_	16	compound	_	_	ja
+16	210	_	_	_	_	22	obl	_	_	ja
+17	で	_	_	_	_	16	case	_	_	ja
+18	バーリ	_	_	_	_	22	obj	_	_	ja
+19	を	_	_	_	_	18	case	_	_	ja
+20	上空	_	_	_	_	22	obl	_	_	ja
+21	から	_	_	_	_	20	case	_	_	ja
+22	偵察	_	_	_	_	0	root	_	_	ja
+23	し	_	_	_	_	22	aux	_	_	ja
+24	た	_	_	_	_	22	aux	_	_	ja
+25	。	_	_	_	_	22	punct	_	_	ja
+
+1	幸福	_	_	_	_	4	nmod	_	_	ja
+2	の	_	_	_	_	1	case	_	_	ja
+3	科学	_	_	_	_	4	compound	_	_	ja
+4	学園	_	_	_	_	6	nmod	_	_	ja
+5	の	_	_	_	_	4	case	_	_	ja
+6	毎時	_	_	_	_	14	obl	_	_	ja
+7	4.20	_	_	_	_	9	nummod	_	_	ja
+8	マイクロ	_	_	_	_	9	compound	_	_	ja
+9	シーベルト	_	_	_	_	12	nmod	_	_	ja
+10	という	_	_	_	_	9	case	_	_	ja
+11	この	_	_	_	_	12	det	_	_	ja
+12	基準	_	_	_	_	14	obj	_	_	ja
+13	を	_	_	_	_	12	case	_	_	ja
+14	上回り	_	_	_	_	0	root	_	_	ja
+15	ます	_	_	_	_	14	aux	_	_	ja
+16	。	_	_	_	_	14	punct	_	_	ja
+
+1	「	_	_	_	_	2	punct	_	_	ja
+2	VANITYDANCE	_	_	_	_	6	nmod	_	_	ja
+3	」	_	_	_	_	2	punct	_	_	ja
+4	と	_	_	_	_	2	case	_	_	ja
+5	「	_	_	_	_	6	punct	_	_	ja
+6	Labyrinth	_	_	_	_	24	nsubj	_	_	ja
+7	」	_	_	_	_	6	punct	_	_	ja
+8	は	_	_	_	_	6	case	_	_	ja
+9	、	_	_	_	_	6	punct	_	_	ja
+10	オムニバス	_	_	_	_	11	amod	_	_	ja
+11	アルバム	_	_	_	_	15	nmod	_	_	ja
+12	『	_	_	_	_	13	punct	_	_	ja
+13	漆黒	_	_	_	_	15	nmod	_	_	ja
+14	の	_	_	_	_	13	case	_	_	ja
+15	シンフォニー	_	_	_	_	18	iobj	_	_	ja
+16	』	_	_	_	_	15	compound	_	_	ja
+17	に	_	_	_	_	15	case	_	_	ja
+18	収録	_	_	_	_	24	acl	_	_	ja
+19	さ	_	_	_	_	18	aux	_	_	ja
+20	れ	_	_	_	_	18	aux	_	_	ja
+21	た	_	_	_	_	18	aux	_	_	ja
+22	ものの	_	_	_	_	24	advmod	_	_	ja
+23	リミックス	_	_	_	_	24	compound	_	_	ja
+24	バージョン	_	_	_	_	0	root	_	_	ja
+25	である	_	_	_	_	24	cop	_	_	ja
+26	。	_	_	_	_	24	punct	_	_	ja
+
+1	その	_	_	_	_	2	det	_	_	ja
+2	うち	_	_	_	_	4	nmod	_	_	ja
+3	の	_	_	_	_	2	case	_	_	ja
+4	幾つ	_	_	_	_	22	nsubj	_	_	ja
+5	か	_	_	_	_	4	case	_	_	ja
+6	は	_	_	_	_	4	case	_	_	ja
+7	イギリス	_	_	_	_	8	compound	_	_	ja
+8	当局	_	_	_	_	12	nsubj	_	_	ja
+9	が	_	_	_	_	8	case	_	_	ja
+10	ケニア人	_	_	_	_	12	obj	_	_	ja
+11	を	_	_	_	_	10	case	_	_	ja
+12	抑圧	_	_	_	_	15	acl	_	_	ja
+13	し	_	_	_	_	12	aux	_	_	ja
+14	た	_	_	_	_	12	aux	_	_	ja
+15	方法	_	_	_	_	19	obj	_	_	ja
+16	を	_	_	_	_	15	case	_	_	ja
+17	その	_	_	_	_	18	det	_	_	ja
+18	まま	_	_	_	_	19	obl	_	_	ja
+19	転用	_	_	_	_	22	acl	_	_	ja
+20	し	_	_	_	_	19	aux	_	_	ja
+21	た	_	_	_	_	19	aux	_	_	ja
+22	もの	_	_	_	_	0	root	_	_	ja
+23	だっ	_	_	_	_	22	cop	_	_	ja
+24	た	_	_	_	_	22	aux	_	_	ja
+25	。	_	_	_	_	22	punct	_	_	ja
+
+1	後	_	_	_	_	5	nmod	_	_	ja
+2	の	_	_	_	_	1	case	_	_	ja
+3	稲川	_	_	_	_	5	compound	_	_	ja
+4	組	_	_	_	_	5	compound	_	_	ja
+5	幹部	_	_	_	_	8	obl	_	_	ja
+6	)	_	_	_	_	5	punct	_	_	ja
+7	と	_	_	_	_	5	case	_	_	ja
+8	知り合い	_	_	_	_	15	advcl	_	_	ja
+9	、	_	_	_	_	8	punct	_	_	ja
+10	出口	_	_	_	_	11	compound	_	_	ja
+11	辰夫	_	_	_	_	13	nmod	_	_	ja
+12	と	_	_	_	_	11	case	_	_	ja
+13	兄弟分	_	_	_	_	15	obl	_	_	ja
+14	と	_	_	_	_	13	case	_	_	ja
+15	なっ	_	_	_	_	0	root	_	_	ja
+16	た	_	_	_	_	15	aux	_	_	ja
+17	。	_	_	_	_	15	punct	_	_	ja
+
+1	一方	_	_	_	_	121	advmod	_	_	ja
+2	、	_	_	_	_	1	punct	_	_	ja
+3	東海	_	_	_	_	7	compound	_	_	ja
+4	地方	_	_	_	_	7	compound	_	_	ja
+5	北陸地方	_	_	_	_	7	compound	_	_	ja
+6	以	_	_	_	_	7	compound	_	_	ja
+7	東	_	_	_	_	9	nmod	_	_	ja
+8	の	_	_	_	_	7	case	_	_	ja
+9	東日本	_	_	_	_	82	nsubj	_	_	ja
+10	は	_	_	_	_	9	case	_	_	ja
+11	、	_	_	_	_	9	punct	_	_	ja
+12	比較的	_	_	_	_	13	advmod	_	_	ja
+13	広い	_	_	_	_	14	acl	_	_	ja
+14	沖積平野	_	_	_	_	16	iobj	_	_	ja
+15	に	_	_	_	_	14	case	_	_	ja
+16	恵まれ	_	_	_	_	20	acl	_	_	ja
+17	て	_	_	_	_	16	mark	_	_	ja
+18	い	_	_	_	_	16	aux	_	_	ja
+19	た	_	_	_	_	16	aux	_	_	ja
+20	上	_	_	_	_	43	iobj	_	_	ja
+21	に	_	_	_	_	20	case	_	_	ja
+22	、	_	_	_	_	20	punct	_	_	ja
+23	太平洋側	_	_	_	_	16	obj	_	_	ja
+24	を	_	_	_	_	29	case	_	_	ja
+25	中心	_	_	_	_	16	advcl	_	_	ja
+26	に	_	_	_	_	25	case	_	_	ja
+27	低	_	_	_	_	29	compound	_	_	ja
+28	開発	_	_	_	_	29	compound	_	_	ja
+29	状態	_	_	_	_	32	nmod	_	_	ja
+30	の	_	_	_	_	29	case	_	_	ja
+31	洪積	_	_	_	_	32	compound	_	_	ja
+32	台地	_	_	_	_	41	nmod	_	_	ja
+33	や	_	_	_	_	32	cc	_	_	ja
+34	河岸	_	_	_	_	29	compound	_	_	ja
+35	段丘	_	_	_	_	29	compound	_	_	ja
+36	面	_	_	_	_	39	nmod	_	_	ja
+37	の	_	_	_	_	29	case	_	_	ja
+38	農地	_	_	_	_	39	compound	_	_	ja
+39	開発	_	_	_	_	41	nmod	_	_	ja
+40	の	_	_	_	_	39	case	_	_	ja
+41	余地	_	_	_	_	91	nsubj	_	_	ja
+42	が	_	_	_	_	41	case	_	_	ja
+43	大きく	_	_	_	_	57	advcl	_	_	ja
+44	、	_	_	_	_	43	punct	_	_	ja
+45	日本海側	_	_	_	_	91	nsubj	_	_	ja
+46	を	_	_	_	_	45	case	_	_	ja
+47	中心	_	_	_	_	91	advcl	_	_	ja
+48	に	_	_	_	_	47	aux	_	_	ja
+49	扇状地	_	_	_	_	91	advcl	_	_	ja
+50	で	_	_	_	_	49	case	_	_	ja
+51	も	_	_	_	_	49	case	_	_	ja
+52	開発	_	_	_	_	54	nmod	_	_	ja
+53	の	_	_	_	_	52	case	_	_	ja
+54	余地	_	_	_	_	91	nsubj	_	_	ja
+55	が	_	_	_	_	54	case	_	_	ja
+56	広く	_	_	_	_	57	advcl	_	_	ja
+57	存在	_	_	_	_	121	advcl	_	_	ja
+58	し	_	_	_	_	57	aux	_	_	ja
+59	た	_	_	_	_	57	aux	_	_	ja
+60	ため	_	_	_	_	57	mark	_	_	ja
+61	、	_	_	_	_	57	punct	_	_	ja
+62	江戸時代	_	_	_	_	64	iobj	_	_	ja
+63	に	_	_	_	_	62	case	_	_	ja
+64	至っ	_	_	_	_	121	advcl	_	_	ja
+65	て	_	_	_	_	64	mark	_	_	ja
+66	も	_	_	_	_	64	case	_	_	ja
+67	、	_	_	_	_	64	punct	_	_	ja
+68	急峻	_	_	_	_	70	acl	_	_	ja
+69	な	_	_	_	_	68	aux	_	_	ja
+70	山地	_	_	_	_	73	nmod	_	_	ja
+71	の	_	_	_	_	70	case	_	_	ja
+72	傾斜	_	_	_	_	73	compound	_	_	ja
+73	面	_	_	_	_	16	obj	_	_	ja
+74	を	_	_	_	_	73	case	_	_	ja
+75	切り開い	_	_	_	_	82	advcl	_	_	ja
+76	て	_	_	_	_	75	mark	_	_	ja
+77	棚田	_	_	_	_	79	obj	_	_	ja
+78	を	_	_	_	_	77	case	_	_	ja
+79	つくる	_	_	_	_	121	advcl	_	_	ja
+80	まで	_	_	_	_	79	case	_	_	ja
+81	に	_	_	_	_	79	case	_	_	ja
+82	至ら	_	_	_	_	121	advcl	_	_	ja
+83	なかっ	_	_	_	_	57	aux	_	_	ja
+84	た	_	_	_	_	43	aux	_	_	ja
+85	ところが	_	_	_	_	57	nsubj	_	_	ja
+86	多く	_	_	_	_	121	advcl	_	_	ja
+87	、	_	_	_	_	86	punct	_	_	ja
+88	棚田	_	_	_	_	91	nsubj	_	_	ja
+89	は	_	_	_	_	88	case	_	_	ja
+90	あまり	_	_	_	_	91	advmod	_	_	ja
+91	つくら	_	_	_	_	111	advcl	_	_	ja
+92	れ	_	_	_	_	91	aux	_	_	ja
+93	ない	_	_	_	_	91	aux	_	_	ja
+94	か	_	_	_	_	91	mark	_	_	ja
+95	、	_	_	_	_	91	punct	_	_	ja
+96	つくら	_	_	_	_	99	acl	_	_	ja
+97	れ	_	_	_	_	96	aux	_	_	ja
+98	た	_	_	_	_	96	aux	_	_	ja
+99	場合	_	_	_	_	111	obl	_	_	ja
+100	でも	_	_	_	_	99	case	_	_	ja
+101	畔	_	_	_	_	103	nmod	_	_	ja
+102	や	_	_	_	_	101	cc	_	_	ja
+103	土手	_	_	_	_	111	nsubj	_	_	ja
+104	は	_	_	_	_	103	case	_	_	ja
+105	傾斜	_	_	_	_	107	nsubj	_	_	ja
+106	が	_	_	_	_	105	case	_	_	ja
+107	緩やか	_	_	_	_	109	acl	_	_	ja
+108	な	_	_	_	_	107	aux	_	_	ja
+109	土盛り	_	_	_	_	111	obl	_	_	ja
+110	と	_	_	_	_	109	case	_	_	ja
+111	なり	_	_	_	_	121	advcl	_	_	ja
+112	、	_	_	_	_	111	punct	_	_	ja
+113	西日本	_	_	_	_	121	nsubj	_	_	ja
+114	と	_	_	_	_	113	case	_	_	ja
+115	は	_	_	_	_	113	case	_	_	ja
+116	対照的	_	_	_	_	119	acl	_	_	ja
+117	な	_	_	_	_	116	aux	_	_	ja
+118	棚田	_	_	_	_	119	compound	_	_	ja
+119	風景	_	_	_	_	121	obl	_	_	ja
+120	と	_	_	_	_	119	case	_	_	ja
+121	なっ	_	_	_	_	0	root	_	_	ja
+122	た	_	_	_	_	121	aux	_	_	ja
+123	。	_	_	_	_	121	punct	_	_	ja
+
+1	男	_	_	_	_	39	nsubj	_	_	ja
+2	は	_	_	_	_	1	case	_	_	ja
+3	女	_	_	_	_	5	nmod	_	_	ja
+4	の	_	_	_	_	3	case	_	_	ja
+5	為	_	_	_	_	7	iobj	_	_	ja
+6	に	_	_	_	_	5	case	_	_	ja
+7	闘い	_	_	_	_	10	acl	_	_	ja
+8	抜い	_	_	_	_	7	aux	_	_	ja
+9	た	_	_	_	_	7	aux	_	_	ja
+10	とき	_	_	_	_	15	nsubj	_	_	ja
+11	女	_	_	_	_	15	nsubj	_	_	ja
+12	は	_	_	_	_	11	case	_	_	ja
+13	心	_	_	_	_	15	obj	_	_	ja
+14	を	_	_	_	_	13	case	_	_	ja
+15	寄せる	_	_	_	_	39	advcl	_	_	ja
+16	ので	_	_	_	_	15	mark	_	_	ja
+17	あっ	_	_	_	_	22	advcl	_	_	ja
+18	て	_	_	_	_	17	mark	_	_	ja
+19	,	_	_	_	_	15	punct	_	_	ja
+20	何	_	_	_	_	22	obl	_	_	ja
+21	も	_	_	_	_	20	case	_	_	ja
+22	し	_	_	_	_	34	advcl	_	_	ja
+23	ない	_	_	_	_	22	aux	_	_	ja
+24	で	_	_	_	_	22	mark	_	_	ja
+25	足	_	_	_	_	27	nmod	_	_	ja
+26	の	_	_	_	_	25	case	_	_	ja
+27	長さ	_	_	_	_	31	obl	_	_	ja
+28	で	_	_	_	_	27	case	_	_	ja
+29	女	_	_	_	_	31	obj	_	_	ja
+30	を	_	_	_	_	29	case	_	_	ja
+31	釣ろ	_	_	_	_	34	advcl	_	_	ja
+32	う	_	_	_	_	31	aux	_	_	ja
+33	と	_	_	_	_	31	mark	_	_	ja
+34	する	_	_	_	_	39	csubj	_	_	ja
+35	の	_	_	_	_	34	mark	_	_	ja
+36	は	_	_	_	_	34	case	_	_	ja
+37	ルンペン	_	_	_	_	39	obl	_	_	ja
+38	の	_	_	_	_	37	case	_	_	ja
+39	やる	_	_	_	_	0	root	_	_	ja
+40	こと	_	_	_	_	39	aux	_	_	ja
+41	である	_	_	_	_	39	cop	_	_	ja
+42	。	_	_	_	_	39	punct	_	_	ja
+
+1	後続	_	_	_	_	3	nmod	_	_	ja
+2	の	_	_	_	_	1	case	_	_	ja
+3	車両	_	_	_	_	5	nmod	_	_	ja
+4	の	_	_	_	_	3	case	_	_	ja
+5	方	_	_	_	_	11	nsubj	_	_	ja
+6	が	_	_	_	_	5	case	_	_	ja
+7	BA	_	_	_	_	9	nmod	_	_	ja
+8	の	_	_	_	_	7	case	_	_	ja
+9	番号	_	_	_	_	11	nsubj	_	_	ja
+10	は	_	_	_	_	9	case	_	_	ja
+11	若い	_	_	_	_	38	advcl	_	_	ja
+12	が	_	_	_	_	11	mark	_	_	ja
+13	、	_	_	_	_	11	punct	_	_	ja
+14	BA	_	_	_	_	16	compound	_	_	ja
+15	-	_	_	_	_	16	compound	_	_	ja
+16	27	_	_	_	_	18	nmod	_	_	ja
+17	の	_	_	_	_	16	case	_	_	ja
+18	27	_	_	_	_	26	nmod	_	_	ja
+19	は	_	_	_	_	18	case	_	_	ja
+20	開発	_	_	_	_	21	compound	_	_	ja
+21	年度	_	_	_	_	23	obl	_	_	ja
+22	から	_	_	_	_	21	case	_	_	ja
+23	来	_	_	_	_	26	acl	_	_	ja
+24	て	_	_	_	_	23	mark	_	_	ja
+25	いる	_	_	_	_	23	aux	_	_	ja
+26	もの	_	_	_	_	38	obl	_	_	ja
+27	と	_	_	_	_	26	case	_	_	ja
+28	以降	_	_	_	_	30	nmod	_	_	ja
+29	の	_	_	_	_	28	case	_	_	ja
+30	車両	_	_	_	_	38	nsubj	_	_	ja
+31	は	_	_	_	_	30	case	_	_	ja
+32	ほぼ	_	_	_	_	38	advmod	_	_	ja
+33	製作	_	_	_	_	34	compound	_	_	ja
+34	順	_	_	_	_	38	iobj	_	_	ja
+35	に	_	_	_	_	34	case	_	_	ja
+36	番号	_	_	_	_	38	nsubj	_	_	ja
+37	が	_	_	_	_	36	case	_	_	ja
+38	並ん	_	_	_	_	0	root	_	_	ja
+39	で	_	_	_	_	38	mark	_	_	ja
+40	いる	_	_	_	_	38	aux	_	_	ja
+41	。	_	_	_	_	38	punct	_	_	ja
+
+1	直人	_	_	_	_	3	nmod	_	_	ja
+2	の	_	_	_	_	1	case	_	_	ja
+3	妻	_	_	_	_	0	root	_	_	ja
+4	。	_	_	_	_	3	punct	_	_	ja
+
+1	まあ	_	_	_	_	28	advmod	_	_	ja
+2	AIDMA	_	_	_	_	4	nmod	_	_	ja
+3	,	_	_	_	_	2	punct	_	_	ja
+4	AISAS	_	_	_	_	8	obj	_	_	ja
+5	を	_	_	_	_	4	case	_	_	ja
+6	はじめ	_	_	_	_	8	obl	_	_	ja
+7	と	_	_	_	_	6	case	_	_	ja
+8	する	_	_	_	_	11	acl	_	_	ja
+9	SIPS	_	_	_	_	11	nmod	_	_	ja
+10	みたいな	_	_	_	_	9	case	_	_	ja
+11	言葉	_	_	_	_	18	iobj	_	_	ja
+12	に	_	_	_	_	11	case	_	_	ja
+13	は	_	_	_	_	11	case	_	_	ja
+14	最近	_	_	_	_	16	compound	_	_	ja
+15	嫌悪	_	_	_	_	16	compound	_	_	ja
+16	感	_	_	_	_	18	obl	_	_	ja
+17	すら	_	_	_	_	16	case	_	_	ja
+18	する	_	_	_	_	28	advcl	_	_	ja
+19	の	_	_	_	_	18	mark	_	_	ja
+20	だ	_	_	_	_	18	cop	_	_	ja
+21	けど	_	_	_	_	18	mark	_	_	ja
+22	,	_	_	_	_	18	punct	_	_	ja
+23	モデル	_	_	_	_	25	obl	_	_	ja
+24	と	_	_	_	_	23	case	_	_	ja
+25	し	_	_	_	_	28	advcl	_	_	ja
+26	て	_	_	_	_	25	mark	_	_	ja
+27	は	_	_	_	_	25	case	_	_	ja
+28	判り	_	_	_	_	0	root	_	_	ja
+29	やすい	_	_	_	_	28	aux	_	_	ja
+30	。	_	_	_	_	28	punct	_	_	ja
+
+1	新聞	_	_	_	_	26	nsubj	_	_	ja
+2	は	_	_	_	_	1	case	_	_	ja
+3	,	_	_	_	_	1	punct	_	_	ja
+4	助産	_	_	_	_	5	compound	_	_	ja
+5	師	_	_	_	_	7	nsubj	_	_	ja
+6	が	_	_	_	_	5	case	_	_	ja
+7	所属	_	_	_	_	12	acl	_	_	ja
+8	する	_	_	_	_	7	aux	_	_	ja
+9	団体名	_	_	_	_	12	nmod	_	_	ja
+10	や	_	_	_	_	9	cc	_	_	ja
+11	療法	_	_	_	_	12	compound	_	_	ja
+12	名	_	_	_	_	14	obj	_	_	ja
+13	を	_	_	_	_	12	case	_	_	ja
+14	報じ	_	_	_	_	26	advcl	_	_	ja
+15	て	_	_	_	_	14	mark	_	_	ja
+16	い	_	_	_	_	14	aux	_	_	ja
+17	ませ	_	_	_	_	14	aux	_	_	ja
+18	ん	_	_	_	_	14	aux	_	_	ja
+19	が	_	_	_	_	14	mark	_	_	ja
+20	,	_	_	_	_	14	punct	_	_	ja
+21	ホメオパシー	_	_	_	_	23	obj	_	_	ja
+22	を	_	_	_	_	21	case	_	_	ja
+23	用いる	_	_	_	_	24	acl	_	_	ja
+24	団体	_	_	_	_	26	obl	_	_	ja
+25	と	_	_	_	_	24	case	_	_	ja
+26	思わ	_	_	_	_	0	root	_	_	ja
+27	れ	_	_	_	_	26	aux	_	_	ja
+28	ます	_	_	_	_	26	aux	_	_	ja
+29	。	_	_	_	_	26	punct	_	_	ja
+
+1	支持者	_	_	_	_	47	obl	_	_	ja
+2	によって	_	_	_	_	1	case	_	_	ja
+3	20	_	_	_	_	5	nummod	_	_	ja
+4	世紀	_	_	_	_	5	compound	_	_	ja
+5	最大	_	_	_	_	7	nmod	_	_	ja
+6	の	_	_	_	_	5	case	_	_	ja
+7	神学者	_	_	_	_	9	obl	_	_	ja
+8	と	_	_	_	_	7	case	_	_	ja
+9	称さ	_	_	_	_	17	acl	_	_	ja
+10	れる	_	_	_	_	9	aux	_	_	ja
+11	新	_	_	_	_	13	compound	_	_	ja
+12	正統	_	_	_	_	13	compound	_	_	ja
+13	主義	_	_	_	_	17	nmod	_	_	ja
+14	の	_	_	_	_	13	case	_	_	ja
+15	カール	_	_	_	_	17	nmod	_	_	ja
+16	・	_	_	_	_	15	compound	_	_	ja
+17	バルト	_	_	_	_	47	nsubj	_	_	ja
+18	は	_	_	_	_	17	case	_	_	ja
+19	、	_	_	_	_	17	punct	_	_	ja
+20	未完	_	_	_	_	25	nmod	_	_	ja
+21	の	_	_	_	_	20	case	_	_	ja
+22	主著	_	_	_	_	29	nmod	_	_	ja
+23	「	_	_	_	_	25	punct	_	_	ja
+24	教会	_	_	_	_	25	compound	_	_	ja
+25	教義学	_	_	_	_	29	nmod	_	_	ja
+26	」	_	_	_	_	25	punct	_	_	ja
+27	全	_	_	_	_	29	compound	_	_	ja
+28	4	_	_	_	_	29	nummod	_	_	ja
+29	巻	_	_	_	_	33	nmod	_	_	ja
+30	における	_	_	_	_	29	case	_	_	ja
+31	第	_	_	_	_	33	compound	_	_	ja
+32	3	_	_	_	_	33	nummod	_	_	ja
+33	巻	_	_	_	_	47	obl	_	_	ja
+34	、	_	_	_	_	33	punct	_	_	ja
+35	邦訳	_	_	_	_	42	compound	_	_	ja
+36	全	_	_	_	_	45	compound	_	_	ja
+37	36	_	_	_	_	42	nummod	_	_	ja
+38	分冊	_	_	_	_	42	compound	_	_	ja
+39	中	_	_	_	_	42	compound	_	_	ja
+40	11	_	_	_	_	42	nummod	_	_	ja
+41	冊	_	_	_	_	42	compound	_	_	ja
+42	分	_	_	_	_	47	obj	_	_	ja
+43	を	_	_	_	_	42	case	_	_	ja
+44	創造	_	_	_	_	45	compound	_	_	ja
+45	説	_	_	_	_	47	iobj	_	_	ja
+46	に	_	_	_	_	45	case	_	_	ja
+47	割い	_	_	_	_	0	root	_	_	ja
+48	て	_	_	_	_	47	mark	_	_	ja
+49	いる	_	_	_	_	47	aux	_	_	ja
+50	。	_	_	_	_	47	punct	_	_	ja
+
+1	翼	_	_	_	_	2	compound	_	_	ja
+2	端	_	_	_	_	4	iobj	_	_	ja
+3	に	_	_	_	_	2	case	_	_	ja
+4	付け	_	_	_	_	9	acl	_	_	ja
+5	て	_	_	_	_	4	mark	_	_	ja
+6	い	_	_	_	_	4	aux	_	_	ja
+7	た	_	_	_	_	4	aux	_	_	ja
+8	増	_	_	_	_	9	compound	_	_	ja
+9	槽	_	_	_	_	21	nsubj	_	_	ja
+10	は	_	_	_	_	9	case	_	_	ja
+11	機体	_	_	_	_	13	nmod	_	_	ja
+12	の	_	_	_	_	11	case	_	_	ja
+13	重心	_	_	_	_	17	nsubj	_	_	ja
+14	が	_	_	_	_	13	case	_	_	ja
+15	前	_	_	_	_	17	iobj	_	_	ja
+16	に	_	_	_	_	15	case	_	_	ja
+17	寄り	_	_	_	_	21	advcl	_	_	ja
+18	過ぎる	_	_	_	_	21	advcl	_	_	ja
+19	ため	_	_	_	_	17	mark	_	_	ja
+20	に	_	_	_	_	17	case	_	_	ja
+21	使用	_	_	_	_	38	advcl	_	_	ja
+22	さ	_	_	_	_	21	aux	_	_	ja
+23	れ	_	_	_	_	21	aux	_	_	ja
+24	ず	_	_	_	_	21	aux	_	_	ja
+25	、	_	_	_	_	21	punct	_	_	ja
+26	主翼	_	_	_	_	28	compound	_	_	ja
+27	中央	_	_	_	_	28	compound	_	_	ja
+28	下面	_	_	_	_	34	iobj	_	_	ja
+29	に	_	_	_	_	28	case	_	_	ja
+30	滑らか	_	_	_	_	32	acl	_	_	ja
+31	な	_	_	_	_	30	aux	_	_	ja
+32	形状	_	_	_	_	34	obl	_	_	ja
+33	で	_	_	_	_	32	case	_	_	ja
+34	装着	_	_	_	_	38	advcl	_	_	ja
+35	できる	_	_	_	_	34	aux	_	_	ja
+36	ように	_	_	_	_	34	aux	_	_	ja
+37	再	_	_	_	_	38	advmod	_	_	ja
+38	設計	_	_	_	_	0	root	_	_	ja
+39	さ	_	_	_	_	38	aux	_	_	ja
+40	れ	_	_	_	_	38	aux	_	_	ja
+41	た	_	_	_	_	38	aux	_	_	ja
+42	。	_	_	_	_	38	punct	_	_	ja
+
+1	若い	_	_	_	_	2	acl	_	_	ja
+2	頃	_	_	_	_	12	nsubj	_	_	ja
+3	は	_	_	_	_	2	case	_	_	ja
+4	土司	_	_	_	_	6	nmod	_	_	ja
+5	の	_	_	_	_	4	case	_	_	ja
+6	小作人	_	_	_	_	10	nmod	_	_	ja
+7	や	_	_	_	_	6	cc	_	_	ja
+8	軍	_	_	_	_	10	nmod	_	_	ja
+9	の	_	_	_	_	8	case	_	_	ja
+10	人夫	_	_	_	_	12	obj	_	_	ja
+11	を	_	_	_	_	10	case	_	_	ja
+12	し	_	_	_	_	14	advcl	_	_	ja
+13	て	_	_	_	_	12	mark	_	_	ja
+14	過ごす	_	_	_	_	0	root	_	_	ja
+15	。	_	_	_	_	14	punct	_	_	ja
+
+1	クール	_	_	_	_	3	acl	_	_	ja
+2	な	_	_	_	_	1	aux	_	_	ja
+3	性格	_	_	_	_	14	obl	_	_	ja
+4	で	_	_	_	_	3	case	_	_	ja
+5	、	_	_	_	_	3	punct	_	_	ja
+6	自ら	_	_	_	_	14	obj	_	_	ja
+7	を	_	_	_	_	6	case	_	_	ja
+8	「	_	_	_	_	9	punct	_	_	ja
+9	いや	_	_	_	_	11	acl	_	_	ja
+10	な	_	_	_	_	9	aux	_	_	ja
+11	子	_	_	_	_	14	obl	_	_	ja
+12	」	_	_	_	_	11	punct	_	_	ja
+13	と	_	_	_	_	11	case	_	_	ja
+14	称する	_	_	_	_	0	root	_	_	ja
+15	。	_	_	_	_	14	punct	_	_	ja
+
+1	終盤	_	_	_	_	3	nmod	_	_	ja
+2	の	_	_	_	_	1	case	_	_	ja
+3	ツール	_	_	_	_	5	nmod	_	_	ja
+4	・	_	_	_	_	3	compound	_	_	ja
+5	ド	_	_	_	_	7	nmod	_	_	ja
+6	・	_	_	_	_	3	compound	_	_	ja
+7	おきなわ	_	_	_	_	23	obl	_	_	ja
+8	で	_	_	_	_	7	case	_	_	ja
+9	は	_	_	_	_	7	case	_	_	ja
+10	鳩村	_	_	_	_	15	obl	_	_	ja
+11	と共に	_	_	_	_	10	case	_	_	ja
+12	最後	_	_	_	_	15	obl	_	_	ja
+13	まで	_	_	_	_	12	case	_	_	ja
+14	走り	_	_	_	_	15	advcl	_	_	ja
+15	ぬき	_	_	_	_	23	advcl	_	_	ja
+16	、	_	_	_	_	15	punct	_	_	ja
+17	30	_	_	_	_	18	nummod	_	_	ja
+18	位	_	_	_	_	20	iobj	_	_	ja
+19	に	_	_	_	_	18	case	_	_	ja
+20	入る	_	_	_	_	21	acl	_	_	ja
+21	健闘	_	_	_	_	23	obj	_	_	ja
+22	を	_	_	_	_	21	case	_	_	ja
+23	見せる	_	_	_	_	0	root	_	_	ja
+24	。	_	_	_	_	23	punct	_	_	ja
+
+1	護符	_	_	_	_	3	nmod	_	_	ja
+2	の	_	_	_	_	1	case	_	_	ja
+3	由来	_	_	_	_	15	obl	_	_	ja
+4	どころか	_	_	_	_	3	case	_	_	ja
+5	,	_	_	_	_	3	punct	_	_	ja
+6	そもそも	_	_	_	_	15	advmod	_	_	ja
+7	杉山	_	_	_	_	8	compound	_	_	ja
+8	先生	_	_	_	_	11	nmod	_	_	ja
+9	の	_	_	_	_	8	case	_	_	ja
+10	気功	_	_	_	_	11	compound	_	_	ja
+11	能力	_	_	_	_	13	nmod	_	_	ja
+12	の	_	_	_	_	11	case	_	_	ja
+13	出自	_	_	_	_	15	obl	_	_	ja
+14	も	_	_	_	_	13	case	_	_	ja
+15	ナゾ	_	_	_	_	0	root	_	_	ja
+16	です	_	_	_	_	15	cop	_	_	ja
+17	。	_	_	_	_	15	punct	_	_	ja
+
+1	chú	_	_	_	_	14	nsubj	_	_	vi
+2	hổ	_	_	_	_	14	nsubj	_	_	vi
+3	do	_	_	_	_	5	case	_	_	vi
+4	chính	_	_	_	_	14	obl	_	_	vi
+5	bàn tay	_	_	_	_	14	obl	_	_	vi
+6	các	_	_	_	_	8	det	_	_	vi
+7	"	_	_	_	_	8	punct	_	_	vi
+8	bà đỡ	_	_	_	_	5	nmod	_	_	vi
+9	"	_	_	_	_	8	punct	_	_	vi
+10	vườn	_	_	_	_	8	compound	_	_	vi
+11	thú	_	_	_	_	10	compound	_	_	vi
+12	Hà Nội	_	_	_	_	11	compound	_	_	vi
+13	đã	_	_	_	_	14	advmod	_	_	vi
+14	ra đời	_	_	_	_	0	root	_	_	vi
+15	.	_	_	_	_	14	punct	_	_	vi
+
+1	Chính	_	_	_	_	12	advmod	_	_	vi
+2	nhờ	_	_	_	_	12	advcl	_	_	vi
+3	lòng	_	_	_	_	12	obl	_	_	vi
+4	yêu	_	_	_	_	3	xcomp	_	_	vi
+5	nghề	_	_	_	_	4	obj	_	_	vi
+6	mà	_	_	_	_	12	cc	_	_	vi
+7	những	_	_	_	_	8	det	_	_	vi
+8	người	_	_	_	_	12	nsubj	_	_	vi
+9	nuôi	_	_	_	_	8	xcomp	_	_	vi
+10	thú	_	_	_	_	9	obj	_	_	vi
+11	đã	_	_	_	_	12	advmod	_	_	vi
+12	vượt	_	_	_	_	0	root	_	_	vi
+13	qua	_	_	_	_	12	advmod	_	_	vi
+14	được	_	_	_	_	12	advmod	_	_	vi
+15	những	_	_	_	_	16	det	_	_	vi
+16	đe dọa	_	_	_	_	12	obj	_	_	vi
+17	cả	_	_	_	_	16	discourse	_	_	vi
+18	đến	_	_	_	_	19	case	_	_	vi
+19	tính mạng	_	_	_	_	16	nmod	_	_	vi
+20	.	_	_	_	_	12	punct	_	_	vi
+
+1	Hậu quả	_	_	_	_	6	nsubj	_	_	vi
+2	là	_	_	_	_	6	cop	_	_	vi
+3	chú	_	_	_	_	4	compound	_	_	vi
+4	Ước	_	_	_	_	6	nsubj	_	_	vi
+5	phải	_	_	_	_	6	aux	_	_	vi
+6	mang	_	_	_	_	0	root	_	_	vi
+7	vết	_	_	_	_	6	obj	_	_	vi
+8	sẹo	_	_	_	_	7	compound	_	_	vi
+9	trên	_	_	_	_	10	case	_	_	vi
+10	bàn tay	_	_	_	_	7	nmod	_	_	vi
+11	phải	_	_	_	_	6	advmod	_	_	vi
+12	suốt	_	_	_	_	6	advcl	_	_	vi
+13	cuộc đời	_	_	_	_	12	obj	_	_	vi
+14	.	_	_	_	_	6	punct	_	_	vi
+
+1	Mỗi	_	_	_	_	2	det	_	_	vi
+2	lần	_	_	_	_	3	nsubj	_	_	vi
+3	thấy	_	_	_	_	0	root	_	_	vi
+4	mình	_	_	_	_	5	nsubj	_	_	vi
+5	cầm	_	_	_	_	3	ccomp	_	_	vi
+6	kim tiêm	_	_	_	_	5	obj	_	_	vi
+7	là	_	_	_	_	10	cc	_	_	vi
+8	nó	_	_	_	_	10	nsubj	_	_	vi
+9	lại	_	_	_	_	10	advmod	_	_	vi
+10	gừ gừ	_	_	_	_	3	ccomp	_	_	vi
+11	đe dọa	_	_	_	_	3	ccomp	_	_	vi
+12	"	_	_	_	_	3	punct	_	_	vi
+13	.	_	_	_	_	3	punct	_	_	vi
+
+1	"	_	_	_	_	2	punct	_	_	vi
+2	vượn	_	_	_	_	0	root	_	_	vi
+3	.	_	_	_	_	2	punct	_	_	vi
+
+1	mùi	_	_	_	_	0	root	_	_	vi
+2	hổ	_	_	_	_	1	compound	_	_	vi
+3	ở	_	_	_	_	4	case	_	_	vi
+4	thành phố	_	_	_	_	1	nmod	_	_	vi
+5	.	_	_	_	_	1	punct	_	_	vi
+
+1	chủ	_	_	_	_	9	nsubj	_	_	vi
+2	nhà	_	_	_	_	1	compound	_	_	vi
+3	,	_	_	_	_	4	punct	_	_	vi
+4	viện	_	_	_	_	1	conj	_	_	vi
+5	phó	_	_	_	_	4	compound	_	_	vi
+6	một	_	_	_	_	7	nummod	_	_	vi
+7	bệnh viện	_	_	_	_	9	obj	_	_	vi
+8	,	_	_	_	_	9	punct	_	_	vi
+9	gật	_	_	_	_	0	root	_	_	vi
+10	và	_	_	_	_	11	cc	_	_	vi
+11	đếm	_	_	_	_	9	conj	_	_	vi
+12	tiền	_	_	_	_	11	obj	_	_	vi
+13	.	_	_	_	_	9	punct	_	_	vi
+
+1	Nếu	_	_	_	_	2	cc	_	_	vi
+2	lấy	_	_	_	_	7	advcl	_	_	vi
+3	ngay	_	_	_	_	2	advmod	_	_	vi
+4	,	_	_	_	_	7	punct	_	_	vi
+5	hắn	_	_	_	_	7	nsubj	_	_	vi
+6	chỉ	_	_	_	_	7	advmod	_	_	vi
+7	còn	_	_	_	_	0	root	_	_	vi
+8	ba	_	_	_	_	9	nummod	_	_	vi
+9	bộ	_	_	_	_	7	obj	_	_	vi
+10	5	_	_	_	_	9	nummod	_	_	vi
+11	,	_	_	_	_	12	punct	_	_	vi
+12	7	_	_	_	_	9	conj	_	_	vi
+13	và	_	_	_	_	15	cc	_	_	vi
+14	8	_	_	_	_	15	nummod	_	_	vi
+15	kg	_	_	_	_	10	conj	_	_	vi
+16	.	_	_	_	_	7	punct	_	_	vi
+
+1	hổ	_	_	_	_	5	nsubj	_	_	vi
+2	này	_	_	_	_	1	det	_	_	vi
+3	là	_	_	_	_	5	cop	_	_	vi
+4	của	_	_	_	_	5	case	_	_	vi
+5	ấn độ	_	_	_	_	0	root	_	_	vi
+6	,	_	_	_	_	5	punct	_	_	vi
+7	Bangladesh	_	_	_	_	5	conj	_	_	vi
+8	,	_	_	_	_	11	punct	_	_	vi
+9	Sri Lanka	_	_	_	_	7	conj	_	_	vi
+10	,	_	_	_	_	11	punct	_	_	vi
+11	Nga	_	_	_	_	5	conj	_	_	vi
+12	,	_	_	_	_	13	punct	_	_	vi
+13	Thái Lan	_	_	_	_	5	conj	_	_	vi
+14	...	_	_	_	_	5	punct	_	_	vi
+
+1	lừa	_	_	_	_	6	csubj	_	_	vi
+2	cấp	_	_	_	_	1	xcomp	_	_	vi
+3	thấp	_	_	_	_	2	amod	_	_	vi
+4	hơn	_	_	_	_	3	advmod	_	_	vi
+5	là	_	_	_	_	6	cop	_	_	vi
+6	khi	_	_	_	_	0	root	_	_	vi
+7	nấu	_	_	_	_	6	xcomp	_	_	vi
+8	cao	_	_	_	_	7	xcomp	_	_	vi
+9	lấy	_	_	_	_	6	xcomp	_	_	vi
+10	trộm	_	_	_	_	9	xcomp	_	_	vi
+11	dịch	_	_	_	_	9	obj	_	_	vi
+12	chiết	_	_	_	_	10	xcomp	_	_	vi
+13	,	_	_	_	_	14	punct	_	_	vi
+14	pha	_	_	_	_	6	conj	_	_	vi
+15	thêm	_	_	_	_	14	xcomp	_	_	vi
+16	các	_	_	_	_	17	det	_	_	vi
+17	xương	_	_	_	_	9	obj	_	_	vi
+18	trâu	_	_	_	_	17	compound	_	_	vi
+19	,	_	_	_	_	22	punct	_	_	vi
+20	mèo	_	_	_	_	17	conj	_	_	vi
+21	,	_	_	_	_	24	punct	_	_	vi
+22	chó	_	_	_	_	17	conj	_	_	vi
+23	,	_	_	_	_	24	punct	_	_	vi
+24	gấu	_	_	_	_	17	conj	_	_	vi
+25	...	_	_	_	_	6	punct	_	_	vi
+
+1	Những	_	_	_	_	3	det	_	_	vi
+2	mét	_	_	_	_	3	compound	_	_	vi
+3	hầm	_	_	_	_	9	nsubj	_	_	vi
+4	cuối cùng	_	_	_	_	3	amod	_	_	vi
+5	sắp sửa	_	_	_	_	3	xcomp	_	_	vi
+6	thông	_	_	_	_	5	xcomp	_	_	vi
+7	nhau	_	_	_	_	5	obj	_	_	vi
+8	đã	_	_	_	_	9	advmod	_	_	vi
+9	làm	_	_	_	_	0	root	_	_	vi
+10	cả	_	_	_	_	12	det	_	_	vi
+11	đại	_	_	_	_	12	compound	_	_	vi
+12	công trình	_	_	_	_	9	nsubj	_	_	vi
+13	này	_	_	_	_	12	det	_	_	vi
+14	tấp nập	_	_	_	_	9	ccomp	_	_	vi
+15	,	_	_	_	_	16	punct	_	_	vi
+16	khẩn trương	_	_	_	_	14	conj	_	_	vi
+17	hơn	_	_	_	_	16	advmod	_	_	vi
+18	.	_	_	_	_	9	punct	_	_	vi
+
+1	nhìn	_	_	_	_	0	root	_	_	vi
+2	đồng hồ	_	_	_	_	1	obj	_	_	vi
+3	,	_	_	_	_	1	punct	_	_	vi
+4	kim	_	_	_	_	8	nsubj	_	_	vi
+5	đã	_	_	_	_	8	advmod	_	_	vi
+6	chỉ	_	_	_	_	8	advmod	_	_	vi
+7	14	_	_	_	_	8	nummod	_	_	vi
+8	giờ	_	_	_	_	1	obj	_	_	vi
+9	.	_	_	_	_	1	punct	_	_	vi
+
+1	với	_	_	_	_	2	case	_	_	vi
+2	họ	_	_	_	_	10	obl	_	_	vi
+3	,	_	_	_	_	10	punct	_	_	vi
+4	mỗi	_	_	_	_	5	det	_	_	vi
+5	năm	_	_	_	_	10	obl	_	_	vi
+6	365	_	_	_	_	7	nummod	_	_	vi
+7	ngày	_	_	_	_	10	obj	_	_	vi
+8	thì	_	_	_	_	10	cc	_	_	vi
+9	chỉ	_	_	_	_	10	advmod	_	_	vi
+10	dành	_	_	_	_	0	root	_	_	vi
+11	cho	_	_	_	_	12	case	_	_	vi
+12	gia đình	_	_	_	_	10	obl	_	_	vi
+13	không	_	_	_	_	16	advmod	_	_	vi
+14	quá	_	_	_	_	16	advmod	_	_	vi
+15	15	_	_	_	_	16	nummod	_	_	vi
+16	ngày	_	_	_	_	10	obj	_	_	vi
+17	,	_	_	_	_	10	punct	_	_	vi
+18	số	_	_	_	_	22	nsubj	_	_	vi
+19	còn	_	_	_	_	18	xcomp	_	_	vi
+20	lại	_	_	_	_	22	advmod	_	_	vi
+21	là	_	_	_	_	22	cop	_	_	vi
+22	công trường	_	_	_	_	10	ccomp	_	_	vi
+23	và	_	_	_	_	24	cc	_	_	vi
+24	lán trại	_	_	_	_	22	conj	_	_	vi
+25	.	_	_	_	_	10	punct	_	_	vi
+
+1	Và	_	_	_	_	10	cc	_	_	vi
+2	đến	_	_	_	_	3	case	_	_	vi
+3	nay	_	_	_	_	10	obl	_	_	vi
+4	những	_	_	_	_	6	det	_	_	vi
+5	mét	_	_	_	_	10	nsubj	_	_	vi
+6	hầm	_	_	_	_	10	nsubj	_	_	vi
+7	cuối cùng	_	_	_	_	6	amod	_	_	vi
+8	cũng	_	_	_	_	10	advmod	_	_	vi
+9	đã	_	_	_	_	10	advmod	_	_	vi
+10	về	_	_	_	_	0	root	_	_	vi
+11	đích	_	_	_	_	10	xcomp	_	_	vi
+12	.	_	_	_	_	10	punct	_	_	vi
+
+1	Hai	_	_	_	_	2	nummod	_	_	vi
+2	chị	_	_	_	_	3	nsubj	_	_	vi
+3	lấy	_	_	_	_	0	root	_	_	vi
+4	từ	_	_	_	_	6	case	_	_	vi
+5	trong	_	_	_	_	6	case	_	_	vi
+6	túi xách	_	_	_	_	3	obl	_	_	vi
+7	ra	_	_	_	_	3	advmod	_	_	vi
+8	một	_	_	_	_	10	nummod	_	_	vi
+9	cuốn	_	_	_	_	10	compound	_	_	vi
+10	nhật ký	_	_	_	_	3	obj	_	_	vi
+11	đã	_	_	_	_	12	advmod	_	_	vi
+12	ố	_	_	_	_	10	xcomp	_	_	vi
+13	vàng	_	_	_	_	12	xcomp	_	_	vi
+14	.	_	_	_	_	3	punct	_	_	vi
+
+1	đồng đội	_	_	_	_	4	nsubj	_	_	vi
+2	anh	_	_	_	_	1	compound	_	_	vi
+3	đã	_	_	_	_	4	advmod	_	_	vi
+4	chuyển	_	_	_	_	0	root	_	_	vi
+5	cuốn	_	_	_	_	6	compound	_	_	vi
+6	nhật ký	_	_	_	_	4	obj	_	_	vi
+7	về	_	_	_	_	4	advmod	_	_	vi
+8	cho	_	_	_	_	9	case	_	_	vi
+9	gia đình	_	_	_	_	4	obl	_	_	vi
+10	sau	_	_	_	_	11	case	_	_	vi
+11	khi	_	_	_	_	4	obl	_	_	vi
+12	anh	_	_	_	_	13	nsubj	_	_	vi
+13	hi sinh	_	_	_	_	11	ccomp	_	_	vi
+14	và	_	_	_	_	17	cc	_	_	vi
+15	được	_	_	_	_	17	aux:pass	_	_	vi
+16	gia đình	_	_	_	_	17	nsubj	_	_	vi
+17	gìn giữ	_	_	_	_	4	conj	_	_	vi
+18	như	_	_	_	_	17	cc	_	_	vi
+19	một	_	_	_	_	20	nummod	_	_	vi
+20	báu vật	_	_	_	_	17	obl	_	_	vi
+21	thiêng liêng	_	_	_	_	20	amod	_	_	vi
+22	.	_	_	_	_	4	punct	_	_	vi
+
+1	dứt	_	_	_	_	0	root	_	_	vi
+2	tiếng	_	_	_	_	1	obj	_	_	vi
+3	máy bay	_	_	_	_	2	compound	_	_	vi
+4	,	_	_	_	_	8	punct	_	_	vi
+5	bầu trời	_	_	_	_	8	nsubj	_	_	vi
+6	như	_	_	_	_	8	cc	_	_	vi
+7	được	_	_	_	_	8	aux:pass	_	_	vi
+8	vút	_	_	_	_	1	conj	_	_	vi
+9	lên	_	_	_	_	10	case	_	_	vi
+10	cao	_	_	_	_	8	obl	_	_	vi
+11	.	_	_	_	_	1	punct	_	_	vi
+
+1	Bây giờ	_	_	_	_	4	advmod	_	_	vi
+2	đã	_	_	_	_	4	advmod	_	_	vi
+3	7	_	_	_	_	4	nummod	_	_	vi
+4	giờ	_	_	_	_	9	obj	_	_	vi
+5	tối	_	_	_	_	4	compound	_	_	vi
+6	thế mà	_	_	_	_	9	discourse	_	_	vi
+7	vẫn	_	_	_	_	9	advmod	_	_	vi
+8	không	_	_	_	_	9	advmod	_	_	vi
+9	dứt	_	_	_	_	0	root	_	_	vi
+10	tiếng	_	_	_	_	9	obj	_	_	vi
+11	máy bay	_	_	_	_	10	compound	_	_	vi
+12	Mỹ	_	_	_	_	11	compound	_	_	vi
+13	,	_	_	_	_	14	punct	_	_	vi
+14	tiếng	_	_	_	_	10	conj	_	_	vi
+15	đại bác	_	_	_	_	14	compound	_	_	vi
+16	đì đùng	_	_	_	_	14	amod	_	_	vi
+17	...	_	_	_	_	9	punct	_	_	vi
+
+1	Và	_	_	_	_	6	cc	_	_	vi
+2	việc	_	_	_	_	6	nsubj	_	_	vi
+3	của	_	_	_	_	4	case	_	_	vi
+4	tôi	_	_	_	_	2	nmod	_	_	vi
+5	lại	_	_	_	_	6	advmod	_	_	vi
+6	bắt đầu	_	_	_	_	0	root	_	_	vi
+7	...	_	_	_	_	6	punct	_	_	vi
+
+1	!	_	_	_	_	2	punct	_	_	vi
+2	ov .10	_	_	_	_	0	root	_	_	vi
+3	này	_	_	_	_	2	det	_	_	vi
+4	.	_	_	_	_	2	punct	_	_	vi
+
+1	Nếu	_	_	_	_	3	cc	_	_	vi
+2	tôi	_	_	_	_	3	nsubj	_	_	vi
+3	ngã	_	_	_	_	0	root	_	_	vi
+4	xuống	_	_	_	_	3	advmod	_	_	vi
+5	,	_	_	_	_	3	punct	_	_	vi
+6	mong	_	_	_	_	3	conj	_	_	vi
+7	các	_	_	_	_	8	det	_	_	vi
+8	bạn	_	_	_	_	10	nsubj	_	_	vi
+9	hãy	_	_	_	_	10	advmod	_	_	vi
+10	tin	_	_	_	_	3	parataxis	_	_	vi
+11	cho	_	_	_	_	12	case	_	_	vi
+12	bố mẹ	_	_	_	_	10	obl	_	_	vi
+13	tôi	_	_	_	_	12	det	_	_	vi
+14	...	_	_	_	_	3	punct	_	_	vi
+
+1	Hai	_	_	_	_	3	nummod	_	_	vi
+2	bà	_	_	_	_	3	compound	_	_	vi
+3	cụ	_	_	_	_	20	nsubj	_	_	vi
+4	một	_	_	_	_	3	nummod	_	_	vi
+5	gần	_	_	_	_	3	advmod	_	_	vi
+6	80	_	_	_	_	5	nummod	_	_	vi
+7	,	_	_	_	_	11	punct	_	_	vi
+8	một	_	_	_	_	11	nummod	_	_	vi
+9	xấp xỉ	_	_	_	_	11	conj	_	_	vi
+10	90	_	_	_	_	11	nummod	_	_	vi
+11	tuổi	_	_	_	_	3	conj	_	_	vi
+12	mỗi	_	_	_	_	13	nummod	_	_	vi
+13	lần	_	_	_	_	20	obl	_	_	vi
+14	thuê	_	_	_	_	13	xcomp	_	_	vi
+15	xe	_	_	_	_	14	obj	_	_	vi
+16	xuống	_	_	_	_	17	case	_	_	vi
+17	tòa	_	_	_	_	14	obl	_	_	vi
+18	lại	_	_	_	_	20	advmod	_	_	vi
+19	phải	_	_	_	_	20	aux	_	_	vi
+20	nhờ	_	_	_	_	0	root	_	_	vi
+21	mấy	_	_	_	_	23	det	_	_	vi
+22	người	_	_	_	_	23	compound	_	_	vi
+23	hàng xóm	_	_	_	_	20	obj	_	_	vi
+24	tháp tùng	_	_	_	_	23	amod	_	_	vi
+25	.	_	_	_	_	20	punct	_	_	vi
+
+1	Nhưng	_	_	_	_	8	cc	_	_	vi
+2	những	_	_	_	_	3	det	_	_	vi
+3	người	_	_	_	_	8	nsubj	_	_	vi
+4	hàng xóm	_	_	_	_	3	compound	_	_	vi
+5	lân cận	_	_	_	_	4	amod	_	_	vi
+6	thì	_	_	_	_	8	cc	_	_	vi
+7	lại	_	_	_	_	8	advmod	_	_	vi
+8	nói	_	_	_	_	0	root	_	_	vi
+9	nhiều	_	_	_	_	8	xcomp	_	_	vi
+10	.	_	_	_	_	8	punct	_	_	vi
+
+1	lần	_	_	_	_	14	nsubj	_	_	vi
+2	đầu tiên	_	_	_	_	1	amod	_	_	vi
+3	tôi	_	_	_	_	14	nsubj	_	_	vi
+4	gặp	_	_	_	_	14	csubj	_	_	vi
+5	các	_	_	_	_	6	det	_	_	vi
+6	nạn nhân	_	_	_	_	4	obj	_	_	vi
+7	bị	_	_	_	_	8	aux:pass	_	_	vi
+8	nhiễm	_	_	_	_	14	ccomp	_	_	vi
+9	chất độc	_	_	_	_	8	obj	_	_	vi
+10	da cam	_	_	_	_	9	compound	_	_	vi
+11	ở	_	_	_	_	12	case	_	_	vi
+12	VN	_	_	_	_	9	nmod	_	_	vi
+13	là	_	_	_	_	14	cop	_	_	vi
+14	lúc	_	_	_	_	0	root	_	_	vi
+15	tôi	_	_	_	_	16	nsubj	_	_	vi
+16	làm	_	_	_	_	14	ccomp	_	_	vi
+17	trưởng	_	_	_	_	16	obj	_	_	vi
+18	phân xã	_	_	_	_	17	compound	_	_	vi
+19	Bangkok	_	_	_	_	17	compound	_	_	vi
+20	của	_	_	_	_	22	case	_	_	vi
+21	một	_	_	_	_	22	nummod	_	_	vi
+22	đài truyền hình	_	_	_	_	17	nmod	_	_	vi
+23	Nhật	_	_	_	_	22	compound	_	_	vi
+24	.	_	_	_	_	14	punct	_	_	vi
+
+1	a lưới	_	_	_	_	15	advcl	_	_	vi
+2	,	_	_	_	_	3	punct	_	_	vi
+3	Quảng Trị	_	_	_	_	1	list	_	_	vi
+4	,	_	_	_	_	3	punct	_	_	vi
+5	Thanh Hóa	_	_	_	_	3	conj	_	_	vi
+6	,	_	_	_	_	15	punct	_	_	vi
+7	Phú Thọ	_	_	_	_	3	conj	_	_	vi
+8	,	_	_	_	_	15	punct	_	_	vi
+9	Bến Tre	_	_	_	_	18	conj	_	_	vi
+10	,	_	_	_	_	11	punct	_	_	vi
+11	Bình Dương	_	_	_	_	18	conj	_	_	vi
+12	...	_	_	_	_	15	punct	_	_	vi
+13	tôi	_	_	_	_	15	nsubj	_	_	vi
+14	đã	_	_	_	_	15	advmod	_	_	vi
+15	đặt chân	_	_	_	_	0	root	_	_	vi
+16	tới	_	_	_	_	18	case	_	_	vi
+17	những	_	_	_	_	18	det	_	_	vi
+18	nơi	_	_	_	_	15	obl	_	_	vi
+19	này	_	_	_	_	18	det	_	_	vi
+20	để	_	_	_	_	21	case	_	_	vi
+21	thăm	_	_	_	_	15	mark	_	_	vi
+22	các	_	_	_	_	23	det	_	_	vi
+23	nạn nhân	_	_	_	_	21	obj	_	_	vi
+24	.	_	_	_	_	15	punct	_	_	vi
+
+1	Nhưng	_	_	_	_	4	cc	_	_	vi
+2	người ta	_	_	_	_	4	nsubj	_	_	vi
+3	vẫn	_	_	_	_	4	advmod	_	_	vi
+4	quen	_	_	_	_	0	root	_	_	vi
+5	gọi	_	_	_	_	4	xcomp	_	_	vi
+6	ông	_	_	_	_	9	nsubj	_	_	vi
+7	là	_	_	_	_	9	cop	_	_	vi
+8	"	_	_	_	_	9	punct	_	_	vi
+9	tiến sĩ	_	_	_	_	4	ccomp	_	_	vi
+10	cháy	_	_	_	_	9	xcomp	_	_	vi
+11	"	_	_	_	_	9	punct	_	_	vi
+12	bởi	_	_	_	_	9	case	_	_	vi
+13	đơn giản	_	_	_	_	9	amod	_	_	vi
+14	công việc	_	_	_	_	9	nsubj	_	_	vi
+15	của	_	_	_	_	16	case	_	_	vi
+16	ông	_	_	_	_	14	nmod	_	_	vi
+17	gắn	_	_	_	_	14	xcomp	_	_	vi
+18	liền	_	_	_	_	17	advmod	_	_	vi
+19	với	_	_	_	_	22	case	_	_	vi
+20	các	_	_	_	_	21	det	_	_	vi
+21	vụ	_	_	_	_	22	compound	_	_	vi
+22	cháy	_	_	_	_	17	obl	_	_	vi
+23	.	_	_	_	_	4	punct	_	_	vi
+
+1	10	_	_	_	_	2	nummod	_	_	vi
+2	năm	_	_	_	_	18	obl	_	_	vi
+3	học	_	_	_	_	2	xcomp	_	_	vi
+4	ở	_	_	_	_	5	case	_	_	vi
+5	Liên Xô	_	_	_	_	3	obl	_	_	vi
+6	,	_	_	_	_	18	punct	_	_	vi
+7	ngoài	_	_	_	_	18	advcl	_	_	vi
+8	mớ	_	_	_	_	18	obl	_	_	vi
+9	kiến thức	_	_	_	_	18	obl	_	_	vi
+10	bách khoa	_	_	_	_	9	compound	_	_	vi
+11	về	_	_	_	_	12	case	_	_	vi
+12	cháy	_	_	_	_	9	nmod	_	_	vi
+13	,	_	_	_	_	14	punct	_	_	vi
+14	nổ	_	_	_	_	12	conj	_	_	vi
+15	,	_	_	_	_	18	punct	_	_	vi
+16	ông	_	_	_	_	18	nsubj	_	_	vi
+17	đã	_	_	_	_	18	advmod	_	_	vi
+18	mang	_	_	_	_	0	root	_	_	vi
+19	về	_	_	_	_	18	advmod	_	_	vi
+20	một	_	_	_	_	22	nummod	_	_	vi
+21	đống	_	_	_	_	22	compound	_	_	vi
+22	sách	_	_	_	_	18	obl	_	_	vi
+23	.	_	_	_	_	18	punct	_	_	vi
+
+1	Một	_	_	_	_	2	nummod	_	_	vi
+2	chủ	_	_	_	_	5	nsubj	_	_	vi
+3	doanh nghiệp	_	_	_	_	2	compound	_	_	vi
+4	bị	_	_	_	_	5	aux:pass	_	_	vi
+5	hỏa hoạn	_	_	_	_	0	root	_	_	vi
+6	nói	_	_	_	_	5	xcomp	_	_	vi
+7	trong	_	_	_	_	8	case	_	_	vi
+8	thời gian	_	_	_	_	6	obl	_	_	vi
+9	2	_	_	_	_	12	nummod	_	_	vi
+10	-	_	_	_	_	12	punct	_	_	vi
+11	3	_	_	_	_	12	nummod	_	_	vi
+12	ngày	_	_	_	_	8	nmod	_	_	vi
+13	mà	_	_	_	_	21	cc	_	_	vi
+14	kết luận	_	_	_	_	21	csubj	_	_	vi
+15	được	_	_	_	_	21	cop	_	_	vi
+16	nguyên nhân	_	_	_	_	21	nsubj	_	_	vi
+17	vụ	_	_	_	_	16	compound	_	_	vi
+18	cháy	_	_	_	_	16	xcomp	_	_	vi
+19	quả	_	_	_	_	21	advmod	_	_	vi
+20	là	_	_	_	_	21	cop	_	_	vi
+21	niềm	_	_	_	_	6	ccomp	_	_	vi
+22	mong đợi	_	_	_	_	21	xcomp	_	_	vi
+23	của	_	_	_	_	24	case	_	_	vi
+24	khổ chủ	_	_	_	_	21	nmod	_	_	vi
+25	.	_	_	_	_	5	punct	_	_	vi
+
+1	vấn đề	_	_	_	_	5	nsubj	_	_	vi
+2	còn	_	_	_	_	1	amod	_	_	vi
+3	lại	_	_	_	_	2	advmod	_	_	vi
+4	là	_	_	_	_	5	cop	_	_	vi
+5	cháy	_	_	_	_	0	root	_	_	vi
+6	dây	_	_	_	_	5	obj	_	_	vi
+7	điện	_	_	_	_	6	compound	_	_	vi
+8	dẫn	_	_	_	_	5	ccomp	_	_	vi
+9	vào	_	_	_	_	10	case	_	_	vi
+10	máy	_	_	_	_	8	obl	_	_	vi
+11	hay	_	_	_	_	12	cc	_	_	vi
+12	cháy	_	_	_	_	5	conj	_	_	vi
+13	từ	_	_	_	_	14	case	_	_	vi
+14	bên	_	_	_	_	12	obl	_	_	vi
+15	trong	_	_	_	_	16	case	_	_	vi
+16	máy	_	_	_	_	14	compound	_	_	vi
+17	.	_	_	_	_	5	punct	_	_	vi
+
+1	công lý	_	_	_	_	0	root	_	_	vi
+2	không	_	_	_	_	3	advmod	_	_	vi
+3	biên giới	_	_	_	_	1	amod	_	_	vi
+4	.	_	_	_	_	1	punct	_	_	vi
+
+1	tờ	_	_	_	_	3	nsubj	_	_	vi
+2	New Zealand Herald	_	_	_	_	1	compound	_	_	vi
+3	nhận xét	_	_	_	_	0	root	_	_	vi
+4	việc	_	_	_	_	3	obj	_	_	vi
+5	nước	_	_	_	_	7	nsubj	_	_	vi
+6	này	_	_	_	_	5	det	_	_	vi
+7	chính thức	_	_	_	_	4	ccomp	_	_	vi
+8	thừa nhận	_	_	_	_	7	xcomp	_	_	vi
+9	mối	_	_	_	_	8	obj	_	_	vi
+10	liên hệ	_	_	_	_	9	xcomp	_	_	vi
+11	giữa	_	_	_	_	12	case	_	_	vi
+12	chất độc	_	_	_	_	8	obl	_	_	vi
+13	da cam	_	_	_	_	12	compound	_	_	vi
+14	và	_	_	_	_	16	cc	_	_	vi
+15	các	_	_	_	_	16	det	_	_	vi
+16	vấn đề	_	_	_	_	9	nmod	_	_	vi
+17	sức khỏe	_	_	_	_	16	compound	_	_	vi
+18	sẽ	_	_	_	_	19	advmod	_	_	vi
+19	mở đường	_	_	_	_	3	ccomp	_	_	vi
+20	cho	_	_	_	_	22	case	_	_	vi
+21	sự	_	_	_	_	22	compound	_	_	vi
+22	bồi thường	_	_	_	_	19	obl	_	_	vi
+23	sau này	_	_	_	_	22	nmod	_	_	vi
+24	.	_	_	_	_	3	punct	_	_	vi
+
+1	đi	_	_	_	_	7	csubj	_	_	vi
+2	đâu	_	_	_	_	1	obj	_	_	vi
+3	trong	_	_	_	_	4	case	_	_	vi
+4	xóm	_	_	_	_	1	obl	_	_	vi
+5	xã	_	_	_	_	4	compound	_	_	vi
+6	cũng	_	_	_	_	7	advmod	_	_	vi
+7	nghe	_	_	_	_	0	root	_	_	vi
+8	dân	_	_	_	_	9	nsubj	_	_	vi
+9	bàn tán	_	_	_	_	7	ccomp	_	_	vi
+10	chuyện	_	_	_	_	9	obj	_	_	vi
+11	tb	_	_	_	_	10	compound	_	_	vi
+12	giả	_	_	_	_	10	amod	_	_	vi
+13	"	_	_	_	_	7	punct	_	_	vi
+14	.	_	_	_	_	7	punct	_	_	vi
+
+1	Sau	_	_	_	_	4	obl	_	_	vi
+2	bị	_	_	_	_	4	aux:pass	_	_	vi
+3	nứa	_	_	_	_	4	nsubj	_	_	vi
+4	đâm	_	_	_	_	0	root	_	_	vi
+5	vào	_	_	_	_	6	case	_	_	vi
+6	đầu gối	_	_	_	_	4	obl	_	_	vi
+7	nên	_	_	_	_	10	cc	_	_	vi
+8	năm	_	_	_	_	10	obl	_	_	vi
+9	1998	_	_	_	_	8	nummod	_	_	vi
+10	xin	_	_	_	_	4	parataxis	_	_	vi
+11	về	_	_	_	_	10	xcomp	_	_	vi
+12	.	_	_	_	_	4	punct	_	_	vi
+
+1	Không	_	_	_	_	2	advmod	_	_	vi
+2	biết	_	_	_	_	0	root	_	_	vi
+3	họ	_	_	_	_	4	nsubj	_	_	vi
+4	ở	_	_	_	_	2	ccomp	_	_	vi
+5	đâu	_	_	_	_	4	obj	_	_	vi
+6	.	_	_	_	_	2	punct	_	_	vi
+
+1	ông	_	_	_	_	2	compound	_	_	vi
+2	Quyền	_	_	_	_	3	nsubj	_	_	vi
+3	thú thật	_	_	_	_	0	root	_	_	vi
+4	thẻ	_	_	_	_	3	xcomp	_	_	vi
+5	TB	_	_	_	_	9	nsubj	_	_	vi
+6	có	_	_	_	_	9	ccomp	_	_	vi
+7	được	_	_	_	_	6	advmod	_	_	vi
+8	là	_	_	_	_	9	cop	_	_	vi
+9	nhờ	_	_	_	_	3	ccomp	_	_	vi
+10	một	_	_	_	_	11	nummod	_	_	vi
+11	người	_	_	_	_	9	obj	_	_	vi
+12	trong	_	_	_	_	13	case	_	_	vi
+13	xã	_	_	_	_	11	nmod	_	_	vi
+14	làm	_	_	_	_	9	ccomp	_	_	vi
+15	hộ	_	_	_	_	14	obj	_	_	vi
+16	.	_	_	_	_	3	punct	_	_	vi
+
+1	Tôi	_	_	_	_	2	nsubj	_	_	vi
+2	theo	_	_	_	_	0	root	_	_	vi
+3	ông	_	_	_	_	4	compound	_	_	vi
+4	Chính	_	_	_	_	2	obj	_	_	vi
+5	trong	_	_	_	_	6	case	_	_	vi
+6	vai	_	_	_	_	2	obl	_	_	vi
+7	người	_	_	_	_	2	obj	_	_	vi
+8	đi	_	_	_	_	7	xcomp	_	_	vi
+9	làm	_	_	_	_	8	xcomp	_	_	vi
+10	tb	_	_	_	_	8	obj	_	_	vi
+11	giả	_	_	_	_	10	amod	_	_	vi
+12	đến	_	_	_	_	13	case	_	_	vi
+13	xã	_	_	_	_	8	obl	_	_	vi
+14	Xuân Giang	_	_	_	_	13	compound	_	_	vi
+15	,	_	_	_	_	16	punct	_	_	vi
+16	thị trấn	_	_	_	_	19	nsubj	_	_	vi
+17	huyện	_	_	_	_	16	compound	_	_	vi
+18	Nghi Xuân	_	_	_	_	17	compound	_	_	vi
+19	gặp	_	_	_	_	2	ccomp	_	_	vi
+20	"	_	_	_	_	21	punct	_	_	vi
+21	trùm	_	_	_	_	19	obj	_	_	vi
+22	cò	_	_	_	_	19	obj	_	_	vi
+23	"	_	_	_	_	21	punct	_	_	vi
+24	Đ . T . K	_	_	_	_	22	compound	_	_	vi
+25	.	_	_	_	_	2	punct	_	_	vi
+
+1	Bỗng	_	_	_	_	2	advmod	_	_	vi
+2	k	_	_	_	_	4	nsubj	_	_	vi
+3	.	_	_	_	_	4	punct	_	_	vi
+4	nói	_	_	_	_	0	root	_	_	vi
+5	:	_	_	_	_	4	punct	_	_	vi
+6	"	_	_	_	_	4	punct	_	_	vi
+7	đây	_	_	_	_	11	obl	_	_	vi
+8	rồi	_	_	_	_	11	advmod	_	_	vi
+9	,	_	_	_	_	11	punct	_	_	vi
+10	chỉ	_	_	_	_	11	advmod	_	_	vi
+11	cần	_	_	_	_	4	ccomp	_	_	vi
+12	một	_	_	_	_	13	nummod	_	_	vi
+13	vết	_	_	_	_	11	obj	_	_	vi
+14	sẹo	_	_	_	_	13	compound	_	_	vi
+15	này	_	_	_	_	13	det	_	_	vi
+16	là	_	_	_	_	17	cop	_	_	vi
+17	làm	_	_	_	_	4	ccomp	_	_	vi
+18	được	_	_	_	_	17	advmod	_	_	vi
+19	TB	_	_	_	_	17	obj	_	_	vi
+20	!	_	_	_	_	4	punct	_	_	vi
+21	"	_	_	_	_	4	punct	_	_	vi
+22	.	_	_	_	_	4	punct	_	_	vi
+
+1	Các	_	_	_	_	2	det	_	_	vi
+2	website	_	_	_	_	16	nsubj	_	_	vi
+3	liên quan	_	_	_	_	16	csubj	_	_	vi
+4	đến	_	_	_	_	5	case	_	_	vi
+5	nông nghiệp	_	_	_	_	3	obl	_	_	vi
+6	,	_	_	_	_	7	punct	_	_	vi
+7	thị trường	_	_	_	_	5	conj	_	_	vi
+8	giá cả	_	_	_	_	5	compound	_	_	vi
+9	và	_	_	_	_	10	cc	_	_	vi
+10	trang web	_	_	_	_	3	conj	_	_	vi
+11	của	_	_	_	_	12	case	_	_	vi
+12	đh	_	_	_	_	10	nmod	_	_	vi
+13	Cần Thơ	_	_	_	_	12	compound	_	_	vi
+14	là	_	_	_	_	16	cop	_	_	vi
+15	những	_	_	_	_	16	det	_	_	vi
+16	địa chỉ	_	_	_	_	0	root	_	_	vi
+17	thân thuộc	_	_	_	_	16	amod	_	_	vi
+18	đối với	_	_	_	_	19	case	_	_	vi
+19	anh	_	_	_	_	16	nmod	_	_	vi
+20	.	_	_	_	_	16	punct	_	_	vi
+
+1	có	_	_	_	_	4	csubj	_	_	vi
+2	ống nhòm	_	_	_	_	1	obj	_	_	vi
+3	sẽ	_	_	_	_	4	advmod	_	_	vi
+4	xem	_	_	_	_	0	root	_	_	vi
+5	được	_	_	_	_	4	aux:pass	_	_	vi
+6	nhân công	_	_	_	_	7	nsubj	_	_	vi
+7	thao tác	_	_	_	_	4	ccomp	_	_	vi
+8	đúng	_	_	_	_	7	xcomp	_	_	vi
+9	hay	_	_	_	_	10	cc	_	_	vi
+10	sai	_	_	_	_	7	conj	_	_	vi
+11	"	_	_	_	_	4	punct	_	_	vi
+12	.	_	_	_	_	4	punct	_	_	vi
+
+1	Anh	_	_	_	_	2	nsubj	_	_	vi
+2	bảo	_	_	_	_	0	root	_	_	vi
+3	:	_	_	_	_	2	punct	_	_	vi
+4	"	_	_	_	_	2	punct	_	_	vi
+5	dày	_	_	_	_	2	ccomp	_	_	vi
+6	lá	_	_	_	_	5	obj	_	_	vi
+7	,	_	_	_	_	5	punct	_	_	vi
+8	to	_	_	_	_	10	nsubj	_	_	vi
+9	thân	_	_	_	_	8	compound	_	_	vi
+10	ít	_	_	_	_	5	conj	_	_	vi
+11	củ	_	_	_	_	10	xcomp	_	_	vi
+12	chứ	_	_	_	_	11	advmod	_	_	vi
+13	được	_	_	_	_	11	advmod	_	_	vi
+14	gì	_	_	_	_	11	obj	_	_	vi
+15	"	_	_	_	_	2	punct	_	_	vi
+16	.	_	_	_	_	2	punct	_	_	vi
+
+1	Cọc	_	_	_	_	0	root	_	_	vi
+2	trắng	_	_	_	_	1	amod	_	_	vi
+3	ruộng	_	_	_	_	1	obj	_	_	vi
+4	vườn	_	_	_	_	3	compound	_	_	vi
+5	...	_	_	_	_	1	punct	_	_	vi
+6	.	_	_	_	_	1	punct	_	_	vi
+
+1	Một	_	_	_	_	2	nummod	_	_	vi
+2	hợp đồng	_	_	_	_	4	nsubj	_	_	vi
+3	được	_	_	_	_	4	aux:pass	_	_	vi
+4	ký kết	_	_	_	_	0	root	_	_	vi
+5	,	_	_	_	_	4	punct	_	_	vi
+6	giá trị	_	_	_	_	9	nsubj	_	_	vi
+7	một	_	_	_	_	8	nummod	_	_	vi
+8	năm	_	_	_	_	6	compound	_	_	vi
+9	lên	_	_	_	_	4	parataxis	_	_	vi
+10	tới	_	_	_	_	13	case	_	_	vi
+11	cả	_	_	_	_	13	advmod	_	_	vi
+12	ngàn	_	_	_	_	13	nummod	_	_	vi
+13	usd	_	_	_	_	9	obl	_	_	vi
+14	.	_	_	_	_	4	punct	_	_	vi
+
+1	theo	_	_	_	_	2	case	_	_	vi
+2	lời	_	_	_	_	7	obl	_	_	vi
+3	ông	_	_	_	_	4	compound	_	_	vi
+4	Ngọc	_	_	_	_	2	nmod	_	_	vi
+5	,	_	_	_	_	7	punct	_	_	vi
+6	tôi	_	_	_	_	7	nsubj	_	_	vi
+7	tìm	_	_	_	_	0	root	_	_	vi
+8	đến	_	_	_	_	9	case	_	_	vi
+9	khu	_	_	_	_	7	obl	_	_	vi
+10	của	_	_	_	_	12	case	_	_	vi
+11	những	_	_	_	_	12	det	_	_	vi
+12	cụ già	_	_	_	_	9	nmod	_	_	vi
+13	còn	_	_	_	_	14	advmod	_	_	vi
+14	minh mẫn	_	_	_	_	9	amod	_	_	vi
+15	.	_	_	_	_	7	punct	_	_	vi
+
+1	Những	_	_	_	_	2	det	_	_	vi
+2	cụ	_	_	_	_	0	root	_	_	vi
+3	già	_	_	_	_	2	amod	_	_	vi
+4	ở	_	_	_	_	5	case	_	_	vi
+5	phòng	_	_	_	_	3	obl	_	_	vi
+6	VIP	_	_	_	_	5	compound	_	_	vi
+7	.	_	_	_	_	2	punct	_	_	vi
+
+1	sâu	_	_	_	_	9	csubj	_	_	vi
+2	vào	_	_	_	_	3	case	_	_	vi
+3	trong	_	_	_	_	1	obl	_	_	vi
+4	,	_	_	_	_	9	punct	_	_	vi
+5	dãy	_	_	_	_	9	nsubj	_	_	vi
+6	bên	_	_	_	_	5	compound	_	_	vi
+7	trái	_	_	_	_	6	nummod	_	_	vi
+8	là	_	_	_	_	9	cop	_	_	vi
+9	khu	_	_	_	_	0	root	_	_	vi
+10	chăm sóc	_	_	_	_	9	xcomp	_	_	vi
+11	những	_	_	_	_	12	det	_	_	vi
+12	cụ	_	_	_	_	10	obj	_	_	vi
+13	đã	_	_	_	_	14	advmod	_	_	vi
+14	lẫn	_	_	_	_	12	amod	_	_	vi
+15	.	_	_	_	_	9	punct	_	_	vi
+
+1	Gần	_	_	_	_	3	advmod	_	_	vi
+2	3	_	_	_	_	3	compound	_	_	vi
+3	tỉ	_	_	_	_	4	nummod	_	_	vi
+4	đồng	_	_	_	_	7	nsubj	_	_	vi
+5	đã	_	_	_	_	7	advmod	_	_	vi
+6	được	_	_	_	_	7	aux:pass	_	_	vi
+7	đổ	_	_	_	_	0	root	_	_	vi
+8	vào	_	_	_	_	7	advmod	_	_	vi
+9	để	_	_	_	_	7	case	_	_	vi
+10	cho	_	_	_	_	9	mark	_	_	vi
+11	ra	_	_	_	_	10	advmod	_	_	vi
+12	một	_	_	_	_	13	nummod	_	_	vi
+13	dịch vụ	_	_	_	_	10	obj	_	_	vi
+14	khá	_	_	_	_	15	advmod	_	_	vi
+15	hoàn thiện	_	_	_	_	13	amod	_	_	vi
+16	.	_	_	_	_	7	punct	_	_	vi
+
+1	có vẻ	_	_	_	_	0	root	_	_	vi
+2	đắt	_	_	_	_	1	xcomp	_	_	vi
+3	nhưng	_	_	_	_	4	cc	_	_	vi
+4	hỏi	_	_	_	_	1	conj	_	_	vi
+5	ra	_	_	_	_	4	advmod	_	_	vi
+6	một	_	_	_	_	8	nummod	_	_	vi
+7	người	_	_	_	_	8	compound	_	_	vi
+8	con	_	_	_	_	4	obj	_	_	vi
+9	vào	_	_	_	_	4	ccomp	_	_	vi
+10	thăm	_	_	_	_	9	xcomp	_	_	vi
+11	mẹ	_	_	_	_	9	obj	_	_	vi
+12	nói	_	_	_	_	4	ccomp	_	_	vi
+13	thật	_	_	_	_	12	advmod	_	_	vi
+14	với	_	_	_	_	15	case	_	_	vi
+15	tôi	_	_	_	_	12	obl	_	_	vi
+16	:	_	_	_	_	19	punct	_	_	vi
+17	"	_	_	_	_	19	punct	_	_	vi
+18	vẫn	_	_	_	_	19	advmod	_	_	vi
+19	kinh tế	_	_	_	_	12	ccomp	_	_	vi
+20	chán	_	_	_	_	19	xcomp	_	_	vi
+21	"	_	_	_	_	1	punct	_	_	vi
+22	.	_	_	_	_	1	punct	_	_	vi
+
+1	Cả	_	_	_	_	2	det	_	_	vi
+2	đời	_	_	_	_	3	nsubj	_	_	vi
+3	tích góp	_	_	_	_	0	root	_	_	vi
+4	,	_	_	_	_	3	punct	_	_	vi
+5	chẳng qua	_	_	_	_	9	advmod	_	_	vi
+6	các	_	_	_	_	7	det	_	_	vi
+7	cụ	_	_	_	_	9	nsubj	_	_	vi
+8	không	_	_	_	_	9	advmod	_	_	vi
+9	còn	_	_	_	_	3	conj	_	_	vi
+10	đủ	_	_	_	_	9	xcomp	_	_	vi
+11	sức lực	_	_	_	_	9	obj	_	_	vi
+12	để	_	_	_	_	9	case	_	_	vi
+13	thoát	_	_	_	_	12	mark	_	_	vi
+14	ra	_	_	_	_	13	advmod	_	_	vi
+15	khỏi	_	_	_	_	16	case	_	_	vi
+16	vòng	_	_	_	_	13	obl	_	_	vi
+17	tay	_	_	_	_	16	compound	_	_	vi
+18	của	_	_	_	_	19	case	_	_	vi
+19	con cháu	_	_	_	_	17	compound	_	_	vi
+20	thôi	_	_	_	_	3	discourse	_	_	vi
+21	.	_	_	_	_	3	punct	_	_	vi
+
+1	Các	_	_	_	_	2	det	_	_	vi
+2	cụ	_	_	_	_	5	nsubj	_	_	vi
+3	ở	_	_	_	_	4	case	_	_	vi
+4	đây	_	_	_	_	2	advcl	_	_	vi
+5	có	_	_	_	_	0	root	_	_	vi
+6	con	_	_	_	_	5	obj	_	_	vi
+7	là	_	_	_	_	8	cop	_	_	vi
+8	bộ trưởng	_	_	_	_	5	ccomp	_	_	vi
+9	,	_	_	_	_	10	punct	_	_	vi
+10	thứ trưởng	_	_	_	_	8	conj	_	_	vi
+11	,	_	_	_	_	12	punct	_	_	vi
+12	giám đốc	_	_	_	_	8	conj	_	_	vi
+13	rất	_	_	_	_	14	advmod	_	_	vi
+14	nhiều	_	_	_	_	12	amod	_	_	vi
+15	"	_	_	_	_	5	punct	_	_	vi
+16	.	_	_	_	_	5	punct	_	_	vi
+
+1	cụ	_	_	_	_	9	nsubj	_	_	vi
+2	.	_	_	_	_	1	punct	_	_	vi
+3	không	_	_	_	_	4	advmod	_	_	vi
+4	con cái	_	_	_	_	1	compound	_	_	vi
+5	,	_	_	_	_	9	punct	_	_	vi
+6	anh	_	_	_	_	7	compound	_	_	vi
+7	con nuôi	_	_	_	_	9	nsubj	_	_	vi
+8	luôn	_	_	_	_	9	advmod	_	_	vi
+9	mồm	_	_	_	_	0	root	_	_	vi
+10	đòi	_	_	_	_	9	xcomp	_	_	vi
+11	bán	_	_	_	_	10	xcomp	_	_	vi
+12	nhà	_	_	_	_	11	obj	_	_	vi
+13	.	_	_	_	_	9	punct	_	_	vi
+
+1	Công ty	_	_	_	_	2	nsubj	_	_	vi
+2	đồng ý	_	_	_	_	0	root	_	_	vi
+3	,	_	_	_	_	2	punct	_	_	vi
+4	cụ	_	_	_	_	2	conj	_	_	vi
+5	mãn nguyện	_	_	_	_	2	conj	_	_	vi
+6	,	_	_	_	_	7	punct	_	_	vi
+7	yên tâm	_	_	_	_	2	conj	_	_	vi
+8	sống	_	_	_	_	7	xcomp	_	_	vi
+9	ở	_	_	_	_	10	case	_	_	vi
+10	đây	_	_	_	_	8	obl	_	_	vi
+11	suốt	_	_	_	_	13	case	_	_	vi
+12	quãng	_	_	_	_	13	compound	_	_	vi
+13	đời	_	_	_	_	8	obl	_	_	vi
+14	còn	_	_	_	_	13	xcomp	_	_	vi
+15	lại	_	_	_	_	14	advmod	_	_	vi
+16	.	_	_	_	_	2	punct	_	_	vi
+
+1	Cứ	_	_	_	_	2	advmod	_	_	vi
+2	thấy	_	_	_	_	0	root	_	_	vi
+3	trẻ con	_	_	_	_	4	compound	_	_	vi
+4	mồ côi	_	_	_	_	6	nsubj	_	_	vi
+5	là	_	_	_	_	6	cop	_	_	vi
+6	tui	_	_	_	_	2	ccomp	_	_	vi
+7	dẫn	_	_	_	_	6	xcomp	_	_	vi
+8	về	_	_	_	_	9	case	_	_	vi
+9	nuôi	_	_	_	_	7	obl	_	_	vi
+10	.	_	_	_	_	2	punct	_	_	vi
+
+1	khách	_	_	_	_	5	nsubj	_	_	vi
+2	từ	_	_	_	_	3	case	_	_	vi
+3	miền	_	_	_	_	1	nmod	_	_	vi
+4	Nam	_	_	_	_	3	compound	_	_	vi
+5	ra	_	_	_	_	0	root	_	_	vi
+6	.	_	_	_	_	5	punct	_	_	vi
+
+1	ông	_	_	_	_	2	compound	_	_	vi
+2	Chương	_	_	_	_	4	nsubj	_	_	vi
+3	vẫn	_	_	_	_	4	advmod	_	_	vi
+4	nói	_	_	_	_	0	root	_	_	vi
+5	không	_	_	_	_	4	advmod	_	_	vi
+6	.	_	_	_	_	4	punct	_	_	vi
+
+1	Thiên duyên	_	_	_	_	0	root	_	_	vi
+2	.	_	_	_	_	1	punct	_	_	vi
+
+1	ông	_	_	_	_	2	compound	_	_	vi
+2	Chương	_	_	_	_	3	nsubj	_	_	vi
+3	kể	_	_	_	_	0	root	_	_	vi
+4	năm	_	_	_	_	3	obj	_	_	vi
+5	đầu tiên	_	_	_	_	4	amod	_	_	vi
+6	từ	_	_	_	_	7	case	_	_	vi
+7	Sài Gòn	_	_	_	_	4	nmod	_	_	vi
+8	ra	_	_	_	_	7	case	_	_	vi
+9	Hà Nội	_	_	_	_	8	obj	_	_	vi
+10	,	_	_	_	_	3	punct	_	_	vi
+11	ông	_	_	_	_	12	nsubj	_	_	vi
+12	bơ vơ	_	_	_	_	3	parataxis	_	_	vi
+13	trong	_	_	_	_	14	case	_	_	vi
+14	xa lạ	_	_	_	_	12	obl	_	_	vi
+15	và	_	_	_	_	16	cc	_	_	vi
+16	buồn tẻ	_	_	_	_	14	conj	_	_	vi
+17	.	_	_	_	_	3	punct	_	_	vi
+
+1	Ba	_	_	_	_	2	nummod	_	_	vi
+2	ngày	_	_	_	_	6	obl	_	_	vi
+3	sau	_	_	_	_	2	compound	_	_	vi
+4	ông	_	_	_	_	6	nsubj	_	_	vi
+5	đã	_	_	_	_	6	advmod	_	_	vi
+6	thực hiện	_	_	_	_	0	root	_	_	vi
+7	được	_	_	_	_	6	advmod	_	_	vi
+8	điều	_	_	_	_	6	obj	_	_	vi
+9	đó	_	_	_	_	8	det	_	_	vi
+10	.	_	_	_	_	6	punct	_	_	vi
+
+1	ông	_	_	_	_	2	compound	_	_	vi
+2	Chương	_	_	_	_	5	nsubj	_	_	vi
+3	chưa	_	_	_	_	5	advmod	_	_	vi
+4	từng	_	_	_	_	5	advmod	_	_	vi
+5	về	_	_	_	_	0	root	_	_	vi
+6	quê	_	_	_	_	5	obj	_	_	vi
+7	Kim	_	_	_	_	6	compound	_	_	vi
+8	và	_	_	_	_	11	cc	_	_	vi
+9	cũng	_	_	_	_	11	advmod	_	_	vi
+10	không	_	_	_	_	11	advmod	_	_	vi
+11	biết	_	_	_	_	5	conj	_	_	vi
+12	người thân	_	_	_	_	11	obj	_	_	vi
+13	nào	_	_	_	_	12	det	_	_	vi
+14	của	_	_	_	_	15	case	_	_	vi
+15	Kim	_	_	_	_	12	nmod	_	_	vi
+16	ngoài	_	_	_	_	17	case	_	_	vi
+17	bố	_	_	_	_	20	obl	_	_	vi
+18	cô	_	_	_	_	17	det	_	_	vi
+19	đã	_	_	_	_	20	advmod	_	_	vi
+20	mất	_	_	_	_	5	parataxis	_	_	vi
+21	.	_	_	_	_	5	punct	_	_	vi
+
+1	lần	_	_	_	_	9	nsubj	_	_	vi
+2	thứ	_	_	_	_	1	compound	_	_	vi
+3	hai	_	_	_	_	2	nummod	_	_	vi
+4	ông	_	_	_	_	5	compound	_	_	vi
+5	Chương	_	_	_	_	7	nsubj	_	_	vi
+6	bị	_	_	_	_	7	aux:pass	_	_	vi
+7	khủng bố	_	_	_	_	9	csubj	_	_	vi
+8	là	_	_	_	_	9	cop	_	_	vi
+9	chiều	_	_	_	_	0	root	_	_	vi
+10	chủ nhật	_	_	_	_	9	amod	_	_	vi
+11	,	_	_	_	_	9	punct	_	_	vi
+12	ông	_	_	_	_	15	nsubj	_	_	vi
+13	và	_	_	_	_	14	cc	_	_	vi
+14	Kim	_	_	_	_	12	conj	_	_	vi
+15	cùng	_	_	_	_	9	parataxis	_	_	vi
+16	ở	_	_	_	_	15	xcomp	_	_	vi
+17	nhà	_	_	_	_	16	obj	_	_	vi
+18	.	_	_	_	_	9	punct	_	_	vi
+
+1	Hùng	_	_	_	_	2	nsubj	_	_	vi
+2	nhận định	_	_	_	_	0	root	_	_	vi
+3	theo	_	_	_	_	6	case	_	_	vi
+4	cả	_	_	_	_	6	det	_	_	vi
+5	hai	_	_	_	_	6	nummod	_	_	vi
+6	hướng	_	_	_	_	11	obl	_	_	vi
+7	tốt	_	_	_	_	6	amod	_	_	vi
+8	và	_	_	_	_	9	cc	_	_	vi
+9	xấu	_	_	_	_	6	conj	_	_	vi
+10	đều	_	_	_	_	11	advmod	_	_	vi
+11	có	_	_	_	_	2	ccomp	_	_	vi
+12	cơ sở	_	_	_	_	11	obj	_	_	vi
+13	.	_	_	_	_	2	punct	_	_	vi
+
+1	Nhiều	_	_	_	_	2	amod	_	_	vi
+2	đồng bào	_	_	_	_	5	nsubj	_	_	vi
+3	,	_	_	_	_	4	punct	_	_	vi
+4	đồng chí	_	_	_	_	2	conj	_	_	vi
+5	hi sinh	_	_	_	_	0	root	_	_	vi
+6	.	_	_	_	_	5	punct	_	_	vi
+
+1	Khắp	_	_	_	_	0	root	_	_	vi
+2	các	_	_	_	_	4	det	_	_	vi
+3	ụ	_	_	_	_	4	compound	_	_	vi
+4	cây	_	_	_	_	1	obj	_	_	vi
+5	,	_	_	_	_	6	punct	_	_	vi
+6	khắp	_	_	_	_	1	conj	_	_	vi
+7	các	_	_	_	_	9	det	_	_	vi
+8	bìa	_	_	_	_	9	compound	_	_	vi
+9	rừng	_	_	_	_	4	conj	_	_	vi
+10	từng	_	_	_	_	11	det	_	_	vi
+11	nhóm	_	_	_	_	12	compound	_	_	vi
+12	người	_	_	_	_	1	obj	_	_	vi
+13	lố nhố	_	_	_	_	12	xcomp	_	_	vi
+14	.	_	_	_	_	1	punct	_	_	vi
+
+1	công việc	_	_	_	_	6	nsubj	_	_	vi
+2	anh hùng	_	_	_	_	1	compound	_	_	vi
+3	đó	_	_	_	_	1	det	_	_	vi
+4	không	_	_	_	_	6	advmod	_	_	vi
+5	chỉ	_	_	_	_	6	advmod	_	_	vi
+6	diễn	_	_	_	_	0	root	_	_	vi
+7	ra	_	_	_	_	6	advmod	_	_	vi
+8	một	_	_	_	_	9	nummod	_	_	vi
+9	tháng	_	_	_	_	6	obl	_	_	vi
+10	,	_	_	_	_	12	punct	_	_	vi
+11	một	_	_	_	_	12	nummod	_	_	vi
+12	năm	_	_	_	_	9	conj	_	_	vi
+13	.	_	_	_	_	6	punct	_	_	vi
+
+1	có	_	_	_	_	0	root	_	_	vi
+2	người	_	_	_	_	1	obj	_	_	vi
+3	vinh danh	_	_	_	_	2	xcomp	_	_	vi
+4	liệt sĩ	_	_	_	_	3	obj	_	_	vi
+5	anh hùng	_	_	_	_	4	compound	_	_	vi
+6	...	_	_	_	_	1	punct	_	_	vi
+
+1	gọi	_	_	_	_	0	root	_	_	vi
+2	là	_	_	_	_	1	cc	_	_	vi
+3	đúng	_	_	_	_	1	xcomp	_	_	vi
+4	quy cách	_	_	_	_	1	obj	_	_	vi
+5	chiều	_	_	_	_	4	compound	_	_	vi
+6	ngang	_	_	_	_	5	amod	_	_	vi
+7	,	_	_	_	_	8	punct	_	_	vi
+8	bề	_	_	_	_	4	conj	_	_	vi
+9	cao	_	_	_	_	5	amod	_	_	vi
+10	nhưng	_	_	_	_	22	cc	_	_	vi
+11	ở	_	_	_	_	14	case	_	_	vi
+12	rất	_	_	_	_	14	advmod	_	_	vi
+13	nhiều	_	_	_	_	14	amod	_	_	vi
+14	đoạn	_	_	_	_	22	obl	_	_	vi
+15	sự	_	_	_	_	22	nsubj	_	_	vi
+16	bố trí	_	_	_	_	15	xcomp	_	_	vi
+17	về	_	_	_	_	18	case	_	_	vi
+18	kích thước	_	_	_	_	16	obl	_	_	vi
+19	của	_	_	_	_	20	case	_	_	vi
+20	địa đạo	_	_	_	_	18	nmod	_	_	vi
+21	hết sức	_	_	_	_	22	advmod	_	_	vi
+22	lắt léo	_	_	_	_	1	conj	_	_	vi
+23	và	_	_	_	_	24	cc	_	_	vi
+24	thông minh	_	_	_	_	22	conj	_	_	vi
+25	.	_	_	_	_	1	punct	_	_	vi
+
+1	Tuy nhiên	_	_	_	_	7	cc	_	_	vi
+2	tất cả	_	_	_	_	3	det	_	_	vi
+3	kiểu	_	_	_	_	7	nsubj	_	_	vi
+4	ngụy trang	_	_	_	_	3	xcomp	_	_	vi
+5	đó	_	_	_	_	3	det	_	_	vi
+6	chỉ	_	_	_	_	7	advmod	_	_	vi
+7	che	_	_	_	_	0	root	_	_	vi
+8	được	_	_	_	_	7	advmod	_	_	vi
+9	mắt	_	_	_	_	7	obj	_	_	vi
+10	người	_	_	_	_	9	compound	_	_	vi
+11	chứ	_	_	_	_	13	cc	_	_	vi
+12	không	_	_	_	_	13	advmod	_	_	vi
+13	giấu	_	_	_	_	7	conj	_	_	vi
+14	được	_	_	_	_	13	advmod	_	_	vi
+15	mũi	_	_	_	_	13	obj	_	_	vi
+16	chó	_	_	_	_	15	compound	_	_	vi
+17	.	_	_	_	_	7	punct	_	_	vi
+
+1	hệ thống	_	_	_	_	8	nsubj	_	_	vi
+2	địa đạo	_	_	_	_	1	compound	_	_	vi
+3	dưới	_	_	_	_	4	case	_	_	vi
+4	lòng	_	_	_	_	1	nmod	_	_	vi
+5	đất	_	_	_	_	4	compound	_	_	vi
+6	còn	_	_	_	_	8	advmod	_	_	vi
+7	được	_	_	_	_	8	aux:pass	_	_	vi
+8	kết nối	_	_	_	_	0	root	_	_	vi
+9	với	_	_	_	_	10	case	_	_	vi
+10	hệ thống	_	_	_	_	8	obl	_	_	vi
+11	chiến hào	_	_	_	_	10	compound	_	_	vi
+12	chằng chịt	_	_	_	_	10	amod	_	_	vi
+13	trên	_	_	_	_	14	case	_	_	vi
+14	mặt đất	_	_	_	_	10	nmod	_	_	vi
+15	.	_	_	_	_	8	punct	_	_	vi
+
+1	"	_	_	_	_	7	punct	_	_	vi
+2	Nó	_	_	_	_	7	nsubj	_	_	vi
+3	khoảng	_	_	_	_	5	advmod	_	_	vi
+4	30	_	_	_	_	5	nummod	_	_	vi
+5	tuổi	_	_	_	_	7	obj	_	_	vi
+6	,	_	_	_	_	7	punct	_	_	vi
+7	mặc	_	_	_	_	0	root	_	_	vi
+8	áo	_	_	_	_	7	obj	_	_	vi
+9	kẻ	_	_	_	_	8	compound	_	_	vi
+10	,	_	_	_	_	11	punct	_	_	vi
+11	quần bò	_	_	_	_	8	conj	_	_	vi
+12	,	_	_	_	_	13	punct	_	_	vi
+13	ngồi	_	_	_	_	7	conj	_	_	vi
+14	trên	_	_	_	_	15	case	_	_	vi
+15	xe	_	_	_	_	13	obl	_	_	vi
+16	Dream	_	_	_	_	15	compound	_	_	vi
+17	II	_	_	_	_	15	nummod	_	_	vi
+18	,	_	_	_	_	19	punct	_	_	vi
+19	đội	_	_	_	_	15	conj	_	_	vi
+20	mũ	_	_	_	_	19	obj	_	_	vi
+21	đen	_	_	_	_	20	amod	_	_	vi
+22	.	_	_	_	_	7	punct	_	_	vi
+
+1	Hùng	_	_	_	_	2	nsubj	_	_	vi
+2	dặn	_	_	_	_	0	root	_	_	vi
+3	ông	_	_	_	_	4	compound	_	_	vi
+4	Chương	_	_	_	_	6	nsubj	_	_	vi
+5	cứ	_	_	_	_	6	advmod	_	_	vi
+6	ngồi	_	_	_	_	2	ccomp	_	_	vi
+7	trong	_	_	_	_	8	case	_	_	vi
+8	quán	_	_	_	_	6	obl	_	_	vi
+9	khoảng	_	_	_	_	11	advmod	_	_	vi
+10	một	_	_	_	_	11	nummod	_	_	vi
+11	tiếng	_	_	_	_	6	obl	_	_	vi
+12	nữa	_	_	_	_	11	advmod	_	_	vi
+13	rồi	_	_	_	_	14	cc	_	_	vi
+14	đi	_	_	_	_	6	conj	_	_	vi
+15	ra	_	_	_	_	14	advmod	_	_	vi
+16	bình thường	_	_	_	_	14	xcomp	_	_	vi
+17	.	_	_	_	_	2	punct	_	_	vi
+
+1	Và	_	_	_	_	6	cc	_	_	vi
+2	như vậy	_	_	_	_	6	cc	_	_	vi
+3	các	_	_	_	_	4	det	_	_	vi
+4	thám tử	_	_	_	_	6	nsubj	_	_	vi
+5	đã	_	_	_	_	6	advmod	_	_	vi
+6	lộ	_	_	_	_	0	root	_	_	vi
+7	diện	_	_	_	_	6	advmod	_	_	vi
+8	với	_	_	_	_	9	case	_	_	vi
+9	tên	_	_	_	_	6	obl	_	_	vi
+10	áo	_	_	_	_	9	compound	_	_	vi
+11	kẻ	_	_	_	_	10	compound	_	_	vi
+12	.	_	_	_	_	6	punct	_	_	vi
+
+1	điều	_	_	_	_	4	nsubj	_	_	vi
+2	này	_	_	_	_	1	det	_	_	vi
+3	cũng	_	_	_	_	4	advmod	_	_	vi
+4	có nghĩa	_	_	_	_	0	root	_	_	vi
+5	đã	_	_	_	_	6	advmod	_	_	vi
+6	lộ	_	_	_	_	4	xcomp	_	_	vi
+7	việc	_	_	_	_	11	obj	_	_	vi
+8	ông	_	_	_	_	9	compound	_	_	vi
+9	Chương	_	_	_	_	11	nsubj	_	_	vi
+10	đang	_	_	_	_	11	advmod	_	_	vi
+11	nhờ	_	_	_	_	6	ccomp	_	_	vi
+12	người	_	_	_	_	11	obj	_	_	vi
+13	điều tra	_	_	_	_	12	xcomp	_	_	vi
+14	kẻ	_	_	_	_	13	obj	_	_	vi
+15	khủng bố	_	_	_	_	14	compound	_	_	vi
+16	.	_	_	_	_	4	punct	_	_	vi
+
+1	đợi	_	_	_	_	0	root	_	_	vi
+2	nhân viên	_	_	_	_	1	obj	_	_	vi
+3	phục vụ	_	_	_	_	1	ccomp	_	_	vi
+4	đang	_	_	_	_	5	advmod	_	_	vi
+5	hỏi	_	_	_	_	1	ccomp	_	_	vi
+6	các	_	_	_	_	7	det	_	_	vi
+7	thám tử	_	_	_	_	5	obj	_	_	vi
+8	,	_	_	_	_	9	punct	_	_	vi
+9	tên	_	_	_	_	7	conj	_	_	vi
+10	áo	_	_	_	_	9	compound	_	_	vi
+11	kẻ	_	_	_	_	10	compound	_	_	vi
+12	vùng	_	_	_	_	10	compound	_	_	vi
+13	chạy	_	_	_	_	10	xcomp	_	_	vi
+14	ra	_	_	_	_	15	case	_	_	vi
+15	xe	_	_	_	_	13	obj	_	_	vi
+16	nổ	_	_	_	_	15	xcomp	_	_	vi
+17	máy	_	_	_	_	18	obj	_	_	vi
+18	phóng	_	_	_	_	15	xcomp	_	_	vi
+19	đi	_	_	_	_	18	advmod	_	_	vi
+20	luôn	_	_	_	_	18	advmod	_	_	vi
+21	.	_	_	_	_	1	punct	_	_	vi
+
+1	thủ phạm	_	_	_	_	2	nsubj	_	_	vi
+2	đằng	_	_	_	_	0	root	_	_	vi
+3	sau	_	_	_	_	4	case	_	_	vi
+4	thủ phạm	_	_	_	_	2	obj	_	_	vi
+5	.	_	_	_	_	1	punct	_	_	vi
+
+1	Hùng	_	_	_	_	2	advmod	_	_	vi
+2	chờ	_	_	_	_	0	root	_	_	vi
+3	phản ứng	_	_	_	_	2	xcomp	_	_	vi
+4	...	_	_	_	_	2	punct	_	_	vi
+
+1	Như vậy	_	_	_	_	3	cc	_	_	vi
+2	có thể	_	_	_	_	3	aux	_	_	vi
+3	có	_	_	_	_	0	root	_	_	vi
+4	người	_	_	_	_	3	obj	_	_	vi
+5	đã	_	_	_	_	6	advmod	_	_	vi
+6	tham mưu	_	_	_	_	4	xcomp	_	_	vi
+7	cho	_	_	_	_	8	case	_	_	vi
+8	vợ	_	_	_	_	6	obl	_	_	vi
+9	ông	_	_	_	_	10	compound	_	_	vi
+10	Chương	_	_	_	_	8	compound	_	_	vi
+11	!	_	_	_	_	3	punct	_	_	vi
+12	?	_	_	_	_	3	punct	_	_	vi
+
+1	Ông	_	_	_	_	2	nsubj	_	_	vi
+2	kể	_	_	_	_	0	root	_	_	vi
+3	:	_	_	_	_	2	punct	_	_	vi
+4	vợ	_	_	_	_	2	nsubj	_	_	vi
+5	ông	_	_	_	_	4	compound	_	_	vi
+6	hiền thục	_	_	_	_	2	ccomp	_	_	vi
+7	,	_	_	_	_	8	punct	_	_	vi
+8	mộc mạc	_	_	_	_	6	conj	_	_	vi
+9	,	_	_	_	_	10	punct	_	_	vi
+10	chất phác	_	_	_	_	8	conj	_	_	vi
+11	.	_	_	_	_	2	punct	_	_	vi
+
+1	Con cái	_	_	_	_	2	nsubj	_	_	vi
+2	đàng hoàng	_	_	_	_	0	root	_	_	vi
+3	,	_	_	_	_	4	punct	_	_	vi
+4	ngoan	_	_	_	_	2	conj	_	_	vi
+5	,	_	_	_	_	6	punct	_	_	vi
+6	khỏe	_	_	_	_	2	conj	_	_	vi
+7	.	_	_	_	_	2	punct	_	_	vi
+
+1	ông	_	_	_	_	8	nsubj	_	_	vi
+2	và	_	_	_	_	3	cc	_	_	vi
+3	Kim	_	_	_	_	1	conj	_	_	vi
+4	thật ra	_	_	_	_	8	obl	_	_	vi
+5	cũng	_	_	_	_	8	advmod	_	_	vi
+6	chưa	_	_	_	_	8	advmod	_	_	vi
+7	bao giờ	_	_	_	_	8	obl	_	_	vi
+8	muốn	_	_	_	_	0	root	_	_	vi
+9	ràng buộc	_	_	_	_	8	xcomp	_	_	vi
+10	nhau	_	_	_	_	9	obj	_	_	vi
+11	...	_	_	_	_	8	punct	_	_	vi
+
+1	ông	_	_	_	_	2	compound	_	_	vi
+2	Chương	_	_	_	_	3	nsubj	_	_	vi
+3	giật mình	_	_	_	_	0	root	_	_	vi
+4	và	_	_	_	_	5	cc	_	_	vi
+5	kể	_	_	_	_	3	conj	_	_	vi
+6	:	_	_	_	_	3	punct	_	_	vi
+7	hai	_	_	_	_	8	nummod	_	_	vi
+8	bà	_	_	_	_	10	nsubj	_	_	vi
+9	này	_	_	_	_	8	det	_	_	vi
+10	thân	_	_	_	_	3	ccomp	_	_	vi
+11	nhau	_	_	_	_	10	obj	_	_	vi
+12	như	_	_	_	_	13	cc	_	_	vi
+13	ruột thịt	_	_	_	_	10	obj	_	_	vi
+14	từ	_	_	_	_	15	case	_	_	vi
+15	bé	_	_	_	_	13	nmod	_	_	vi
+16	.	_	_	_	_	3	punct	_	_	vi
+
+1	do	_	_	_	_	3	case	_	_	vi
+2	không	_	_	_	_	3	advmod	_	_	vi
+3	thấy	_	_	_	_	9	advcl	_	_	vi
+4	ông	_	_	_	_	3	obj	_	_	vi
+5	ở	_	_	_	_	6	case	_	_	vi
+6	nhà	_	_	_	_	3	obl	_	_	vi
+7	,	_	_	_	_	9	punct	_	_	vi
+8	chúng	_	_	_	_	9	nsubj	_	_	vi
+9	quay	_	_	_	_	0	root	_	_	vi
+10	sang	_	_	_	_	9	xcomp	_	_	vi
+11	tấn công	_	_	_	_	9	xcomp	_	_	vi
+12	phía	_	_	_	_	11	obj	_	_	vi
+13	cơ quan	_	_	_	_	12	compound	_	_	vi
+14	thì	_	_	_	_	16	cc	_	_	vi
+15	không	_	_	_	_	16	advmod	_	_	vi
+16	hay	_	_	_	_	9	conj	_	_	vi
+17	cho	_	_	_	_	18	case	_	_	vi
+18	ông	_	_	_	_	16	obl	_	_	vi
+19	.	_	_	_	_	9	punct	_	_	vi
+
+1	mục đích	_	_	_	_	7	nsubj	_	_	vi
+2	của	_	_	_	_	4	case	_	_	vi
+3	hai	_	_	_	_	4	nummod	_	_	vi
+4	bà	_	_	_	_	1	nmod	_	_	vi
+5	là	_	_	_	_	7	cop	_	_	vi
+6	ông	_	_	_	_	7	compound	_	_	vi
+7	Chương	_	_	_	_	0	root	_	_	vi
+8	chán	_	_	_	_	7	xcomp	_	_	vi
+9	Hà Nội	_	_	_	_	7	compound	_	_	vi
+10	,	_	_	_	_	11	punct	_	_	vi
+11	xin	_	_	_	_	7	conj	_	_	vi
+12	về	_	_	_	_	11	xcomp	_	_	vi
+13	.	_	_	_	_	7	punct	_	_	vi
+
+1	Nhưng	_	_	_	_	2	cc	_	_	vi
+2	bắn	_	_	_	_	0	root	_	_	vi
+3	tin	_	_	_	_	2	obj	_	_	vi
+4	qua	_	_	_	_	5	case	_	_	vi
+5	ai	_	_	_	_	2	obl	_	_	vi
+6	để	_	_	_	_	7	case	_	_	vi
+7	có	_	_	_	_	2	mark	_	_	vi
+8	hiệu quả	_	_	_	_	7	obj	_	_	vi
+9	và	_	_	_	_	10	cc	_	_	vi
+10	hợp lý	_	_	_	_	8	conj	_	_	vi
+11	?	_	_	_	_	2	punct	_	_	vi
+
+1	sau	_	_	_	_	2	case	_	_	vi
+2	cuộc	_	_	_	_	13	obl	_	_	vi
+3	gặp gỡ	_	_	_	_	2	xcomp	_	_	vi
+4	này	_	_	_	_	2	det	_	_	vi
+5	,	_	_	_	_	13	punct	_	_	vi
+6	một	_	_	_	_	7	nummod	_	_	vi
+7	tháng	_	_	_	_	13	obl	_	_	vi
+8	tiếp theo	_	_	_	_	7	amod	_	_	vi
+9	ông	_	_	_	_	10	compound	_	_	vi
+10	Chương	_	_	_	_	13	nsubj	_	_	vi
+11	không	_	_	_	_	13	advmod	_	_	vi
+12	phải	_	_	_	_	13	aux	_	_	vi
+13	nhận	_	_	_	_	0	root	_	_	vi
+14	lá	_	_	_	_	15	compound	_	_	vi
+15	thư	_	_	_	_	13	obj	_	_	vi
+16	hay	_	_	_	_	18	cc	_	_	vi
+17	sự	_	_	_	_	15	conj	_	_	vi
+18	đe dọa	_	_	_	_	15	conj	_	_	vi
+19	khủng bố	_	_	_	_	18	amod	_	_	vi
+20	nào	_	_	_	_	17	det	_	_	vi
+21	nữa	_	_	_	_	13	advmod	_	_	vi
+22	.	_	_	_	_	13	punct	_	_	vi
+
+1	tại	_	_	_	_	2	case	_	_	vi
+2	Tampoi	_	_	_	_	15	advcl	_	_	vi
+3	,	_	_	_	_	15	punct	_	_	vi
+4	con	_	_	_	_	5	compound	_	_	vi
+5	đường	_	_	_	_	15	nsubj	_	_	vi
+6	dọc	_	_	_	_	5	xcomp	_	_	vi
+7	hành lang	_	_	_	_	6	obj	_	_	vi
+8	vào	_	_	_	_	9	case	_	_	vi
+9	thị trấn	_	_	_	_	7	nmod	_	_	vi
+10	kéo dài	_	_	_	_	7	xcomp	_	_	vi
+11	hàng	_	_	_	_	13	advmod	_	_	vi
+12	trăm	_	_	_	_	13	nummod	_	_	vi
+13	mét	_	_	_	_	10	obj	_	_	vi
+14	là	_	_	_	_	15	cop	_	_	vi
+15	nơi	_	_	_	_	0	root	_	_	vi
+16	tụ hội	_	_	_	_	15	xcomp	_	_	vi
+17	hẹn hò	_	_	_	_	16	xcomp	_	_	vi
+18	và	_	_	_	_	19	cc	_	_	vi
+19	tìm	_	_	_	_	17	conj	_	_	vi
+20	bạn	_	_	_	_	19	obj	_	_	vi
+21	của	_	_	_	_	22	case	_	_	vi
+22	lđ	_	_	_	_	20	nmod	_	_	vi
+23	VN	_	_	_	_	22	compound	_	_	vi
+24	.	_	_	_	_	15	punct	_	_	vi
+
+1	Năm	_	_	_	_	3	nummod	_	_	vi
+2	cô	_	_	_	_	3	compound	_	_	vi
+3	gái	_	_	_	_	7	nsubj	_	_	vi
+4	phòng	_	_	_	_	3	compound	_	_	vi
+5	321	_	_	_	_	4	nummod	_	_	vi
+6	được	_	_	_	_	7	aux:pass	_	_	vi
+7	chia	_	_	_	_	0	root	_	_	vi
+8	hai	_	_	_	_	9	nummod	_	_	vi
+9	ca	_	_	_	_	7	obj	_	_	vi
+10	làm việc	_	_	_	_	9	xcomp	_	_	vi
+11	:	_	_	_	_	9	punct	_	_	vi
+12	ca	_	_	_	_	9	appos	_	_	vi
+13	23	_	_	_	_	14	nummod	_	_	vi
+14	g	_	_	_	_	10	obj	_	_	vi
+15	và	_	_	_	_	18	cc	_	_	vi
+16	ca	_	_	_	_	14	conj	_	_	vi
+17	7	_	_	_	_	18	nummod	_	_	vi
+18	g	_	_	_	_	12	conj	_	_	vi
+19	.	_	_	_	_	7	punct	_	_	vi
+
+1	Những	_	_	_	_	3	det	_	_	vi
+2	cô	_	_	_	_	3	compound	_	_	vi
+3	gái	_	_	_	_	11	nsubj	_	_	vi
+4	ở	_	_	_	_	5	case	_	_	vi
+5	độ	_	_	_	_	11	obl	_	_	vi
+6	tuổi	_	_	_	_	5	compound	_	_	vi
+7	18	_	_	_	_	6	nummod	_	_	vi
+8	-	_	_	_	_	9	punct	_	_	vi
+9	25	_	_	_	_	6	conj	_	_	vi
+10	rất	_	_	_	_	11	advmod	_	_	vi
+11	trẻ	_	_	_	_	0	root	_	_	vi
+12	mà	_	_	_	_	13	cc	_	_	vi
+13	có vẻ	_	_	_	_	11	conj	_	_	vi
+14	buồn	_	_	_	_	13	xcomp	_	_	vi
+15	quá	_	_	_	_	14	advmod	_	_	vi
+16	.	_	_	_	_	11	punct	_	_	vi
+
+1	tan	_	_	_	_	0	root	_	_	vi
+2	ca	_	_	_	_	1	xcomp	_	_	vi
+3	,	_	_	_	_	1	punct	_	_	vi
+4	về	_	_	_	_	1	conj	_	_	vi
+5	tụm	_	_	_	_	4	xcomp	_	_	vi
+6	với	_	_	_	_	7	case	_	_	vi
+7	nhau	_	_	_	_	4	obl	_	_	vi
+8	,	_	_	_	_	9	punct	_	_	vi
+9	ôm	_	_	_	_	1	conj	_	_	vi
+10	cái	_	_	_	_	11	compound	_	_	vi
+11	tivi	_	_	_	_	9	obj	_	_	vi
+12	là	_	_	_	_	13	cop	_	_	vi
+13	hết	_	_	_	_	1	parataxis	_	_	vi
+14	...	_	_	_	_	1	punct	_	_	vi
+
+1	bắt đầu	_	_	_	_	0	root	_	_	vi
+2	là	_	_	_	_	1	cc	_	_	vi
+3	những	_	_	_	_	4	det	_	_	vi
+4	câu chuyện	_	_	_	_	1	obj	_	_	vi
+5	về	_	_	_	_	6	case	_	_	vi
+6	gia đình	_	_	_	_	4	nmod	_	_	vi
+7	,	_	_	_	_	8	punct	_	_	vi
+8	bạn bè	_	_	_	_	6	conj	_	_	vi
+9	,	_	_	_	_	10	punct	_	_	vi
+10	hàng xóm	_	_	_	_	6	conj	_	_	vi
+11	cũ	_	_	_	_	10	amod	_	_	vi
+12	...	_	_	_	_	15	punct	_	_	vi
+13	dường như	_	_	_	_	15	advmod	_	_	vi
+14	đã	_	_	_	_	15	advmod	_	_	vi
+15	thành	_	_	_	_	1	parataxis	_	_	vi
+16	một	_	_	_	_	17	nummod	_	_	vi
+17	thói quen	_	_	_	_	15	obj	_	_	vi
+18	.	_	_	_	_	1	punct	_	_	vi
+
+1	Đó	_	_	_	_	3	nsubj	_	_	vi
+2	là	_	_	_	_	3	cop	_	_	vi
+3	chuyện	_	_	_	_	0	root	_	_	vi
+4	buồn	_	_	_	_	3	amod	_	_	vi
+5	nhất	_	_	_	_	4	advmod	_	_	vi
+6	trong	_	_	_	_	7	case	_	_	vi
+7	đêm	_	_	_	_	3	nmod	_	_	vi
+8	ở	_	_	_	_	9	case	_	_	vi
+9	Mour	_	_	_	_	7	nmod	_	_	vi
+10	...	_	_	_	_	3	punct	_	_	vi
+
+1	xung quanh	_	_	_	_	5	advcl	_	_	vi
+2	ổ	_	_	_	_	5	obl	_	_	vi
+3	chiến đấu	_	_	_	_	2	compound	_	_	vi
+4	được	_	_	_	_	5	aux:pass	_	_	vi
+5	bố trí	_	_	_	_	0	root	_	_	vi
+6	dày đặc	_	_	_	_	5	xcomp	_	_	vi
+7	các	_	_	_	_	9	det	_	_	vi
+8	kiểu	_	_	_	_	9	compound	_	_	vi
+9	hầm	_	_	_	_	6	obj	_	_	vi
+10	chông	_	_	_	_	9	compound	_	_	vi
+11	,	_	_	_	_	12	punct	_	_	vi
+12	hố	_	_	_	_	9	conj	_	_	vi
+13	chông	_	_	_	_	12	compound	_	_	vi
+14	.	_	_	_	_	5	punct	_	_	vi
+
+1	Du kích	_	_	_	_	2	nsubj	_	_	vi
+2	rút	_	_	_	_	0	root	_	_	vi
+3	êm	_	_	_	_	2	xcomp	_	_	vi
+4	xuống	_	_	_	_	5	case	_	_	vi
+5	lòng	_	_	_	_	2	obl	_	_	vi
+6	đất	_	_	_	_	5	compound	_	_	vi
+7	.	_	_	_	_	2	punct	_	_	vi
+
+1	Đây	_	_	_	_	3	nsubj	_	_	vi
+2	là	_	_	_	_	3	cop	_	_	vi
+3	trận	_	_	_	_	0	root	_	_	vi
+4	đầu tiên	_	_	_	_	3	amod	_	_	vi
+5	đi	_	_	_	_	3	xcomp	_	_	vi
+6	vào	_	_	_	_	7	case	_	_	vi
+7	lịch sử	_	_	_	_	5	obl	_	_	vi
+8	khi	_	_	_	_	3	nmod	_	_	vi
+9	quân dân	_	_	_	_	11	nsubj	_	_	vi
+10	Củ Chi	_	_	_	_	9	compound	_	_	vi
+11	buộc	_	_	_	_	3	ccomp	_	_	vi
+12	xe tăng	_	_	_	_	11	obj	_	_	vi
+13	địch	_	_	_	_	12	compound	_	_	vi
+14	bỏ xác	_	_	_	_	11	ccomp	_	_	vi
+15	tại	_	_	_	_	16	case	_	_	vi
+16	chiến trường	_	_	_	_	14	obl	_	_	vi
+17	bằng	_	_	_	_	16	case	_	_	vi
+18	...	_	_	_	_	3	punct	_	_	vi
+19	lựu đạn	_	_	_	_	16	compound	_	_	vi
+20	.	_	_	_	_	3	punct	_	_	vi
+
+1	cái	_	_	_	_	2	compound	_	_	vi
+2	bẫy	_	_	_	_	4	nsubj	_	_	vi
+3	"	_	_	_	_	4	punct	_	_	vi
+4	sập	_	_	_	_	0	root	_	_	vi
+5	lại	_	_	_	_	4	advmod	_	_	vi
+6	"	_	_	_	_	4	punct	_	_	vi
+7	và	_	_	_	_	12	cc	_	_	vi
+8	chính	_	_	_	_	9	det	_	_	vi
+9	bọn	_	_	_	_	12	nsubj	_	_	vi
+10	Mỹ	_	_	_	_	9	compound	_	_	vi
+11	đã	_	_	_	_	12	advmod	_	_	vi
+12	đưa	_	_	_	_	4	conj	_	_	vi
+13	mình	_	_	_	_	12	obj	_	_	vi
+14	vào	_	_	_	_	15	case	_	_	vi
+15	rọ	_	_	_	_	12	obl	_	_	vi
+16	.	_	_	_	_	4	punct	_	_	vi
+
+1	Máu	_	_	_	_	2	nsubj	_	_	vi
+2	nhuộm	_	_	_	_	0	root	_	_	vi
+3	từng	_	_	_	_	4	det	_	_	vi
+4	đoạn	_	_	_	_	2	obj	_	_	vi
+5	hào	_	_	_	_	4	compound	_	_	vi
+6	,	_	_	_	_	8	punct	_	_	vi
+7	từng	_	_	_	_	8	advmod	_	_	vi
+8	khúc	_	_	_	_	5	conj	_	_	vi
+9	địa đạo	_	_	_	_	8	compound	_	_	vi
+10	.	_	_	_	_	2	punct	_	_	vi
+
+1	Chỉ	_	_	_	_	5	advmod	_	_	vi
+2	riêng	_	_	_	_	5	advcl	_	_	vi
+3	xã	_	_	_	_	5	nsubj	_	_	vi
+4	Nhuận Đức	_	_	_	_	3	compound	_	_	vi
+5	có	_	_	_	_	0	root	_	_	vi
+6	trên	_	_	_	_	9	advmod	_	_	vi
+7	600	_	_	_	_	9	nummod	_	_	vi
+8	anh hùng	_	_	_	_	9	compound	_	_	vi
+9	liệt sĩ	_	_	_	_	5	obj	_	_	vi
+10	;	_	_	_	_	5	punct	_	_	vi
+11	toàn	_	_	_	_	13	nsubj	_	_	vi
+12	củ chi	_	_	_	_	11	xcomp	_	_	vi
+13	có	_	_	_	_	5	parataxis	_	_	vi
+14	trên	_	_	_	_	16	advmod	_	_	vi
+15	10 . 000	_	_	_	_	16	nummod	_	_	vi
+16	liệt sĩ	_	_	_	_	13	obj	_	_	vi
+17	.	_	_	_	_	5	punct	_	_	vi
+
+1	ông	_	_	_	_	2	compound	_	_	vi
+2	Chín Ảnh	_	_	_	_	3	nsubj	_	_	vi
+3	nói	_	_	_	_	0	root	_	_	vi
+4	trong	_	_	_	_	5	case	_	_	vi
+5	nỗi	_	_	_	_	3	obl	_	_	vi
+6	buồn	_	_	_	_	5	amod	_	_	vi
+7	vô hạn	_	_	_	_	6	advmod	_	_	vi
+8	:	_	_	_	_	3	punct	_	_	vi
+9	"	_	_	_	_	3	punct	_	_	vi
+10	căm thù	_	_	_	_	11	nsubj	_	_	vi
+11	giặc	_	_	_	_	3	ccomp	_	_	vi
+12	quá	_	_	_	_	11	advmod	_	_	vi
+13	mà	_	_	_	_	14	cc	_	_	vi
+14	đánh	_	_	_	_	11	conj	_	_	vi
+15	chí chết	_	_	_	_	14	obj	_	_	vi
+16	mới	_	_	_	_	17	advmod	_	_	vi
+17	thôi	_	_	_	_	3	ccomp	_	_	vi
+18	.	_	_	_	_	3	punct	_	_	vi
+
+1	thấy	_	_	_	_	7	advcl	_	_	vi
+2	bạn bè	_	_	_	_	3	nsubj	_	_	vi
+3	ngã	_	_	_	_	1	ccomp	_	_	vi
+4	xuống	_	_	_	_	3	advmod	_	_	vi
+5	thì	_	_	_	_	7	cc	_	_	vi
+6	mình	_	_	_	_	7	nsubj	_	_	vi
+7	tiến	_	_	_	_	0	root	_	_	vi
+8	lên	_	_	_	_	7	xcomp	_	_	vi
+9	.	_	_	_	_	7	punct	_	_	vi
+
+1	đẻ	_	_	_	_	0	root	_	_	vi
+2	bốn	_	_	_	_	4	nummod	_	_	vi
+3	đứa	_	_	_	_	4	compound	_	_	vi
+4	con	_	_	_	_	1	obj	_	_	vi
+5	,	_	_	_	_	6	punct	_	_	vi
+6	nuôi	_	_	_	_	1	conj	_	_	vi
+7	đứa	_	_	_	_	6	obj	_	_	vi
+8	nào	_	_	_	_	7	det	_	_	vi
+9	cũng	_	_	_	_	10	advmod	_	_	vi
+10	mạnh	_	_	_	_	1	conj	_	_	vi
+11	khù	_	_	_	_	10	advmod	_	_	vi
+12	!	_	_	_	_	1	punct	_	_	vi
+13	"	_	_	_	_	1	punct	_	_	vi
+14	.	_	_	_	_	1	punct	_	_	vi
+
+1	xung quanh	_	_	_	_	11	advcl	_	_	vi
+2	nghề nghiệp	_	_	_	_	11	obl	_	_	vi
+3	nơi	_	_	_	_	11	nsubj	_	_	vi
+4	"	_	_	_	_	5	punct	_	_	vi
+5	rừng	_	_	_	_	3	compound	_	_	vi
+6	trong	_	_	_	_	7	case	_	_	vi
+7	phố	_	_	_	_	5	nmod	_	_	vi
+8	"	_	_	_	_	5	punct	_	_	vi
+9	của	_	_	_	_	10	case	_	_	vi
+10	họ	_	_	_	_	5	nmod	_	_	vi
+11	có	_	_	_	_	0	root	_	_	vi
+12	những	_	_	_	_	13	det	_	_	vi
+13	câu chuyện	_	_	_	_	11	obj	_	_	vi
+14	nhớ đời	_	_	_	_	13	xcomp	_	_	vi
+15	!	_	_	_	_	11	punct	_	_	vi
+
+1	Hai	_	_	_	_	3	nummod	_	_	vi
+2	con	_	_	_	_	3	compound	_	_	vi
+3	hổ	_	_	_	_	6	nsubj	_	_	vi
+4	vằn	_	_	_	_	3	compound	_	_	vi
+5	đen	_	_	_	_	3	amod	_	_	vi
+6	mượt	_	_	_	_	0	root	_	_	vi
+7	như	_	_	_	_	8	cc	_	_	vi
+8	nhung	_	_	_	_	6	conj	_	_	vi
+9	,	_	_	_	_	10	punct	_	_	vi
+10	nhe	_	_	_	_	6	conj	_	_	vi
+11	răng	_	_	_	_	10	obj	_	_	vi
+12	gầm	_	_	_	_	10	xcomp	_	_	vi
+13	vang	_	_	_	_	12	xcomp	_	_	vi
+14	sung sướng	_	_	_	_	12	xcomp	_	_	vi
+15	.	_	_	_	_	6	punct	_	_	vi
+
