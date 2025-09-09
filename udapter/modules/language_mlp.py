@@ -37,7 +37,7 @@ class LanguageMLP(nn.Module):
 
         lang_vector = self._encode_language_ids(lang_ids, self.do_onehot)
 
-        lang_emb = self.nonlinear_project(torch.tensor(lang_vector).float().to(lang_ids.device))
+        lang_emb = self.nonlinear_project(torch.tensor(lang_vector).to(lang_ids.device))
         lang_emb = self.activation(lang_emb)
         lang_emb = self.down_project(lang_emb)
         lang_emb = self.dropout(lang_emb)
