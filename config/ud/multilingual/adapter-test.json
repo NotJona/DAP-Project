@@ -118,7 +118,7 @@
     "maximum_samples_per_batch": ["num_tokens", 3200]
   },
   "trainer": {
-    "num_epochs": 80,
+    "num_epochs": 10,
     "patience": 80,
     "num_serialized_models_to_keep": 1,
     "should_log_learning_rate": true,
